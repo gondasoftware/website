@@ -8,14 +8,14 @@
     "takeoff.nameOfTheTakeoff": "Name of the current takeoff.",
     "takeoff.nameOfTheTakeoffCategors": "Category of the current takeoff.",
     "takeoff.nameOfTheTakeoffPage": "Page of the current takeoff.",
-    "takeoff.openCloseTakeoffWindow": "Toggle the Takeoff manager window.",
-    "takeoff.openClosePlanWindow": "Toggle the Plan manager window.",
+    "takeoff.openCloseTakeoffWindow": "Open / close the takeoff manager window.",
+    "takeoff.openClosePlanWindow": "Open / close the plan manager window.",
     "takeoff.freezePlan": "Lock the plan image.",
     "takeoff.freezeDrawing": "Lock the takeoff overlay.",
     "save": "Save",
     "load": "Load",
-    "takeoff.saveLoadPlanPart": "Include the plan part when saving/loading.",
-    "takeoff.saveLoadDrawingPart": "Include the takeoff part when saving/loading.",
+    "takeoff.saveLoadPlanPart": "Include the plan part when saving / loading.",
+    "takeoff.saveLoadDrawingPart": "Include the takeoff part when saving / loading.",
     "length": "Length",
     "takeoff.selectedTakeoffMeasurementUnit": "Measurement unit for the takeoff (quantity, length, area, volume).",
     "takeoff.planScalerLineLength": "Length of the Plan Scalar Line in the selected measurement unit.",
@@ -31,13 +31,13 @@
     "takeoff.lengthArcAndLineChainDraw": "Activate arc and line chain takeoff drawing element to specify length.",
     "takeoff.arcAndLineChainArcSegmentDraw": "Activate arc segment draw. You can choose between arc and line during the drawing process.",
     "takeoff.arcAndLineChainLineSegmentDraw": "Activate line segment draw. You can choose between arc and line during the drawing process.",
-    "takeoff.areaLineHeight": "Activate line takeoff drawing element to specify an area parallel to your view angle.",
-    "takeoff.areaLineHeightActualHeight": "Specify the height of the area line you are about to draw. Use this tool to create an area parallel to your view angle.",
-    "takeoff.areaArcAndLineChainDraw": "Activate arc and line chain takeoff drawing element to specify an area parallel to your view angle.",
-    "takeoff.areaArcAndLineChainDrawActualHeight": "Specify the height of the area arc and line chain you are about to draw. Use this tool to create an area parallel to your view angle.",
-    "takeoff.areaRectangleDraw": "Activate rectangle takeoff drawing element to specify an area perpendicular to your view angle.",
+    "takeoff.areaLineHeight": "Activate line takeoff drawing element to specify an area parallel to your view direction.",
+    "takeoff.areaLineHeightActualHeight": "Specify the height of the area line you are about to draw. Use this tool to create an area parallel to your view direction.",
+    "takeoff.areaArcAndLineChainDraw": "Activate arc and line chain takeoff drawing element to specify an area parallel to your view direction.",
+    "takeoff.areaArcAndLineChainDrawActualHeight": "Specify the height of the area arc and line chain you are about to draw. Use this tool to create an area parallel to your view direction.",
+    "takeoff.areaRectangleDraw": "Activate rectangle takeoff drawing element to specify an area perpendicular to your view direction.",
     "takeoff.areaRectangleDrawPitch": "Specify the pitch of the rectangle area you are about to draw.",
-    "takeoff.ArcAndLineChainPerpedicularDraw": "Activate arc and line chain takeoff drawing element to specify an area perpendicular to your view angle.",
+    "takeoff.ArcAndLineChainPerpedicularDraw": "Activate arc and line chain takeoff drawing element to specify an area perpendicular to your view direction.",
     "takeoff.ArcAndLineChainPerpedicularDrawPitch": "Specify the pitch of the arc and line chain area you are about to draw.",
     "takeoff.volumeRectangle": "Activate rectangle takeoff drawing element to specify volume.",
     "takeoff.volumeRectangleDepth": "Specify the depth of the rectangle area you are about to draw.",
@@ -100,18 +100,18 @@
     "takeoff.takeoffMeasurementUnit": "The selected measurement unit for this takeoff (quantity / length / area / volume).",
     "takeoff.takeoffDecimalsChange": "Change the number of decimal places for measurements.",
     "takeoff.takeoffImperialStyle": "Change the style of the imperial measurement system.",
-    "takeoff.takeoffResult": "View the results of the takeoff elements in this takeoff.",
+    "takeoff.takeoffResult": "Tthe results of the takeoff elements in this takeoff.",
     "takeoff.takeoffPageName": "Specify the name of the new takeoff page.",
     "takeoff.takeoffPageCreate": "Create a new takeoff page.",
     "takeoff.takeoffPageDrag": "Drag and drop to rearrange pages.",
     "takeoff.takeoffPageActivate": "Toggle the active status of this takeoff page (On/Off). When active, you can draw new takeoff elements on this page.",
     "takeoff.takeoffPageNameChange": "Change the name of the takeoff page.",
-    "takeoff.planPageSelect": "Select a plan page to place on the drawing board for drawing.",
+    "takeoff.planPageSelect": "Select a plan page to place on the drawing area for creating the takeoff drawing over it.",
     "takeoff.takeoffPageCopy": "Make a copy of this takeoff page.",
     "takeoff.takeoffPageDelete": "Delete the takeoff page.",
     "takeoff.takeoffPageDecimalsChange": "Change the number of decimal places for measurements on this page.",
     "takeoff.takeoffPageImperialStyle": "Change the style of the imperial measurement system on this page.",
-    "takeoff.takeoffPageResult": "View the results of the takeoff elements on this takeoff page.",
+    "takeoff.takeoffPageResult": "The results of the takeoff elements on this takeoff page.",
     "takeoff.takeoffPageOverrideColorAndOpacity": "Override (On/Off) the color and opacity settings on this takeoff page.",
     "takeoff.overrideOutlineColorChange": "Override the outline color settings of the elements on this takeoff page.",
     "takeoff.overrideOutlineOpacityChange": "Override the outline opacity settings of the elements on this takeoff page.",
@@ -161,19 +161,15 @@
     "takeoff.mobileDeviceAlert": "A mouse is required to use the application !",
     "yes": "Yes",
     "no": "No",
-
     "understand": "I understand",
-    "takeoff.planDropdownMenu": "Show or hide plan pages of this plan."
-
-    
-    
-
-
-
-    
-
-
-    
-
-    
+    "takeoff.planDropdownMenu": "Show or hide plan pages of this plan.",
+    "takeoff.areaLineRectangleHeightActualHeight": "Specify the height of the area line rectangle you are about to draw. Use this tool to create an area parallel to your view direction.",
+    "takeoff.areaLineRectangleHeightDraw": "Activate line rectangle takeoff drawing element to specify an area parallel to your view direction.",
+    "takeoff.openImagesInNewTab" : "Open the selected plan images in new tab.",
+    "takeoff.newPdfSize": "Select the size of the new pdf , which you are about to create from the images in the plan manager window. A0 - A10.",
+    "takeoff.newPdfOrientation": "Select the orientation of the new pdf , which you are about to create from the images in the plan manager window. L is landscape and P is portrait.",
+    "takeoff.newPdfGenerate": "Create the new PDF file from the selected images in the plan manager window.",  
+    "takeoff.selectPlanImageForExport": "Mark the image as selected for export.",
+    "takeoff.selectPdfQualityOnLoad": "Change the quality of the pdf which you are about to load. The higher number means better quality but bigger data.",
+    "takeoff.selectPdfQualityandReload": "Rescale the loaded pdf. The higher number means better quality but bigger data."  
 }
