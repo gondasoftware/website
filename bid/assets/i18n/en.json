@@ -171,5 +171,11 @@
     "takeoff.newPdfGenerate": "Create the new PDF file from the selected images in the plan manager window.",  
     "takeoff.selectPlanImageForExport": "Mark the image as selected for export.",
     "takeoff.selectPdfQualityOnLoad": "Change the quality of the pdf which you are about to load. The higher number means better quality but bigger data.",
-    "takeoff.selectPdfQualityandReload": "Rescale the loaded pdf. The higher number means better quality but bigger data."  
+    "takeoff.selectPdfQualityandReload": "Rescale the loaded pdf. The higher number means better quality but bigger data.",
+    
+    
+
+
+    "takeoff.generateImage": "Generate image from the current view.",
+    "takeoff.selectTheQualityOfTheGenImage": "Select the quality of the generated image. 10 is the best quality."
 }

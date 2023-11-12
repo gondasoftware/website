@@ -171,5 +171,9 @@
     "takeoff.newPdfGenerate": "Hozza létre az új PDF-fájlt a kiválasztott képekből a tervkezelő ablakban.",
     "takeoff.selectPlanImageForExport": "Jelölje meg a képet exportálásra kiválasztottként.",
     "takeoff.selectPdfQualityOnLoad": "Módosítsa a betöltendő pdf minőségét. A nagyobb szám jobb minőséget, de nagyobb adatot jelent.",
-    "takeoff.selectPdfQualityandReload": "Méretezze át a betöltött pdf-et. A nagyobb szám jobb minőséget, de nagyobb adatot jelent."
+    "takeoff.selectPdfQualityandReload": "Méretezze át a betöltött pdf-et. A nagyobb szám jobb minőséget, de nagyobb adatot jelent.",
+
+
+    "takeoff.generateImage": "Kép generálása a jelenlegi nézetről..",
+    "takeoff.selectTheQualityOfTheGenImage": "Válssza ki a generálás minőségét. 10 a legjobb minőség."
 }
