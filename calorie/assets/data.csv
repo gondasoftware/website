@@ -1,0 +1,2376 @@
+group;name;protein;fat;carb;calorie
+Gabonafélék, kenyerek, pékáruk;Barna kenyér;8,5;0,8;50,6;249
+Gabonafélék, kenyerek, pékáruk;Búza (mag, teljes búzaliszt);14,4;1,8;66,2;347
+Gabonafélék, kenyerek, pékáruk;Búzacsíra;25;8;42;349
+Gabonafélék, kenyerek, pékáruk;Búzadara;9,4;1;73,4;349
+Gabonafélék, kenyerek, pékáruk;Búzakorpa;15;5,5;51;322
+Gabonafélék, kenyerek, pékáruk;Búzapehely;12;2;66;339
+Zöldség-, főzelékfélék és készítményeik;Burgonya, nyári;2,5;0,2;18,4;88
+Zöldség-, főzelékfélék és készítményeik;Burgonya, téli;2,5;0,2;20;92
+Zöldség-, főzelékfélék és készítményeik;Burgonyakocka (fagyasztott);1,9;0,1;14,7;69
+Zöldség-, főzelékfélék és készítményeik;Burgonyapüré por;8,4;0,7;80;369
+Zöldség-, főzelékfélék és készítményeik;Ceruzabab (fagyasztott);2,5;0,1;4,8;31
+Zöldség-, főzelékfélék és készítményeik;Cékla;1,3;0,1;5,9;31
+Zöldség-, főzelékfélék és készítményeik;Cukorborsó (fagyasztott);3,6;0,1;6,2;41
+Zöldség-, főzelékfélék és készítményeik;Csemegeuborka;0,6;0,1;2,6;59
+Zöldség-, főzelékfélék és készítményeik;Csiperkegomba;5,9;0,2;3,3;38,6
+Zöldség-, főzelékfélék és készítményeik;Csiperkegomba (szeletelt, fagyasztott);2,3;0,1;1,4;16
+Gabonafélék, kenyerek, pékáruk;Durumtészta;14;2,6;75,1;379
+Gabonafélék, kenyerek, pékáruk;Fehér kenyér;8,3;0,8;52,3;255
+Gabonafélék, kenyerek, pékáruk;Félbarna kenyér;9,8;1;47,9;246
+Gabonafélék, kenyerek, pékáruk;Graham kenyér;10,1;1;54;272
+Gabonafélék, kenyerek, pékáruk;Kenyér;10;1,8;54,5;262
+Gabonafélék, kenyerek, pékáruk;Kukoricacsíra;18,8;34,5;19;476
+Gabonafélék, kenyerek, pékáruk;Kukoricaliszt, -dara;9,6;3,1;70,2;347
+Gabonafélék, kenyerek, pékáruk;Kukoricapehely;7,7;0,6;83;377
+Gabonafélék, kenyerek, pékáruk;Liszt;13,5;1;70,4;344
+Gabonafélék, kenyerek, pékáruk;Penne tészta;14;2,6;75,1;379
+Gabonafélék, kenyerek, pékáruk;Rizs;8;0,03;77,5;344
+Gabonafélék, kenyerek, pékáruk;Rizsliszt;6,9;0,6;79,4;359
+Gabonafélék, kenyerek, pékáruk;Rozskenyér;8,1;0,9;53,6;261
+Gabonafélék, kenyerek, pékáruk;Rozsliszt RL 125;9,3;1,7;66,6;327
+Gabonafélék, kenyerek, pékáruk;Rozsliszt RL 60;7,5;0,9;72,8;337
+Gabonafélék, kenyerek, pékáruk;Rozspehely;9;1,5;66;322
+Gabonafélék, kenyerek, pékáruk;Spagetti;14;2,6;75,1;379
+Gabonafélék, kenyerek, pékáruk;Tészta, 2 tojásos;14;2,6;75,1;379
+Gabonafélék, kenyerek, pékáruk;Tészta, 4 tojásos;15;3,4;72,9;392
+Gabonafélék, kenyerek, pékáruk;Tészta, 8 tojásos (házi);17;5;69,2;400
+Gabonafélék, kenyerek, pékáruk;Zabpehely;14,4;6,8;64,3;386
+Gabonafélék, kenyerek, pékáruk;Zsemlemorzsa;10,2;0,9;73,3;342
+Zöldség-, főzelékfélék és készítményeik;Bab (fagyasztott);10,8;0,4;29;167
+Zöldség-, főzelékfélék és készítményeik;Bab (fagyasztott, előfőzött);9,8;0,5;28;160
+Zöldség-, főzelékfélék és készítményeik;Bab (száraz);22,3;1;57,9;338
+Zöldség-, főzelékfélék és készítményeik;Babkonzerv;11;0,5;27;156,5
+Zöldség-, főzelékfélék és készítményeik;Brokkoli;3,3;0,2;2,1;23,4
+Zöldség-, főzelékfélék és készítményeik;Brokkoli (fagyasztott);4;0,4;2;29
+Zöldség-, főzelékfélék és készítményeik;Burgonya, nyári;2,5;0,2;18,4;88
+Zöldség-, főzelékfélék és készítményeik;Burgonya, téli;2,5;0,2;20;92
+Zöldség-, főzelékfélék és készítményeik;Burgonyakocka (fagyasztott);1,9;0,1;14,7;69
+Zöldség-, főzelékfélék és készítményeik;Burgonyapüré por;8,4;0,7;80;369
+Zöldség-, főzelékfélék és készítményeik;Ceruzabab (fagyasztott);2,5;0,1;4,8;31
+Zöldség-, főzelékfélék és készítményeik;Cékla;1,3;0,1;5,9;31
+Zöldség-, főzelékfélék és készítményeik;Cukorborsó (fagyasztott);3,6;0,1;6,2;41
+Zöldség-, főzelékfélék és készítményeik;Csemegeuborka;0,6;0,1;2,6;59
+Zöldség-, főzelékfélék és készítményeik;Csiperkegomba;5,9;0,2;3,3;38,6
+Zöldség-, főzelékfélék és készítményeik;Csiperkegomba (szeletelt, fagyasztott);2,3;0,1;1,4;16
+Zöldség-, főzelékfélék és készítményeik;Cukkini;1,5;0,4;5,3;30
+Zöldség-, főzelékfélék és készítményeik;Cukkini (fagyasztott);1,3;0,1;1,4;12
+Zöldség-, főzelékfélék és készítményeik;Fejes saláta;1,4;0,3;2;17
+Zöldség-, főzelékfélék és készítményeik;Fokhagyma;6,8;0,1;26,3;137
+Zöldség-, főzelékfélék és készítményeik;Gyöngyhagyma;1,2;0,1;8,3;39
+Zöldség-, főzelékfélék és készítményeik;Káposzta;1,6;0,2;5,7;31
+Zöldség-, főzelékfélék és készítményeik;Káposzta (savanyított);1,1;0,2;3,4;20
+Zöldség-, főzelékfélék és készítményeik;Káposzta (vörös);1,7;0,2;5,7;32
+Zöldség-, főzelékfélék és készítményeik;Karalábé;2,1;0,2;6,9;39
+Zöldség-, főzelékfélék és készítményeik;Karalábé (fagyasztott);1,7;0,2;4,6;27
+Zöldség-, főzelékfélék és készítményeik;Karfiol;2,4;0,4;3,9;29
+Zöldség-, főzelékfélék és készítményeik;Kelbimbó;4,9;0,6;6,1;51
+Zöldség-, főzelékfélék és készítményeik;Kelkáposzta;3,6;0,3;4,3;34
+Zöldség-, főzelékfélék és készítményeik;Kínai kel;1,2;0,3;2;67
+Zöldség-, főzelékfélék és készítményeik;Kovászos uborka;0,7;0,2;1,9;13
+Zöldség-, főzelékfélék és készítményeik;Kukorica;4,7;1,6;23,6;131
+Zöldség-, főzelékfélék és készítményeik;Kukorica (morzsolt, fagyasztott);6,7;0,4;17,1;102
+Zöldség-, főzelékfélék és készítményeik;Laskagomba;1,9;0,7;6;39
+Zöldség-, főzelékfélék és készítményeik;Laskagomba (fagyasztott);1,7;0,6;5,8;37
+Zöldség-, főzelékfélék és készítményeik;Lencse;26;1,9;53;342
+Zöldség-, főzelékfélék és készítményeik;Lilahagyma;1,2;0,1;8,3;39
+Zöldség-, főzelékfélék és készítményeik;Olívabogyó;0,2;21,9;6,5;224
+Zöldség-, főzelékfélék és készítményeik;Padlizsán;1,3;0,2;4,8;27
+Zöldség-, főzelékfélék és készítményeik;Paprika;1,2;0,3;3;19,5
+Zöldség-, főzelékfélék és készítményeik;Paprika (csípős, fagyasztott);2,1;0,7;9,3;54
+Zöldség-, főzelékfélék és készítményeik;Paprika (piros, fagyasztott);1,4;0,2;5,4;30
+Zöldség-, főzelékfélék és készítményeik;Paprika (sárga, fagyasztott);1,4;0,1;4,7;27
+Zöldség-, főzelékfélék és készítményeik;Paprika (zöld, fagyasztott);1,4;0,1;4,2;24
+Zöldség-, főzelékfélék és készítményeik;Paprika, pritamin;3,4;0,8;8,6;57
+Zöldség-, főzelékfélék és készítményeik;Paradicsom;1;0,2;4;22
+Zöldség-, főzelékfélék és készítményeik;Paradicsom (fagyasztott);1,1;0,3;3,7;23
+Zöldség-, főzelékfélék és készítményeik;Paradicsom, sűrített;5;1;20;111
+Zöldség-, főzelékfélék és készítményeik;Paradicsompüré;5;1;20;109
+Zöldség-, főzelékfélék és készítményeik;Paraj (spenót);2,3;0,3;1,8;20
+Zöldség-, főzelékfélék és készítményeik;Paraj (spenót, fagyasztott);2,6;0,2;2,5;97
+Zöldség-, főzelékfélék és készítményeik;Petrezselyem zöldje;4,4;0,4;9,8;62
+Zöldség-, főzelékfélék és készítményeik;Petrezselyem gyökér;1,2;0,1;5,9;29
+Zöldség-, főzelékfélék és készítményeik;Póréhagyma;2,2;0,3;5,9;37
+Zöldség-, főzelékfélék és készítményeik;Póréhagyma (fagyasztott);2,2;0,3;6,3;38
+Zöldség-, főzelékfélék és készítményeik;Retek;1,2;0,1;2,2;15
+Zöldség-, főzelékfélék és készítményeik;Sárgaborsó;21,7;1,5;53,1;321
+Zöldség-, főzelékfélék és készítményeik;Sárgarépa;1,2;0,2;8,1;39
+Zöldség-, főzelékfélék és készítményeik;Sárgarépa (fagyasztott);1,7;0,2;10,4;52
+Zöldség-, főzelékfélék és készítményeik;Snidling;2,2;0,3;6,3;37
+Zöldség-, főzelékfélék és készítményeik;Sóska;2,4;0,5;2,3;24
+Zöldség-, főzelékfélék és készítményeik;Sóska (fagyasztott);1,5;0,2;0,4;10
+Zöldség-, főzelékfélék és készítményeik;Spárga;2;0,1;1,8;17
+Zöldség-, főzelékfélék és készítményeik;Sütőtök;1,5;0,6;16,5;80
+Zöldség-, főzelékfélék és készítményeik;Szója (extrudált, teljes őrlemény);41,6;23,5;22,1;480
+Zöldség-, főzelékfélék és készítményeik;Szója (granulátum, kocka);45;20,6;18,3;451
+Zöldség-, főzelékfélék és készítményeik;Szójaliszt, (extrahált, zsírtalanított);47,3;0,6;33,4;336
+Zöldség-, főzelékfélék és készítményeik;Tök;1,1;0,1;6,1;31
+Zöldség-, főzelékfélék és készítményeik;Tök (gyalult, fagyasztott);0,8;0,1;2,9;16
+Zöldség-, főzelékfélék és készítményeik;Uborka;1;0,1;1,7;12
+Zöldség-, főzelékfélék és készítményeik;Újhagyma;2,2;0,3;6,3;37
+Zöldség-, főzelékfélék és készítményeik;Vargánya;6,4;0,8;1,3;38
+Zöldség-, főzelékfélék és készítményeik;Vargánya (szárított);38,3;1,8;31,5;303
+Zöldség-, főzelékfélék és készítményeik;Vegyes savanyúság;0,8;0,1;2,4;14
+Zöldség-, főzelékfélék és készítményeik;Vöröshagyma;1,2;0,1;8,3;39
+Zöldség-, főzelékfélék és készítményeik;Vöröshagyma (fagyasztott);1,4;0,1;7,4;37
+Zöldség-, főzelékfélék és készítményeik;Zellergumó;1,4;0,3;5;28
+Zöldség-, főzelékfélék és készítményeik;Zöldbab;2,6;0,3;6,8;40,3
+Zöldség-, főzelékfélék és készítményeik;Zöldbab (konzerv);1,6;0,2;4,3;26
+Zöldség-, főzelékfélék és készítményeik;Zöldborsó;7;0,4;14;87,6
+Zöldség-, főzelékfélék és készítményeik;Zöldborsó (fagyasztott);6,5;0,4;15;92
+Zöldség-, főzelékfélék és készítményeik;Zöldborsó (zsenge, fagyasztott);5,7;0,4;12;77
+Zöldség-, főzelékfélék és készítményeik;Zöldsaláta;1,4;0,3;2;16
+Halak, halkonzervek;Amur;18;7,5;0,2;145
+Halak, halkonzervek;Busa;18;1,9;0,6;94
+Halak, halkonzervek;Fogas;19;0,8;0,2;86
+Halak, halkonzervek;Harcsa;17,5;0,8;0,2;280
+Halak, halkonzervek;Heck;20,2;0,9;0;89
+Halak, halkonzervek;Herng, olajos;15,9;33,8;0,7;382
+Halak, halkonzervek;Hernig, paradicsomos;18,9;14,6;0,8;217
+Halak, halkonzervek;Kaviár;26;16;4,6;274
+Halak, halkonzervek;Lazac;20;14;0,2;213
+Halak, halkonzervek;Pisztráng;21,5;2,9;0,2;116
+Halak, halkonzervek;Ponty (nyurga);16;4;0,1;101
+Halak, halkonzervek;Ponty (tükör);15,8;8,7;0,1;146
+Halak, halkonzervek;Szardínia, olajos;22,5;21,4;0,3;292
+Halak, halkonzervek;Tengeri hal;19,4;0,5;1,2;86,9
+Halak, halkonzervek;Tőkehal, file;19,4;0,5;1,2;89
+Halak, halkonzervek;Tonhal;19,4;0,5;1,2;86
+Magok;Dió;18,6;57;11,7;634
+Magok;Földimogyoró;26,7;47,2;14,7;609
+Magok;Geszteny;4,8;1,5;32,6;167
+Magok;Kesudió;18;42;32;596
+Magok;Kókuszdió, friss;3,9;37;10;401
+Magok;Mák;20,5;38,2;23,9;537
+Magok;Mandula;27,6;52,2;6,8;607
+Magok;Mogyoró;15,6;63,5;8,7;690
+Magok;Napraforgó mag;18,7;47,5;17,4;590
+Magok;Paradió;14;66,9;7,2;709
+Magok;Pisztácia;22,3;54;13,8;650
+Magok;Tökmag;33,9;50,5;3,6;623
+Gyümölcsök, gyümölcskészítmények;Alma, aszalt;1,4;0;55,4;242
+Gyümölcsök, gyümölcskészítmények;Alma, befőtt;0,3;0;20,2;85
+Gyümölcsök, gyümölcskészítmények;Alma, Jonatán;0,4;0;7;33,2
+Gyümölcsök, gyümölcskészítmények;Ananász, karika;0,4;0;12;55,9
+Gyümölcsök, gyümölcskészítmények;Ananász, friss;0,4;0;12;53
+Gyümölcsök, gyümölcskészítmények;Banán;1,3;0;24,2;102,9
+Gyümölcsök, gyümölcskészítmények;Barack;0,7;0;9;41,5
+Gyümölcsök, gyümölcskészítmények;Birsalma;0,6;0;9,1;42
+Gyümölcsök, gyümölcskészítmények;Citrom;0,4;0;2,3;27
+Gyümölcsök, gyümölcskészítmények;Citromlé;0,4;0;2,3;63
+Gyümölcsök, gyümölcskészítmények;Cseresznye;0,8;0;14;63
+Gyümölcsök, gyümölcskészítmények;Csipkebogyó, lekvér;0,5;0;58;242
+Gyümölcsök, gyümölcskészítmények;Datolya (préselt);1,9;0;72,5;308
+Gyümölcsök, gyümölcskészítmények;Dinnye (sárga húsú);0,3;0;9,5;40
+Gyümölcsök, gyümölcskészítmények;Dinnye (zöld húsú);0,3;0;11,1;47
+Gyümölcsök, gyümölcskészítmények;Füge, szárított;3,5;0;62;262
+Gyümölcsök, gyümölcskészítmények;Földieper (szamóca);0,9;0;7,2;35
+Gyümölcsök, gyümölcskészítmények;Gesztenyekrém (gyorsfagyasztott);2,1;0,6;43,6;193
+Gyümölcsök, gyümölcskészítmények;Gesztenyepüré (gyorsfagyasztott);2;0,6;47,6;209
+Gyümölcsök, gyümölcskészítmények;Grapefruit;0,5;0;7,2;36
+Gyümölcsök, gyümölcskészítmények;Gyümölcssaláta;0,7;0;13,4;60
+Gyümölcsök, gyümölcskészítmények;Görögdinnye;0,5;0;6,5;29
+Gyümölcsök, gyümölcskészítmények;Kajszibarack;0,9;0;10,2;48
+Gyümölcsök, gyümölcskészítmények;Kiwi;1;0;11,3;54,6
+Gyümölcsök, gyümölcskészítmények;Körte;0,4;0;12;52,3
+Gyümölcsök, gyümölcskészítmények;Körte befőtt;0,3;0;23,7;99
+Gyümölcsök, gyümölcskészítmények;Málna;1,2;0;5,4;29
+Gyümölcsök, gyümölcskészítmények;Málna (Fertődi, gyorsfagyasztott);1,1;0;6,2;39
+Gyümölcsök, gyümölcskészítmények;Málna (Nagymarosi gyorsfagyasztott);1,4;0;13;62
+Gyümölcsök, gyümölcskészítmények;Málna dzsem, üveges;1,5;0;63,3;263
+Gyümölcsök, gyümölcskészítmények;Mandarin;1,7;0;10,8;50,2
+Gyümölcsök, gyümölcskészítmények;Mazsola;3,5;0;62;273,7
+Gyümölcsök, gyümölcskészítmények;Meggy;0,8;0;11;52
+Gyümölcsök, gyümölcskészítmények;Meggy befőtt;0,6;0;20,8;90
+Gyümölcsök, gyümölcskészítmények;Meggy dzsem, üveges;0,4;0;70,3;292
+Gyümölcsök, gyümölcskészítmények;Meggy (gyorsfagyasztott);0,5;0;10,8;48
+Gyümölcsök, gyümölcskészítmények;Narancs;0,6;0;8,5;41
+Gyümölcsök, gyümölcskészítmények;Narancslé;1,6;0;8,5;49,9
+Gyümölcsök, gyümölcskészítmények;Nektarin;0,4;0;11,4;49
+Gyümölcsök, gyümölcskészítmények;Őszibarack;0,7;0;9;41
+Gyümölcsök, gyümölcskészítmények;Őszibarack (gyorsfagyasztott);1;0;10,3;51
+Gyümölcsök, gyümölcskészítmények;Őszibarack (befőtt);0,5;0;21,2;90
+Gyümölcsök, gyümölcskészítmények;Őszibarack dzsem, üveges;0,5;0;71,3;295
+Gyümölcsök, gyümölcskészítmények;Őszibarack hámozaott, gyorsfagyasztott;1,1;0;10,1;50
+Gyümölcsök, gyümölcskészítmények;Ribizke, fekete;0,9;0;9,5;48
+Gyümölcsök, gyümölcskészítmények;Ribizke, fekete (gyorsfagyasztott);1,9;0;9,3;56
+Gyümölcsök, gyümölcskészítmények;Ribizke, vörös;0,6;0;7;34
+Gyümölcsök, gyümölcskészítmények;Ribizke , vörös (gyorsfagyasztott);1,2;0;5,3;33
+Gyümölcsök, gyümölcskészítmények;Sárgabarack dzsem, üveges;0,4;0;64,5;267
+Gyümölcsök, gyümölcskészítmények;Szeder;0,8;0;6;33
+Gyümölcsök, gyümölcskészítmények;Szeder (gyorsfagyasztott);1,6;0;6,4;37
+Gyümölcsök, gyümölcskészítmények;Szilva;0,7;0;13,1;59,7
+Gyümölcsök, gyümölcskészítmények;Szilva, aszalt;2,3;0;61,8;268
+Gyümölcsök, gyümölcskészítmények;Szilva befőtt;0,4;0;21,9;92
+Gyümölcsök, gyümölcskészítmények;Szilva, Besztercei;0,7;0;13,1;58
+Gyümölcsök, gyümölcskészítmények;Szilva, vörös;0,8;0;10,2;47
+Gyümölcsök, gyümölcskészítmények;Szilva, Zöldringló;0,8;0;13,5;61
+Gyümölcsök, gyümölcskészítmények;Szilvaíz, natúr;1,3;0;54;231
+Gyümölcsök, gyümölcskészítmények;Szőlő;0,6;0;18,1;79,3
+Gyümölcsök, gyümölcskészítmények;Vegyes gyümölcs;0,7;0;10;50
+Gyümölcsök, gyümölcskészítmények;Vegyes íz;1;0;60;252
+Tojásfélék;FürjTojásfélék;12,5;10,8;0,7;154
+Tojásfélék;Tojásfélék;13,5;12;0,6;164
+Tojásfélék;Tojásfehérje;12,5;0,4;0,8;57,1
+Tojásfélék;Tojásfehérje, szárított;73,4;0,3;4;320
+Tojásfélék;Tojáspor;44,7;40,1;5,2;578
+Tojásfélék;Tojássárgája;15;30,6;0,6;338
+Sajtok;Anikó;24,2;26;1,8;349
+Sajtok;Boci, ízesített;11,5;24,9;1,5;285
+Sajtok;Camembert "Bakony";21,5;23;1,5;308
+Sajtok;Camembert "Tihany";18,2;33,4;1,4;391
+Sajtok;Camping;16,5;26,4;1,7;321
+Sajtok;Derby;16,7;23,4;1,6;285
+Sajtok;Edámi;26,2;26,6;1,7;362
+Sajtok;Ementáli (Pannónia);27,8;29,4;1,5;394
+Sajtok;Göcseji;22,2;23,3;1,4;314
+Sajtok;Karaván, füstölt tömbsajt;22,3;27,3;1,9;353
+Sajtok;Krém fehérsajt;13,4;20,6;1,4;252
+Sajtok;Mackó, kenhető;16,7;25;2;310
+Sajtok;Márvány;20;29,7;2;366
+Sajtok;Parenyica;26;30,4;1,5;396
+Sajtok;Parmezán;26,8;28,9;1,6;385
+Sajtok;Sovány sajt;29,6;18,5;1,7;291
+Sajtok;Trappista;27,7;28,1;1,6;381
+Tejkészítmények;Bivalytej;5,8;26;1,8;349
+Tejkészítmények;Joghurt 0%;3,4;0,1;4,6;32,9
+Tejkészítmények;Joghurt, gyümölcsös;3,5;2;10,3;74
+Tejkészítmények;Juhtej;6,1;7,2;5;113
+Tejkészítmények;Kancatej;2,1;0,6;6,7;42
+Tejkészítmények;Kecsketej;3,6;3,9;4,7;70
+Tejkészítmények;Kefír (sovány);3,4;0,1;4,6;34
+Tejkészítmények;Krémjoghurt;3,4;5;4,6;80
+Tejkészítmények;Sovány túró;14,1;0,5;3,8;76,1
+Tejkészítmények;Sűrített tej, cukrozatlan;7;7,5;9,8;139
+Tejkészítmények;Sűrített tej, cukrozott;8,5;7;54,9;325
+Tejkészítmények;Tehéntej 0,1%;3,4;0,1;5,3;35,7
+Tejkészítmények;Tehéntej 1,5%;3,4;1,5;5,3;50
+Tejkészítmények;Tehéntej 2,8%;3,4;2,8;5,3;62
+Tejkészítmények;Tehéntej, homogénezett, pasztőrözött;3,4;3,6;5,3;69
+Tejkészítmények;Tehéntúró, félzsíros;16,2;7;3,7;147
+Tejkészítmények;Tehéntúró, sovány;14,1;0,5;3,8;78
+Tejkészítmények;Tehéntúró, zsíros;17,9;12,2;3,5;201
+Tejkészítmények;Tej, csokoládés;3,2;1,5;11;72
+Tejkészítmények;Tej, kakaós (sovány);3,5;0,5;11,4;66
+Tejkészítmények;Tej, kávés (Ice coffe);3,5;1,5;13;82
+Tejkészítmények;Tejföl 12%;3,4;12;4;137,6
+Tejkészítmények;Tejföl 20%;3,3;20;3,9;216
+Tejkészítmények;Tejkrém (cukrozott, sűrített);8,5;7;55,5;327
+Tejkészítmények;Tejpor, sovány;36;2;50,3;373
+Tejkészítmények;Tejpor, zsíros;25,5;27;37;507
+Tejkészítmények;Tejszín;3,3;20;3,9;208,8
+Tejkészítmények;Tejszínhab;2,6;30;3;302
+Tejkészítmények;Tejszínhab, ízesített;2,3;26;11;297
+Húskészítmények, belsőségek;Bárány, juhhús (sovány);19,7;12,7;0,3;200
+Húskészítmények, belsőségek;Békacomb;24,2;0,9;2,9;119
+Húskészítmények, belsőségek;Birka (közepes);16,9;26,4;0,3;316
+Húskészítmények, belsőségek;Borjú;19,5;4,5;0,3;123
+Húskészítmények, belsőségek;Csiga, éti;17,6;1;0,2;82
+Húskészítmények, belsőségek;Csirke, comb;20,9;5,2;0,5;136
+Húskészítmények, belsőségek;Csirkemell filé;24,7;1;0,5;109
+Húskészítmények, belsőségek;Fácán;22,3;1,9;0,5;111
+Húskészítmények, belsőségek;Fogoly;20,5;1,2;0,4;97
+Húskészítmények, belsőségek;Fürj, comb (japán);19,6;5;1,2;132
+Húskészítmények, belsőségek;Fürj, mell (japán);22,8;2,3;1,1;119
+Húskészítmények, belsőségek;Galamb;19,6;5;1,2;130
+Húskészítmények, belsőségek;Kacsa, pecsenye;19;12;0,4;191
+Húskészítmények, belsőségek;Kagyló;9;2;6,5;82
+Húskészítmények, belsőségek;Kappan;19,3;9,3;0,4;167
+Húskészítmények, belsőségek;Liba, hízott;16;35;0,2;392
+Húskészítmények, belsőségek;Liba, pecseny;18,5;13,6;0,3;203
+Húskészítmények, belsőségek;Marha, bélszín;19;4,4;0,6;121
+Húskészítmények, belsőségek;Marha, felsál;17;19;0,6;249
+Húskészítmények, belsőségek;Marha, hátszín, lapos;15;18;0,6;231
+Húskészítmények, belsőségek;Marha, hátszín, magas;19;17,2;0,6;240
+Húskészítmények, belsőségek;Marha, hátszín, puha;19,7;17,8;0,6;249
+Húskészítmények, belsőségek;Marha lapocka;21;6,2;0,6;147
+Húskészítmények, belsőségek;Marha szegy;16;21;0,5;263
+Húskészítmények, belsőségek;Marha tarja;20;6;0,6;140
+Húskészítmények, belsőségek;Nutria;20,8;10,5;0,5;185
+Húskészítmények, belsőségek;Nyúl, házi;21;8;0,4;162
+Húskészítmények, belsőségek;Nyúl, vad;23;1,1;0,5;106
+Húskészítmények, belsőségek;Őz;20,8;1,9;0,4;105
+Húskészítmények, belsőségek;Pulyka;20,5;9,5;0,4;174
+Húskészítmények, belsőségek;Rák;14,9;0,8;2,2;77
+Húskészítmények, belsőségek;Sertéscomb, karaj;21;8,1;0,4;163
+Húskészítmények, belsőségek;Sertés csülök;16;29;0,3;337
+Húskészítmények, belsőségek;Sertés dagadó;12;42;0,3;441
+Húskészítmények, belsőségek;Sertés lapocka;17,5;23,9;0,3;295
+Húskészítmények, belsőségek;Szarvas;20,7;3,9;0,6;123
+Húskészítmények, belsőségek;Tyúk;19;6,5;0,4;140
+Húskészítmények, belsőségek;Vaddisznó, színhús;21,6;2,4;0,4;112
+Húskészítmények, belsőségek;Vadkacsa;22,7;3,1;0,5;124
+Zsiradékok;Angolszalonna;16,8;46,5;0;501
+Zsiradékok;Margarin;0,3;79;0,2;737
+Zsiradékok;Margarin, sütő;0,5;84;0,4;781
+Zsiradékok;Olaj (napraforgó, szója, tökmag);0;99,8;0;928
+Zsiradékok;Olívaolaj;0;100;0;900
+Zsiradékok;Vaj, szendvics;0,3;70;0,3;653
+Zsiradékok;Vaj, tea;0,4;80;0,5;748
+Zsiradékok;Vajkrém;2,5;40;2;390
+Zsiradékok;Zsír, ami kisül;0;100;0;900
+Egyéb;Coca-cola 1 dl;0;0;11;46
+Egyéb;Csokoládé főző;1,9;32;64,3;569
+Egyéb;Fehér bor félédes 1 dl;0,1;0;2;70
+Egyéb;Gyümölcsfagyi;0;0;32,6;134
+Egyéb;Jégkrém;2,2;4,5;27,8;164
+Egyéb;Kakaópor;21,4;19;32,4;386
+Egyéb;Keményítő;9,6;3,1;70,2;347
+Egyéb;Ketchup;2;0,3;24;109
+Egyéb;Kristálycukor;0;0;99,9;400
+Egyéb;Majonéz;1,5;80;3;774
+Egyéb;Méz;0,4;0;81;325,6
+Egyéb;Mustár;6;6;6;105
+Egyéb;Pudingpor;2,5;8,7;75;388,3
+Egyéb;Rágógumi gyümölcsös;0,1;0;78,5;310
+Egyéb;Sör világos 1dl;0,5;0;2,9;43
+Egyéb;Tyúkleves kocka;29,5;26,8;0;359,5
+Egyéb;Vörösbor száraz 1dl;0,1;0;0,3;65
+----------------------------------------------------------
+Gabonafélék, kenyerek, pékáruk;árpagyöngy;9,0;1,4;75,0;350
+Gabonafélék, kenyerek, pékáruk;árpapehely;12,0;2,0;75,0;368
+Gabonafélék, kenyerek, pékáruk;barnarizs;6,7;2,8;81,3;379
+Gabonafélék, kenyerek, pékáruk;burgonyakeményítő;0,6;0,1;83,1;337
+Gabonafélék, kenyerek, pékáruk;búzacsíra;25,0;8,0;42,0;342
+Gabonafélék, kenyerek, pékáruk;búzadara;9,4;1,0;73,4;342
+Gabonafélék, kenyerek, pékáruk;búzakeményítő;0,4;0,1;82,5;334
+Gabonafélék, kenyerek, pékáruk;búzakorpa;14,9;4,7;16,7;169
+Gabonafélék, kenyerek, pékáruk;búzaliszt;12,3;1,3;76,3;350
+Gabonafélék, kenyerek, pékáruk;búzapehely;12,5;1,5;64,0;321
+Gabonafélék, kenyerek, pékáruk;durum liszt;12,5;1,5;73,0;357
+Gabonafélék, kenyerek, pékáruk;grahamliszt;14,4;1,8;64,4;333
+Gabonafélék, kenyerek, pékáruk;hajdina;9,8;1,7;71,3;341
+Gabonafélék, kenyerek, pékáruk;köles;9,5;3,9;68,8;350
+Gabonafélék, kenyerek, pékáruk;kukoricadara;9,6;3,1;70,2;349
+Gabonafélék, kenyerek, pékáruk;kukoricaliszt;9,6;3,1;70,2;349
+Gabonafélék, kenyerek, pékáruk;kukoricapehely;7,7;0,6;83,0;370
+Gabonafélék, kenyerek, pékáruk;natúr müzli;8,5;2,7;70,0;340
+Gabonafélék, kenyerek, pékáruk;puffasztott búzaszelet;13,9;2,6;64,8;340
+Gabonafélék, kenyerek, pékáruk;rizs;8,0;0,3;77,5;352
+Gabonafélék, kenyerek, pékáruk;rozsliszt;10,0;1,1;73,6;346
+Gabonafélék, kenyerek, pékáruk;rozspehely;8,8;1,7;60,7;295
+Gabonafélék, kenyerek, pékáruk;zabkorpa;15,3;5,5;57,0;340
+Gabonafélék, kenyerek, pékáruk;zabpehely;14,4;6,8;64,3;378
+Gabonafélék, kenyerek, pékáruk;zsemlemorzsa;10,2;0,9;73,3;344
+Gabonafélék, kenyerek, pékáruk;zsírtalan szójaliszt;47,0;2,0;31,0;332
+Gabonafélék, kenyerek, pékáruk;burgonyás kenyér;10,8;1,7;49,7;259
+Gabonafélék, kenyerek, pékáruk;félbarna kenyér;9,8;1,0;52,3;259
+Gabonafélék, kenyerek, pékáruk;kenyér;10,0;0,8;53,5;251
+Gabonafélék, kenyerek, pékáruk;bakonyi barna kenyér;8,5;0,8;50,6;245
+Gabonafélék, kenyerek, pékáruk;dabasi rozsos kenyér;10,1;1,8;49,9;257
+Gabonafélék, kenyerek, pékáruk;graham kenyér;10,1;1,0;54,0;267
+Gabonafélék, kenyerek, pékáruk;lenmagos barnakenyér;14,4;5,7;54,8;330
+Gabonafélék, kenyerek, pékáruk;magvas barnakenyér;10,9;8,5;44,6;300
+Gabonafélék, kenyerek, pékáruk;rozskenyér;8,1;0,9;53,6;256
+Gabonafélék, kenyerek, pékáruk;korpás zsemle, kifli;10,5;1,5;48,9;252
+Gabonafélék, kenyerek, pékáruk;zsemle, kifli;9,4;0,7;57,0;273
+Gabonafélék, kenyerek, pékáruk;kuglóf;10,0;8,7;58,0;352
+Gabonafélék, kenyerek, pékáruk;abonett;14,7;1,5;81,7;401
+Gabonafélék, kenyerek, pékáruk;kalács;11,8;10,5;64,9;403
+Gabonafélék, kenyerek, pékáruk;kétszersült;11,3;4,1;80,4;406
+Gabonafélék, kenyerek, pékáruk;pászka;12,3;1,3;76,3;368
+Gabonafélék, kenyerek, pékáruk;2 tojásos száraztészta;12,4;2,2;70,2;352
+Gabonafélék, kenyerek, pékáruk;4 tojásos száraztészta;15,0;3,4;72,9;384
+Gabonafélék, kenyerek, pékáruk;8 tojásos száraztészta;17,0;5,0;69,3;392
+Gabonafélék, kenyerek, pékáruk;durum tészta;12,5;1,5;73,0;357
+Zöldség-, főzelékfélék és készítményeik;céklakonzerv;1,3;0,1;13,9;63
+Zöldség-, főzelékfélék és készítményeik;csalamádékonzerv;1,3;0,2;9,4;45
+Zöldség-, főzelékfélék és készítményeik;csemege pirosarany;9,0;0,1;0;37
+Zöldség-, főzelékfélék és készítményeik;ecetes paprika;1,1;0,3;3,8;22
+Zöldség-, főzelékfélék és készítményeik;ketchup;2,1;0,4;24,0;109
+Zöldség-, főzelékfélék és készítményeik;konzerv kukorica;4,6;1,6;23,1;126
+Zöldség-, főzelékfélék és készítményeik;lecsókonzerv;1,3;0,3;4,2;25
+Zöldség-, főzelékfélék és készítményeik;olivabogyó;1,4;13,9;1,8;138
+Zöldség-, főzelékfélék és készítményeik;paradicsom püre;5,0;1,0;20,0;110
+Zöldség-, főzelékfélék és készítményeik;reszelt ecetestorma;1,9;0,3;31,2;136
+Zöldség-, főzelékfélék és készítményeik;savanyú uborka;0,6;0,1;2,6;14
+Zöldség-, főzelékfélék és készítményeik;savanyúkáposzta;1,1;0,2;3,4;20
+Zöldség-, főzelékfélék és készítményeik;zöldbab konzerv;1,6;0,2;4,3;26
+Zöldség-, főzelékfélék és készítményeik;zöldborsó konzerv;4,2;0,2;10,1;59
+Zöldség-, főzelékfélék és készítményeik;articsóka;2,4;0,1;9,5;50
+Zöldség-, főzelékfélék és készítményeik;brokkoli;3,3;0,2;2,1;24
+Zöldség-, főzelékfélék és készítményeik;cékla;1,3;0,1;5,9;31
+Zöldség-, főzelékfélék és készítményeik;cikória;1,3;0,2;2,3;16
+Zöldség-, főzelékfélék és készítményeik;csemegekukorica;4,7;1,6;23,6;128
+Zöldség-, főzelékfélék és készítményeik;csicsóka;2,4;0,4;4,0;31
+Zöldség-, főzelékfélék és készítményeik;cukkini;1,5;0,4;5,3;31
+Zöldség-, főzelékfélék és készítményeik;endivia saláta;1,8;0,2;0,9;13
+Zöldség-, főzelékfélék és készítményeik;fejes saláta;1,4;0,3;2,0;17
+Zöldség-, főzelékfélék és készítményeik;fekete retek;1,1;0,2;1,0;10
+Zöldség-, főzelékfélék és készítményeik;fokhagyma;6,8;0,1;26,3;134
+Zöldség-, főzelékfélék és készítményeik;főzőtök;1,1;0,1;6,1;30
+Zöldség-, főzelékfélék és készítményeik;kapor;3,7;0,8;10,2;63
+Zöldség-, főzelékfélék és készítményeik;karalábé;2,1;0,2;6,9;38
+Zöldség-, főzelékfélék és készítményeik;karfiol;2,4;0,4;3,9;29
+Zöldség-, főzelékfélék és készítményeik;kelbimbó;4,9;0,6;6,1;50
+Zöldség-, főzelékfélék és készítményeik;kelkáposzta;3,6;0,3;4,3;34
+Zöldség-, főzelékfélék és készítményeik;kígyóuborka;1,0;0,1;1,7;12
+Zöldség-, főzelékfélék és készítményeik;kínaikel;1,2;0,3;2,0;16
+Zöldség-, főzelékfélék és készítményeik;lilakáposzta;1,7;0,2;5,7;32
+Zöldség-, főzelékfélék és készítményeik;mirelit brokkoli;3,3;0,2;2,1;24
+Zöldség-, főzelékfélék és készítményeik;mirelit karfiol;2,4;0,4;3,9;29
+Zöldség-, főzelékfélék és készítményeik;mirelit kelbimbó;4,9;0,6;6,1;50
+Zöldség-, főzelékfélék és készítményeik;mirelit kukorica;4,7;1,6;23,6;128
+Zöldség-, főzelékfélék és készítményeik;mirelit lecsó;1,1;0,3;3,3;20
+Zöldség-, főzelékfélék és készítményeik;mirelit mexikói vegyesfőzelék;4,2;0,6;13,3;76
+Zöldség-, főzelékfélék és készítményeik;mirelit sárgarépa;1,2;0,2;8,1;40
+Zöldség-, főzelékfélék és készítményeik;mirelit sóska;2,4;0,5;2,3;27
+Zöldség-, főzelékfélék és készítményeik;mirelit spenót;2,3;0,3;1,8;19
+Zöldség-, főzelékfélék és készítményeik;mirelit tök;1,1;0,1;6,1;30
+Zöldség-, főzelékfélék és készítményeik;mirelit vegyesfőzelék (finom);3,8;0,3;10,0;59
+Zöldség-, főzelékfélék és készítményeik;mirelit zöldbab;2,6;0,3;6,8;41
+Zöldség-, főzelékfélék és készítményeik;mirelit zöldborsó;7,0;0,4;14,0;89
+Zöldség-, főzelékfélék és készítményeik;padlizsán;1,3;0,2;4,8;26
+Zöldség-, főzelékfélék és készítményeik;paradicsom;1,0;0,2;4,0;22
+Zöldség-, főzelékfélék és készítményeik;paradicsompaprika;0,9;0,2;6,4;31
+Zöldség-, főzelékfélék és készítményeik;patisszon;1,2;0,1;6,2;31
+Zöldség-, főzelékfélék és készítményeik;petrezselyemgyökér;1,2;0,1;5,9;29
+Zöldség-, főzelékfélék és készítményeik;petrezselyemzöld;4,4;0,4;9,8;61
+Zöldség-, főzelékfélék és készítményeik;póréhagyma;2,2;0,3;6,3;37
+Zöldség-, főzelékfélék és készítményeik;retek;1,2;0,1;2,2;15
+Zöldség-, főzelékfélék és készítményeik;sárgarépa;1,2;0,2;8,1;40
+Zöldség-, főzelékfélék és készítményeik;snidling;3,6;0,7;1,6;27
+Zöldség-, főzelékfélék és készítményeik;sóska;2,4;0,5;2,3;27
+Zöldség-, főzelékfélék és készítményeik;spárga;2,0;0,1;1,8;16
+Zöldség-, főzelékfélék és készítményeik;spenót;2,3;0,3;1,8;19
+Zöldség-, főzelékfélék és készítményeik;sütőtök;1,5;0,6;16,5;78
+Zöldség-, főzelékfélék és készítményeik;fejeskáposzta;1,6;0,2;5,7;32
+Zöldség-, főzelékfélék és készítményeik;torma;2,7;0,4;15,9;78
+Zöldség-, főzelékfélék és készítményeik;uborka;1,0;0,1;1,7;12
+Zöldség-, főzelékfélék és készítményeik;vöröshagyma;1,2;0,1;8,3;40
+Zöldség-, főzelékfélék és készítményeik;zeller;1,4;0,3;5,0;31
+Zöldség-, főzelékfélék és készítményeik;zöldbab;2,6;0,3;6,8;41
+Zöldség-, főzelékfélék és készítményeik;zöldborsó;7,0;0,4;14,0;89
+Zöldség-, főzelékfélék és készítményeik;zöldpaprika;1,2;0,3;3,0;20
+Zöldség-, főzelékfélék és készítményeik;csiperke;5,9;0,2;3,3;39
+Zöldség-, főzelékfélék és készítményeik;csiperke konzerv;2,3;0,5;3,0;26
+Zöldség-, főzelékfélék és készítményeik;laskagomba;1,9;0,7;6,0;38
+Zöldség-, főzelékfélék és készítményeik;vargánya;5,7;0,2;3,8;40
+Zöldség-, főzelékfélék és készítményeik;burgonya;2,5;0,2;20,0;94
+Zöldség-, főzelékfélék és készítményeik;burgonyapehely;8,6;0,6;71,0;325
+Gyümölcsök, gyümölcskészítmények;alma;0,4;0,4;7,0;35
+Gyümölcsök, gyümölcskészítmények;ananász;0,4;0,1;12,0;53
+Gyümölcsök, gyümölcskészítmények;avokádó;2,0;15,3;7,4;176
+Gyümölcsök, gyümölcskészítmények;banán;1,3;0,1;24,2;105
+Gyümölcsök, gyümölcskészítmények;besztercei szilva;0,7;0,2;13,1;60
+Gyümölcsök, gyümölcskészítmények;birsalma;0,6;0,9;9,1;49
+Gyümölcsök, gyümölcskészítmények;citrom;0,4;0,6;2,3;31
+Gyümölcsök, gyümölcskészítmények;cseresznye;0,8;0,3;14,0;65
+Gyümölcsök, gyümölcskészítmények;csipkebogyó;3,6;1,3;8,0;66
+Gyümölcsök, gyümölcskészítmények;cukordinnye;0,3;0,1;11,1;47
+Gyümölcsök, gyümölcskészítmények;egres;0,6;0,2;8,0;40
+Gyümölcsök, gyümölcskészítmények;eper;0,9;0,4;7,2;39
+Gyümölcsök, gyümölcskészítmények;fekete áfonya;0,6;0,6;19,6;90
+Gyümölcsök, gyümölcskészítmények;fekete ribizli;0,9;0,2;9,5;49
+Gyümölcsök, gyümölcskészítmények;görögdinnye;0,5;0,2;6,5;31
+Gyümölcsök, gyümölcskészítmények;gránátalma;0,7;0,6;16,7;77
+Gyümölcsök, gyümölcskészítmények;grapefruit;0,5;0,2;7,2;36
+Gyümölcsök, gyümölcskészítmények;kiwi;1,0;0,6;11,3;61
+Gyümölcsök, gyümölcskészítmények;körte;0,4;0,3;12,0;53
+Gyümölcsök, gyümölcskészítmények;málna;1,2;0,3;5,4;35
+Gyümölcsök, gyümölcskészítmények;mandarin;0,7;0,3;9,8;47
+Gyümölcsök, gyümölcskészítmények;mangó;0,5;0,3;17,0;73
+Gyümölcsök, gyümölcskészítmények;meggy;0,8;0,5;11,0;56
+Gyümölcsök, gyümölcskészítmények;mirelit cseresznye;0,8;0,3;14,0;65
+Gyümölcsök, gyümölcskészítmények;mirelit egres;0,6;0,2;8,0;40
+Gyümölcsök, gyümölcskészítmények;mirelit földieper;0,9;0,4;7,2;39
+Gyümölcsök, gyümölcskészítmények;mirelit málna;1,2;0,3;5,4;35
+Gyümölcsök, gyümölcskészítmények;mirelit meggy;0,8;0,5;11,0;56
+Gyümölcsök, gyümölcskészítmények;mirelit ribizli;0,6;0,2;7,0;38
+Gyümölcsök, gyümölcskészítmények;mirelit szilva;0,8;0;10,2;47
+Gyümölcsök, gyümölcskészítmények;narancs;0,6;0,2;8,5;41
+Gyümölcsök, gyümölcskészítmények;naspolya;0,6;0;12,0;53
+Gyümölcsök, gyümölcskészítmények;nektarin;0,9;0,5;11,8;55
+Gyümölcsök, gyümölcskészítmények;őszibarack;0,7;0,1;9,0;41
+Gyümölcsök, gyümölcskészítmények;papaya;0,6;0,1;9,8;43
+Gyümölcsök, gyümölcskészítmények;piros ribizli;0,6;0,2;7,0;38
+Gyümölcsök, gyümölcskészítmények;ringló szilva;0,8;0;13,5;61
+Gyümölcsök, gyümölcskészítmények;sárgabarack;0,9;0,1;10,2;49
+Gyümölcsök, gyümölcskészítmények;sárgadinnye;0,3;0,1;9,5;40
+Gyümölcsök, gyümölcskészítmények;szeder;0,8;1,0;6,0;39
+Gyümölcsök, gyümölcskészítmények;szilva;0,8;0;10,2;47
+Gyümölcsök, gyümölcskészítmények;szőlő;0,6;0,3;18,1;81
+Gyümölcsök, gyümölcskészítmények;alma befőtt;0,3;0,3;20,2;86
+Gyümölcsök, gyümölcskészítmények;ananász befőtt;0,4;0,2;20,2;88
+Gyümölcsök, gyümölcskészítmények;aszalt alma;1,4;1,6;55,4;252
+Gyümölcsök, gyümölcskészítmények;aszalt füge;3,5;1,3;54,0;246
+Gyümölcsök, gyümölcskészítmények;aszalt őszibarack;4,9;1,0;65,9;302
+Gyümölcsök, gyümölcskészítmények;aszalt sárgabarack;5,0;0,5;70,2;307
+Gyümölcsök, gyümölcskészítmények;aszalt szilva;2,3;0,6;47,4;219
+Gyümölcsök, gyümölcskészítmények;banánchips;3,4;20,2;62,9;453
+Gyümölcsök, gyümölcskészítmények;birsalmabefőtt;0,4;0,5;20,4;90
+Gyümölcsök, gyümölcskészítmények;cseresznyebefőtt;0,6;0,2;19,8;85
+Gyümölcsök, gyümölcskészítmények;datolya;1,9;0,5;66,3;282
+Gyümölcsök, gyümölcskészítmények;eper befőtt;0,6;0,2;18,1;77
+Gyümölcsök, gyümölcskészítmények;kókuszreszelék;5,6;62,0;6,4;609
+Gyümölcsök, gyümölcskészítmények;körte befőtt;0,3;0;23,7;97
+Gyümölcsök, gyümölcskészítmények;mazsola;2,4;0;65,0;287
+Gyümölcsök, gyümölcskészítmények;meggy befőtt;0,6;0,2;20,8;90
+Gyümölcsök, gyümölcskészítmények;mirelit gesztenyemassza;2,9;0,9;49,5;219
+Gyümölcsök, gyümölcskészítmények;őszibarack befőtt;0,5;0;21,2;88
+Gyümölcsök, gyümölcskészítmények;sárgabarack befőtt;0,5;0,1;17,0;75
+Gyümölcsök, gyümölcskészítmények;szilva befőtt;0,4;0;21,9;90
+Gyümölcsök, gyümölcskészítmények;áfonya lekvár;0,3;0;59,7;243
+Gyümölcsök, gyümölcskészítmények;birsalma lekvár;0,2;0;58,8;238
+Gyümölcsök, gyümölcskészítmények;csipkebogyó lekvár;0,5;0;58,0;237
+Gyümölcsök, gyümölcskészítmények;eper lekvár;0,4;0;58,2;237
+Gyümölcsök, gyümölcskészítmények;málna lekvár;0,5;0;63,3;259
+Gyümölcsök, gyümölcskészítmények;meggy lekvár;0,4;0;70,3;288
+Gyümölcsök, gyümölcskészítmények;ribizli lekvár;0,2;0;61,6;251
+Gyümölcsök, gyümölcskészítmények;sárgabarack lekvár;0,4;0;64,5;263
+Gyümölcsök, gyümölcskészítmények;szeder lekvár;0,5;0,4;58,7;243
+Gyümölcsök, gyümölcskészítmények;szilva lekvár;1,3;0;54,0;227
+Gyümölcsök, gyümölcskészítmények;vegyesíz;1,0;0;60,0;247
+Gyümölcslevek, zöldséglevek, üdítőitalok;citromlé;0,2;0,0;3,1;18
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss almalé;0,1;0;14,0;58
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss citromlé;0,4;0,1;7,7;45
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss grapefruitlé;0,6;0,1;8,6;41
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss paradicsomlé;0,8;0,0;3,1;16
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss sárgarépalé;0,6;0;4,8;23
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss narancslé;0,7;0,2;10,9;214
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss szőlőlé;0,2;0;12,2;55
+Gyümölcslevek, zöldséglevek, üdítőitalok;kókusztej;0,3;0,4;1,4;10
+Gyümölcslevek, zöldséglevek, üdítőitalok;light rostos őszibaracklé;0;0;5,1;20
+Gyümölcslevek, zöldséglevek, üdítőitalok;light rostos sárgabaracklé;0;0;4,6;19
+Gyümölcslevek, zöldséglevek, üdítőitalok;light szűrt almalé;0,0;0;2,8;12
+Gyümölcslevek, zöldséglevek, üdítőitalok;narancslé light;0,7;0,2;10,1;48
+Gyümölcslevek, zöldséglevek, üdítőitalok;rostos körtelé 40%-os;0,2;0,1;14,8;61
+Gyümölcslevek, zöldséglevek, üdítőitalok;rostos őszibaracklé 40%-os;0,3;0,0;13,6;57
+Gyümölcslevek, zöldséglevek, üdítőitalok;rostos sárgabaracklé 40 %-os;0,4;0,1;14,1;60
+Gyümölcslevek, zöldséglevek, üdítőitalok;szűrt almalé 12%-os;0,0;0;14,7;59
+Gyümölcslevek, zöldséglevek, üdítőitalok;szűrt narancslé 40%-os;0,3;0,1;14,4;61
+Gyümölcslevek, zöldséglevek, üdítőitalok;szűrt szőlőlé 12%-os;0,0;0;14,5;59
+Gyümölcslevek, zöldséglevek, üdítőitalok;cola light üdítő;0;0;0,1;0
+Gyümölcslevek, zöldséglevek, üdítőitalok;cola üdítő;0;0;10,5;42
+Gyümölcslevek, zöldséglevek, üdítőitalok;csipkeszörp;0;0;61,9;249
+Gyümölcslevek, zöldséglevek, üdítőitalok;gyömbér üdítő;0;0;8,7;35
+Gyümölcslevek, zöldséglevek, üdítőitalok;málnaszörp;0;0;65,8;264
+Gyümölcslevek, zöldséglevek, üdítőitalok;narancs szörp;2,4;1,5;53,2;252
+Gyümölcslevek, zöldséglevek, üdítőitalok;narancs üdítő;0;0;12,0;48
+Gyümölcslevek, zöldséglevek, üdítőitalok;tonic üdítő;0;0;8,8;35
+Alkoholos italok;barnasör;0;0;5,9;51
+Alkoholos italok;világos sör;0;0;4,6;38
+Alkoholos italok;fehérbor;0;0;3,0;75
+Alkoholos italok;félédes pezsgő;0;0;4,0;79
+Alkoholos italok;vermouth;0;0;12,5;149
+Alkoholos italok;vörösbor;0;0;0,3;56
+Alkoholos italok;konyak;0;0;1,7;246
+Alkoholos italok;likőr;0;0;32,5;306
+Alkoholos italok;pálinka;0;0;0;260
+Alkoholos italok;unicum;0;0;19,0;323
+Alkoholos italok;whisky;0;0;0,1;248
+Húskészítmények, belsőségek;csirkecomb;20,9;5,2;0,5;133
+Húskészítmények, belsőségek;csirkehús;21,5;2,5;0,4;111
+Húskészítmények, belsőségek;csirkehús bőrrel;17,6;17,7;0;231
+Húskészítmények, belsőségek;csirkemell;24,7;1,0;0,5;110
+Húskészítmények, belsőségek;kacsahús;19,0;12,0;0,4;186
+Húskészítmények, belsőségek;pecsenyeliba;18,5;13,6;0,3;199
+Húskészítmények, belsőségek;pulykacomb;20,5;3,6;0;115
+Húskészítmények, belsőségek;pulykahús;20,5;9,5;0,4;170
+Húskészítmények, belsőségek;pulykamell;24,1;1,0;0;106
+Húskészítmények, belsőségek;tyúkhús;19,0;6,5;0,4;137
+Húskészítmények, belsőségek;birkahús;16,9;26,4;0,3;308
+Húskészítmények, belsőségek;borjúhús;19,5;4,5;0,3;120
+Húskészítmények, belsőségek;fácánhús;22,3;1,9;0,5;109
+Húskészítmények, belsőségek;házinyúlhús;21,0;8,0;0,4;158
+Húskészítmények, belsőségek;őzhús;20,8;1,9;0,4;102
+Húskészítmények, belsőségek;sovány bárányhús;19,7;12,7;0,3;195
+Húskészítmények, belsőségek;szarvashús;20,7;3,9;0,6;121
+Húskészítmények, belsőségek;vaddisznóhús;21,6;2,4;0,4;110
+Húskészítmények, belsőségek;vadkacsa;22,7;3,1;0,5;121
+Húskészítmények, belsőségek;bélszín;19,0;4,4;0,6;119
+Húskészítmények, belsőségek;közepes zsírtartalmú marhahús;19,0;14,0;0,6;205
+Húskészítmények, belsőségek;marhafelsál;17,0;19,0;0,6;243
+Húskészítmények, belsőségek;lapos marhahátszín;16,0;19,0;0,6;246
+Húskészítmények, belsőségek;puha marhahátszín;20,0;18,0;0,6;239
+Húskészítmények, belsőségek;marhatarja;19,0;6,2;0,6;135
+Húskészítmények, belsőségek;sovány marhahús;21,0;6,2;0,6;143
+Húskészítmények, belsőségek;zsíros marhahús;16,0;21,0;0,5;256
+Húskészítmények, belsőségek;csülök;16,0;29,0;0,3;328
+Húskészítmények, belsőségek;közepes zsírtartalmú sertéshús;17,5;23,9;0,3;288
+Húskészítmények, belsőségek;oldalas;12,0;42,0;0,3;429
+Húskészítmények, belsőségek;sovány sertéshús, comb, karaj;21,0;8,1;0,4;159
+Húskészítmények, belsőségek;zsíros sertéshús;12,0;42,0;0,3;429
+Húskészítmények, belsőségek;angolszalonna;16,8;46,5;0;488
+Húskészítmények, belsőségek;aszpikos uborkás sonka;11,0;2,9;0,6;72
+Húskészítmények, belsőségek;baromfipárizsi;14,7;15,6;2,7;211
+Húskészítmények, belsőségek;baromfivirsli;14,7;15,6;2,7;211
+Húskészítmények, belsőségek;csabai csípőskolbász;19,8;41,9;0,3;460
+Húskészítmények, belsőségek;császárszalonna;10,0;45,0;0;447
+Húskészítmények, belsőségek;cserkészkolbász;16,3;29,8;0,3;336
+Húskészítmények, belsőségek;csirkesonka;22,2;1,4;7,0;130
+Húskészítmények, belsőségek;debreceni;15,7;27,0;0,2;308
+Húskészítmények, belsőségek;disznósajt;14,5;28,3;0,2;315
+Húskészítmények, belsőségek;főzőkolbász;17,8;35,5;0,3;394
+Húskészítmények, belsőségek;füstölt főtt tarja;15,0;15,0;0,3;197
+Húskészítmények, belsőségek;füstöltkolbász;15,5;25,4;0,3;293
+Húskészítmények, belsőségek;füstölt sertés sonka;17,2;33,0;0,1;368
+Húskészítmények, belsőségek;gépsonka;22,6;7,1;0,4;157
+Húskészítmények, belsőségek;hamburgerpogácsa;15,1;11,2;2,3;171
+Húskészítmények, belsőségek;krinolin;11,9;18,2;0,2;213
+Húskészítmények, belsőségek;lecsókolbász;16,3;22,9;0,3;274
+Húskészítmények, belsőségek;löncshús;13,8;22,0;2,0;262
+Húskészítmények, belsőségek;marhapárizsi;11,2;18,2;2,0;218
+Húskészítmények, belsőségek;mortadella;13,7;30,8;0,3;335
+Húskészítmények, belsőségek;olasz felvágott;13,7;30,8;0,3;335
+Húskészítmények, belsőségek;paprikás szalámi;19,6;45,8;0,3;494
+Húskészítmények, belsőségek;sertéspárizsi;11,9;18,2;0,2;213
+Húskészítmények, belsőségek;pulykakolbász;22,8;42,0;0;471
+Húskészítmények, belsőségek;pulykasonka;17,0;2,8;4,2;111
+Húskészítmények, belsőségek;rakott nyelv;18,5;19,1;3,5;261
+Húskészítmények, belsőségek;sajtos baromfipárizsi;13,0;19,0;3,9;240
+Húskészítmények, belsőségek;sonkaszalámi;21,2;8,2;0,2;160
+Húskészítmények, belsőségek;sütnivaló kolbász;22,7;42,0;0;471
+Húskészítmények, belsőségek;szárazkolbász;20,0;32,1;0,3;372
+Húskészítmények, belsőségek;tavaszi felvágott;10,3;14,6;2,4;183
+Húskészítmények, belsőségek;téliszalámi;25,1;46,1;0,3;519
+Húskészítmények, belsőségek;túristaszalámi;17,5;41,0;0,3;442
+Húskészítmények, belsőségek;sertés virsli;12,5;20,0;0,2;232
+Húskészítmények, belsőségek;zalai felvágott;15,6;19,9;0,6;245
+Húskészítmények, belsőségek;borjúmáj;19,2;4,1;3,6;129
+Húskészítmények, belsőségek;csirkemáj;20,0;3,7;3,0;126
+Húskészítmények, belsőségek;csirkeszív;17,3;5,8;0,7;125
+Húskészítmények, belsőségek;csirkezúza;16,6;2,4;0,3;90
+Húskészítmények, belsőségek;kenőmájas;15,9;27,7;0,3;316
+Húskészítmények, belsőségek;libamáj;16,4;4,3;6,3;130
+Húskészítmények, belsőségek;májashurka;14,6;11,4;10,1;202
+Húskészítmények, belsőségek;marhamáj;20,9;3,1;3,6;127
+Húskészítmények, belsőségek;sertéspacal;15,9;11,2;0;165
+Húskészítmények, belsőségek;sertés agyvelő;10,6;9,0;0;124
+Húskészítmények, belsőségek;sertésmáj;19,5;5,3;2,5;136
+Húskészítmények, belsőségek;sertésmájkrém;13,4;21,0;5,9;267
+Húskészítmények, belsőségek;sertésnyelv;16,8;16,0;0,5;214
+Húskészítmények, belsőségek;sertéstüdő;20,1;2,9;0,6;109
+Húskészítmények, belsőségek;sertésvér;18,5;0,1;0,1;76
+Húskészítmények, belsőségek;sertésvese;17,0;5,0;0,3;115
+Húskészítmények, belsőségek;véreshurka;12,2;19,4;6,4;250
+Halak, halkonzervek;angolna;15,0;24,5;0;282
+Halak, halkonzervek;balin;17,8;5,5;0;121
+Halak, halkonzervek;busa;18,0;1,9;0,6;92
+Halak, halkonzervek;csuka;18,4;0,9;0;82
+Halak, halkonzervek;fogassüllő;19,0;0,8;0,2;84
+Halak, halkonzervek;harcsa;15,8;2,0;0,2;82
+Halak, halkonzervek;hering;18,2;17,8;0;234
+Halak, halkonzervek;keszeg;16,6;5,5;0,2;117
+Halak, halkonzervek;lazac;20,0;14,0;0,2;208
+Halak, halkonzervek;makrela;18,7;11,9;0;183
+Halak, halkonzervek;pisztráng;21,5;2,9;0;113
+Halak, halkonzervek;ponty;15,8;8,7;0,1;143
+Halak, halkonzervek;szardínia;19,4;4,5;0;119
+Halak, halkonzervek;tintahal;12,7;0,7;0,8;61
+Halak, halkonzervek;tonhal filé;21,5;15,5;0;227
+Halak, halkonzervek;tőkehal filé;17,7;0,6;1,2;82
+Halak, halkonzervek;kagyló;14,4;2,2;0;78
+Halak, halkonzervek;kagylókonzerv;19,5;2,0;2,0;104
+Halak, halkonzervek;kaviár;26,0;16,0;4,6;268
+Halak, halkonzervek;makrela konzerv;18,9;28,0;0;329
+Halak, halkonzervek;olajos szardínia;22,5;21,4;0;284
+Halak, halkonzervek;olajos tonhal;23,8;21,5;0;290
+Halak, halkonzervek;olajoshal konzerv;15,9;33,8;0;370
+Halak, halkonzervek;pácolt hering;11,1;11,0;0;144
+Halak, halkonzervek;paradicsomos halkonzerv;14,8;15,0;0;195
+Halak, halkonzervek;rák;20,5;1,1;2,2;101
+Halak, halkonzervek;rákkonzerv;22,9;1,8;1,1;113
+Hüvelyesek és termékeik;csicseriborsó;19,8;3,4;48,8;307
+Hüvelyesek és termékeik;fejtettbab;10,8;0,4;29,0;164
+Hüvelyesek és termékeik;lencse;26,0;1,9;53,0;335
+Hüvelyesek és termékeik;sárgaborsó;21,7;1,5;53,1;314
+Hüvelyesek és termékeik;sárgaborsóliszt;27,2;1,3;60,5;364
+Hüvelyesek és termékeik;szárazbab;21,9;1,0;54,1;314
+Hüvelyesek és termékeik;szójabab;37,0;18,1;27,0;421
+Hüvelyesek és termékeik;szójacsíra;5,5;1,0;4,7;50
+Hüvelyesek és termékeik;szójagranulátum;47,0;2,0;31,0;332
+Hüvelyesek és termékeik;szójakocka;47,0;2,0;31,0;332
+Hüvelyesek és termékeik;szójaliszt;41,6;28,5;22,1;514
+Hüvelyesek és termékeik;szójapárizsi;12,3;15,5;14,1;246
+Hüvelyesek és termékeik;szójapehely;42,0;25,0;20,0;475
+Hüvelyesek és termékeik;szójás fasírtpor;35,3;12,9;32,6;390
+Hüvelyesek és termékeik;szójaszósz;10,5;0,1;5,6;66
+Hüvelyesek és termékeik;szójatej;2,8;1,9;1,8;36
+Hüvelyesek és termékeik;tofu (szójatúró);8,1;4,2;0,6;73
+Tejtermékek;kakaós tej;3,5;0,5;11,4;64
+Tejtermékek;karamellás tej;3,2;1,5;12,5;77
+Tejtermékek;kecsketej;3,6;3,9;4,7;69
+Tejtermékek;tej, 0%-os;3,5;0,1;4,8;34
+Tejtermékek;tej, 1,5%-os;3,4;1,5;5,3;49
+Tejtermékek;tej, 2,8%-os;3,4;2,8;5,3;60
+Tejtermékek;tej, 3,6%-os;3,4;3,6;5,3;68
+Tejtermékek;félzsíros tehéntúró;16,2;7,0;3,7;143
+Tejtermékek;gomolyatúró;18,2;21,1;3,0;276
+Tejtermékek;juhtúró;14,7;22,5;2,8;274
+Tejtermékek;sovány tehéntúró;14,1;0,5;3,8;76
+Tejtermékek;vaniliás túrókrém;13,8;11,3;18,0;230
+Tejtermékek;0%-os joghurt;3,4;0,1;4,6;34
+Tejtermékek;cukormentes gyümölcsjoghurt;2,9;3,0;5,1;60
+Tejtermékek;gyümölcsjoghurt;2,8;2,9;11,2;83
+Tejtermékek;joghurt;3,4;3,6;4,6;65
+Tejtermékek;kefir;3,4;3,6;4,6;65
+Tejtermékek;cukrozott tejszínhab;2,3;26,0;11,0;289
+Tejtermékek;habtejszín;2,6;30,0;3,0;294
+Tejtermékek;joghurthab;2,8;1,6;18,0;98
+Tejtermékek;kávétejszín;3,3;16,0;3,9;174
+Tejtermékek;sovány tejpor;36,0;2,0;50,3;365
+Tejtermékek;sűrített tej;8,5;7,0;54,9;318
+Tejtermékek;tejföl 12%-os;2,8;11,0;4,3;128
+Tejtermékek;tejföl 20%-os;3,3;20,0;3,8;209
+Tejtermékek;zsíros tejpor;25,5;27,0;37,0;495
+Sajtok;anikó sajt;24,2;26,0;1,8;340
+Sajtok;bakony camembert sajt;21,5;23,0;1,5;300
+Sajtok;boci krémsajt;11,5;24,9;1,5;277
+Sajtok;camping krémsajt;16,5;26,4;1,7;312
+Sajtok;chester cheddar sajt;26,8;29,1;1,5;377
+Sajtok;edámi sajt;26,2;26,6;1,7;353
+Sajtok;ementáli sajt;27,8;29,4;1,5;384
+Sajtok;fetasajt;14,2;21,3;4,1;266
+Sajtok;zalai füstölt sajt;25,2;26,6;1,7;349
+Sajtok;goudasajt;24,9;27,4;2,2;357
+Sajtok;göcseji sajt;22,2;23,3;1,4;306
+Sajtok;hóvirág sajt;21,0;23,4;2,0;304
+Sajtok;ízesített kenhető sajt;15,5;23,7;1,9;284
+Sajtok;karaván füstölt sajt;22,3;27,3;1,9;344
+Sajtok;kaskavál juhsajt;23,6;28,7;1,4;360
+Sajtok;kecskesajt;21,6;29,8;2,5;367
+Sajtok;köményes sajt;30,5;10,0;1,6;219
+Sajtok;márványsajt;20,0;29,7;2,0;357
+Sajtok;mozarella sajt;19,4;21,6;2,2;282
+Sajtok;óvári sajt;29,6;18,5;1,7;293
+Sajtok;parmezán sajt;26,8;28,9;1,6;375
+Sajtok;rokfort sajt;21,5;30,6;2,0;372
+Sajtok;tejszínkrémsajt;2,8;26,2;3,1;261
+Sajtok;tenkes sajt;27,8;16,3;1,9;267
+Sajtok;tihany séd brie sajt;18,2;33,4;1,4;381
+Sajtok;trappista sajt;27,7;28,1;1,6;372
+Sajtok;túra sajt;25,7;8,4;2,0;187
+Sajtok;zsíros kockasajt;16,7;25,0;2,0;301
+Diófélék, olajos magvak;bokormogyoró;15,6;63,5;8,7;672
+Diófélék, olajos magvak;dejó;18,7;26,9;23,8;414
+Diófélék, olajos magvak;dió;18,6;57,0;11,7;637
+Diófélék, olajos magvak;lenmag;24,4;30,9;0;377
+Diófélék, olajos magvak;mák;20,5;38,2;23,9;524
+Diófélék, olajos magvak;mandula;27,6;52,2;6,8;610
+Diófélék, olajos magvak;napraforgó;22,5;49,0;12,3;583
+Diófélék, olajos magvak;olajos pörkölt kesudió;16,2;48,2;28,5;616
+Diófélék, olajos magvak;pisztácia;20,8;51,6;12,5;600
+Diófélék, olajos magvak;pörkölt földimogyoró;26,4;49,4;8,9;589
+Diófélék, olajos magvak;sós földimogyoró;24,6;45,9;8,3;547
+Diófélék, olajos magvak;szezámmag;26,3;54,8;9,4;639
+Diófélék, olajos magvak;szezámpehely;26,3;54,8;9,4;639
+Diófélék, olajos magvak;szelídgesztenye;4,8;1,5;32,6;164
+Diófélék, olajos magvak;tökmag;33,9;51,5;3,6;616
+Tojásfélék;Tojásfélék;13,5;12,0;0,6;165
+Tojásfélék;tojásfehérje;12,8;0,3;0,7;57
+Tojásfélék;tojássárga;16,1;31,7;0,3;353
+Sütő-, édesipari termékek;fagylalt, jégkrém;2,2;4,5;27,8;161
+Sütő-, édesipari termékek;mézespuszedli;7,2;4,5;71,5;357
+Sütő-, édesipari termékek;citromos nápolyi;5,6;27,3;53,7;486
+Sütő-, édesipari termékek;édes keksz;8,2;11,0;78,8;449
+Sütő-, édesipari termékek;étcsokoládé;5,8;29,2;62,0;537
+Sütő-, édesipari termékek;félkész réteslap;11,6;1,2;72,1;348
+Sütő-, édesipari termékek;háztartási keksz;9,8;6,8;78,0;414
+Sütő-, édesipari termékek;kakaós nápolyi;6,6;28,3;54,1;500
+Sütő-, édesipari termékek;korpáskeksz;14,4;13,8;59,8;423
+Sütő-, édesipari termékek;marcipán;8,0;24,9;57,4;488
+Sütő-, édesipari termékek;mogyorókrém;6,5;31,0;57,0;536
+Sütő-, édesipari termékek;ropi;9,7;0,5;75,0;345
+Sütő-, édesipari termékek;sajtos tallér;10,2;24,9;39,1;423
+Sütő-, édesipari termékek;sóskeksz;8,0;18,8;58,3;436
+Sütő-, édesipari termékek;tejcsokoládé;8,4;30,3;56,8;536
+Sütő-, édesipari termékek;barnacukor;0;0;97,4;391
+Sütő-, édesipari termékek;cukor;0;0;99,9;402
+Sütő-, édesipari termékek;méz;0,4;0;81,0;327
+Sütő-, édesipari termékek;pudingpor;0,4;0,1;84,2;341
+Zsiradékok;füstölt szalonna;9,0;73,0;0;696
+Zsiradékok;libazsír;0,5;99,0;0;897
+Zsiradékok;sertészsír;0,1;99,7;0;902
+Zsiradékok;tepertő;12,1;83,2;0;801
+Zsiradékok;tőkehalmáj olaj;0;99,8;0;902
+Zsiradékok;tyúkzsír;0;99,5;0;900
+Zsiradékok;vaj;0,4;80,0;0,5;727
+Zsiradékok;vajkrém;2,5;40,0;2,0;380
+Zsiradékok;búzacsíraolaj;0;99,5;0;900
+Zsiradékok;margarin, 35% zsírtartalmú;1,6;35,0;0,4;325
+Zsiradékok;margarin, 55% zsírtartalmú;0,2;55,0;0,4;500
+Zsiradékok;dióolaj;0;99,5;0;900
+Zsiradékok;főzőmargarin;0,2;80,0;0,4;726
+Zsiradékok;kókuszzsír;0;99,0;0,0;895
+Zsiradékok;kukoricaolaj;0;100,0;0;904
+Zsiradékok;lenmagolaj;0;99,5;0;900
+Zsiradékok;margarin 70 % zsírtartalmú;0,2;70,0;0,4;635
+Zsiradékok;napraforgó olaj;0;99,8;0;902
+Zsiradékok;olivaolaj;0;99,6;0;901
+Zsiradékok;repceolaj;0;99,8;0;902
+Zsiradékok;szezámolaj;0;99,5;0;900
+Zsiradékok;szójaolaj;0;99,8;0;902
+Zsiradékok;tökmagolaj;0;99,8;0;902
+Ételízesítők, egyéb nyersanyagok;cukormentes neskakaó;2,0;0,2;4,4;28
+Ételízesítők, egyéb nyersanyagok;élesztő;16,7;1,2;0;78
+Ételízesítők, egyéb nyersanyagok;gabonakolbász;4,4;30,7;25,6;399
+Ételízesítők, egyéb nyersanyagok;kakaópor;18,5;21,7;10,5;313
+Ételízesítők, egyéb nyersanyagok;marhahúsleves kocka;17,3;4,0;16,1;170
+Ételízesítők, egyéb nyersanyagok;nescafe;11,2;0;8,2;78
+Ételízesítők, egyéb nyersanyagok;neskakaó;10,8;4,0;79,1;397
+Ételízesítők, egyéb nyersanyagok;pattogatott kukorica (olaj nélkül);12,0;4,2;77,9;399
+Ételízesítők, egyéb nyersanyagok;pattogatott kukorica (olajjal);9,0;28,1;57,2;520
+Ételízesítők, egyéb nyersanyagok;pótkávé;5,5;3,4;81,0;378
+Ételízesítők, egyéb nyersanyagok;teafű;26,0;5,1;0,8;121
+Ételízesítők, egyéb nyersanyagok;tejszínpótló por;4,8;35,5;54,9;561
+Ételízesítők, egyéb nyersanyagok;ecet 20%-os;0,4;0;0,6;4
+Ételízesítők, egyéb nyersanyagok;ételízesítő;3,3;1,0;9,3;60
+Ételízesítők, egyéb nyersanyagok;fűszerpaprika;13,0;4,0;63,0;342
+Ételízesítők, egyéb nyersanyagok;halászlékocka;5,8;10,8;26,0;225
+Ételízesítők, egyéb nyersanyagok;mustár;5,7;6,4;22,0;169
+Ételízesítők, egyéb nyersanyagok;spagettikrém;3,6;13,1;23,3;226
+Ételízesítők, egyéb nyersanyagok;tormás majonéz;1,7;25,1;0;234
+Ételízesítők, egyéb nyersanyagok;ezer sziget salátaöntet;1,7;28,2;12,4;311
+Ételízesítők, egyéb nyersanyagok;jogonéz;0,9;30,9;4,6;301
+Ételízesítők, egyéb nyersanyagok;majonéz;1,3;93,2;0,0;848
+Ételízesítők, egyéb nyersanyagok;gulyáskrém;2,2;7,7;0;78
+------------------------------------------------------------
+Üzletben kapható termékek;3Bit tejcsokoládéval bevont keksz szelet tejes töltelékkel 46 g;5,3;33,5;57,0;555;2305
+Üzletben kapható termékek;7001 jódozott párolt finom só 1 kg;0;0;0;0;0
+Üzletben kapható termékek;7001 jódozott párolt finom só 200 g;0;0;0;0;0
+Üzletben kapható termékek;Abonett BIO gluténmentes kukoricás extrudált kenyér 100 g;8,9;3,8;64;347;1465
+Üzletben kapható termékek;Abonett BIO natúr extrudált kenyér 100 g;13;2,3;65;360;1522
+Üzletben kapható termékek;Abonett búzacsírás extrudált kenyér 100 g;12;2,9;64;358;1510
+Üzletben kapható termékek;Abonett gluténmentes extrudált kenyér 100 g;15;3,3;60;346;1462
+Üzletben kapható termékek;Abonett gluténmentes köleses extrudált kenyér 100 g;9,3;3,8;66;358;1511
+Üzletben kapható termékek;Abonett gluténmentes kukoricás extrudált kenyér 100 g;8,9;3,8;64;347;1465
+Üzletben kapható termékek;Abonett korpás extrudált kenyér 100 g;12;2,7;64;361;1523
+Üzletben kapható termékek;Abonett natúr extrudált kenyér 100 g;13;2,3;65;360;1522
+Üzletben kapható termékek;Abonett pizzás extrudált kenyér 100 g;12;2,6;65;356;1503
+Üzletben kapható termékek;Abonett rozsos extrudált kenyér 100 g;9,3;2,3;66;346;1461
+Üzletben kapható termékek;Abonett SlimUp Sandwich extrudált szelet sajtkrémes-mexikói töltelékkel 26 g;11;15;60;429;1803
+Üzletben kapható termékek;Abonett SlimUp Sandwich extrudált szelet sajtkrémes-zöldfűszeres töltelékkel 26 g;12;14;61;430;1805
+Üzletben kapható termékek;Abonett zabos extrudált kenyér 100 g;12;3,2;65;361;1525
+Üzletben kapható termékek;ABY BIO csíráztatott zabpehely 250 g;15;6,9;37;313;1312
+Üzletben kapható termékek;ABY BIO szőlőmagliszt sütéshez, főzéshez 300 g;11,7;4,0;11,3;268;1099
+Üzletben kapható termékek;After Eight étcsokoládéval mártott mentolízű fondan lapocskák 300 g;2,0;12,9;73,6;424;1786
+Üzletben kapható termékek;After Eight mentolízű étcsokoládé nyuszi 85 g;5,7;36,0;48,8;557;2317
+Üzletben kapható termékek;Airwaves Black Mint mentol- és ánizsízű cukormentes rágógumi édesítőszerrel 14 g;0;0;59,4;143;594
+Üzletben kapható termékek;Airwaves Cassis drazsé cukormentes rágógumi 14 g;0;0;62,9;151;629
+Üzletben kapható termékek;Airwaves Cool Cassis mentol- és feketeribizli-ízű cukormentes rágógumi édesítőszerrel 46 db 64 g;0;0;62,6;150;626
+Üzletben kapható termékek;Airwaves Drops Extra Strong mézzel töltött mentol-, eukaliptuszízű keménycukorka C-vitaminnal 33,5 g;0;0;94,4;375;1592
+Üzletben kapható termékek;Airwaves Drops Honey  and  Lemon mézzel töltött citrom-, mentol- és eukaliptuszízű keménycukorka 33,5 g;0;0;94,2;374;1589
+Üzletben kapható termékek;Airwaves Extreme drazsé cukormentes rágógumi 14 g;0;0;59,7;143;597
+Üzletben kapható termékek;Airwaves Extreme mentol- és eukaliptuszízű cukormentes rágógumi 21 db 29 g;0;0;59,8;143;598
+Üzletben kapható termékek;Airwaves Menthol  and  Eucalyptus drazsé cukormentes rágógumi 14 g;0;0;59,7;143;597
+Üzletben kapható termékek;Airwaves mentol- és cseresznye cukormentes rágógumi édesítőszerrel 10 db 14 g;0;0;59,2;142;592
+Üzletben kapható termékek;Airwaves mentol- és eukaliptuszízű cukormentes rágógumi édesítőszerrel 46 db 64 g;0;0;59,7;143;597
+Üzletben kapható termékek;Alaska kakaós krémmel töltött kukoricarudacskák 18 g;6,24;31,98;57,11;541;2260
+Üzletben kapható termékek;Alaska mogyoró ízű krémmel töltött kukoricarudacskák 18 g;6,07;32,07;56,31;538;2247
+Üzletben kapható termékek;Alaska tejes krémmel töltött kukoricarudacskák 18 g;7,00;32,19;55,58;540;2255
+Üzletben kapható termékek;Albatross hámozott, felezett őszibarack cukrozott lében 700 g;0,36;0,0;14,6;62,3;264,4
+Üzletben kapható termékek;Albert keksz 220 g;6,8;16,0;74,0;470;1975
+Üzletben kapható termékek;Alce Nero BIO bazsalikomos paradicsompüré paradicsomdarabkákkal 500 g;1,6;0,2;4,9;30;126
+Üzletben kapható termékek;Alce Nero BIO limelé 250 ml;0,7;0,1;6,2;29;121
+Üzletben kapható termékek;Alka Elephant chips-tallér szezámmagvakkal 80 g;7,1;8,5;77,9;421;1776,2
+Üzletben kapható termékek;Alka Elephant sós chips-tallér 80 g;6,9;8,1;79,5;423;1785,6
+Üzletben kapható termékek;Alpro Cuisine UHT kókusz főzőkrém 250 ml;1,2;8,8;2,3;100;413
+Üzletben kapható termékek;Alpro Cuisine UHT rizs főzőkrém 250 ml;0,4;7,9;5,4;96;398
+Üzletben kapható termékek;Alpro Csokoládés kókuszital 1 l;0,40;1,10;7;41;171
+Üzletben kapható termékek;Alpro Karamellás szójadesszert 4 x 125 g;3,2;1,80;13,70;85;361
+Üzletben kapható termékek;Alpro UHT kókuszos szójadesszert kalciummal és vitaminokkal dúsítva 4 x 125 g;2,40;2,20;12,20;80;336
+Üzletben kapható termékek;Amix Exclusive Bar banán-csokoládé ízű protein szelet 85 g;26,9;15,7;44,5;426;1792
+Üzletben kapható termékek;Amix Exclusive Bar dupla holland csokoládé ízű protein szelet 85 g;28,0;16,8;42,5;433;1820
+Üzletben kapható termékek;Amix Exclusive Bar fehér csokoládé-kókusz ízű protein szelet 85 g;26,1;16,0;42,7;419;1761
+Üzletben kapható termékek;Amorella mogyorós praliné 9 db 108 g;6,3;34;55,5;556;2320
+Üzletben kapható termékek;Anthon Berg csokoládé marcipánnal és konyakban lévő sárgabarackkal töltve 8 db 220 g;7,1;24;51;463;1933
+Üzletben kapható termékek;Anthon Berg csokoládé marcipánnal és Madeira likőrben lévő szilvával töltve 8 db 220 g;7,0;22;55;466;1946
+Üzletben kapható termékek;Anthon Berg csokoládé marcipánnal és narancslikőrös málnával töltve 8 db 220 g;7,1;24;50;457;1910
+Üzletben kapható termékek;Anthon Berg csokoládé marcipánnal és pezsgőben lévő eperrel töltve 8 db 220 g;6,8;23;50;449;1875
+Üzletben kapható termékek;Anthon Berg csokoládé marcipánnal és rumban lévő cseresznyével töltve 8 db 220 g;7,0;23;49;443;1853
+Üzletben kapható termékek;Anthon Berg marcipános étcsokoládé áfonyás vodkával töltve 8 db 220 g;6,8;23;49;443;1853
+Üzletben kapható termékek;Antica Cantina búzatortilla 20 cm 8 db 320 g;8,0;7,5;51;310;1300
+Üzletben kapható termékek;Aranyfácán sűrített paradicsom 22-24% 150 g;4,0;0,8;16;87;370
+Üzletben kapható termékek;Aranyfácán sűrített paradicsom 22-24% 70 g;4,0;0,8;16;87;370
+Üzletben kapható termékek;Armorial szardínia olíva olajban 120 g;23;18;0;260;1088
+Üzletben kapható termékek;Armorial szardínia paradicsomszószban 120 g;21,9;11,9;2,2;203,5;850
+Üzletben kapható termékek;Armorial szardínia pikáns olajban 120 g;23;18;0;254;1057
+Üzletben kapható termékek;Atlantik tonhal darabok pikáns, zöldséges mártásban 185 g;8,9;1,7;8,9;87;367
+Üzletben kapható termékek;Bahlsen Hit keksz kókusz ízesítésű töltelékkel 220 g;5,7;26;63;510;2136
+Üzletben kapható termékek;Bahlsen Hit keksz mogyoró ízesítésű töltelékkel 220 g;5,9;25;63;506;2116
+Üzletben kapható termékek;Bahlsen Hit keksz vanília ízesítésű töltelékkel 220 g;5,8;25;64;507;2123
+Üzletben kapható termékek;Bahlsen Leibniz Minis ropogós keksz tejcsokoládéval 100 g;7,9;21;66;490;2050
+Üzletben kapható termékek;Bahlsen Leibniz vajas keksz 100 g;7,8;11;76;439;1850
+Üzletben kapható termékek;Bahlsen Zoo Original vajas keksz 100 g;8,7;11;74;438;1850
+Üzletben kapható termékek;Balaton Bumm kakaós tejmasszával mártott töltött ostyaszelet 40 g;8,1;25;57;490;2050
+Üzletben kapható termékek;Balaton Bumm kakaós tejmasszával mártott töltött ostyaszelet karamellel és búzapehellyel 42 g;4,0;21,5;67,4;482;2020
+Üzletben kapható termékek;Balaton Bumm karamellel bevont töltött ostyaszelet búzapelyhes fehér masszával mártva 42 g;5,6;22,3;65,1;485;2034
+Üzletben kapható termékek;Balaton kakaós bevonómasszával mártott, rum ízű krémmel töltött ostya 30 g;5,1;28,8;54,9;508;2123
+Üzletben kapható termékek;Balaton kakaós étbevonómasszával mártott, kakaós krémmel töltött ostya 30 g;5,2;28,1;56,5;508;2123
+Üzletben kapható termékek;Balaton kókuszos krémmel töltött kakaós ostya kakaós bevonómasszával mártva 28 g;6,3;27,2;57,3;507;2118
+Üzletben kapható termékek;Balaton Újhullám étcsokoládéval mártott, kakaós krémmel töltött ostya 33 g;5,2;33,1;55,9;549;2289
+Üzletben kapható termékek;Balaton Újhullám fehér csokoládéval mártott, kókuszos krémmel töltött ostya 33 g;6,8;35,6;53,5;564;2352
+Üzletben kapható termékek;Balaton Újhullám tejcsokoládéval mártott, kakaós krémmel töltött ostya 33 g;5,4;33,0;57,3;551;2300
+Üzletben kapható termékek;Balaton Újhullám tejcsokoládéval mártott, mogyorós krémmel töltött ostya 33 g;5,6;33,1;57,1;552;2304
+Üzletben kapható termékek;Balaton Zebra kakaós ostya tejkrémmel töltve 37 g;7,8;35,5;52,6;563;2348
+Üzletben kapható termékek;Barilla Arrabbiata paradicsommártás csípőspaprikával 400 g;1,4;3,1;5,2;58;243
+Üzletben kapható termékek;Barilla Basalico bazsalikomos paradicsomszósz 400 g;1,6;2,7;6,8;61;255
+Üzletben kapható termékek;Barilla Bavette szálas durum száraztészta 500 g;12,8;2,0;70,9;359;1521
+Üzletben kapható termékek;Barilla bazsalikomos paradicsomszósz 200 g;1,6;2,7;6,8;61;255
+Üzletben kapható termékek;Barilla Bolognese paradicsomszósz marha- és sertéshússal 400 g;4,2;4,2;7,2;86;361
+Üzletben kapható termékek;Barilla Bucatini szálas durum száraztészta 500 g;12,8;2,0;70,9;359;1521
+Üzletben kapható termékek;Barilla Collezione Fetuccine Toscane szálas durum száraztészta 500 g;12;2,0;71,7;359;1521
+Üzletben kapható termékek;Barilla Fusilli apró durum száraztészta 500 g;12,5;2,0;71,2;359;1521
+Üzletben kapható termékek;Barilla genovai pesto szósz bazsalikommal 190 g;5,0;52,0;5,5;514;2119
+Üzletben kapható termékek;Barilla Integrale Pennette Rigate teljes kiőrlésű apró durum száraztészta 500 g;13;2,5;65,7;350;1482
+Üzletben kapható termékek;Barilla Integrale Spaghetti teljes kiőrlésű szálas durum száraztészta 500 g;13;2,5;65,7;350;1482
+Üzletben kapható termékek;Barilla Napoletana fűszeres paradicsommártás 400 g;1,4;4,0;6,3;69;289
+Üzletben kapható termékek;Barilla Napoletana paradicsomszósz zöldfűszerekkel 200 g;1,4;4,0;6,3;69;289
+Üzletben kapható termékek;Barilla Penne Rigate apró durum száraztészta 500 g;12,5;2,0;71,2;359;1521
+Üzletben kapható termékek;Barilla Pesto Rosso piros pesto szósz paradicsommal, bazsalikomal és modenai balzsamecettel 200 g;3,8;29,5;10,7;328;1354
+Üzletben kapható termékek;Barilla Pipette Rigate apró durum száraztészta 500 g;12,5;2,0;71,2;359;1521
+Üzletben kapható termékek;Barilla Spaghetti szálas durum száraztészta 500 g;12,8;2,0;70,9;359;1521
+Üzletben kapható termékek;Barilla Spaghettini szálas durum száraztészta 500 g;12,8;2,0;70,9;359;1521
+Üzletben kapható termékek;Barilla Tonno paradicsomszósz tonhaldarabokkal, olívaolajjal 400 g;3,6;5,0;7,5;94;391
+Üzletben kapható termékek;Beach Flower Back Mit darált, pörkölt mogyoró 200 g;16,0;61,0;4,8;657;2711
+Üzletben kapható termékek;Beaufor finomra őrölt, csípős dijoni mustár 200 g;7,8;12;2,6;160;663
+Üzletben kapható termékek;Belgian Fancy Truffes Original Fantasy Truffles belga trüffel 200 g;4,2;48,3;38,7;618;2563
+Üzletben kapható termékek;Belgian Hearts belga csokoládé praliné 65 g;3,4;32,9;55,7;538;2246
+Üzletben kapható termékek;Belgian Seashells belga csokoládé praliné 250 g;3,0;33,2;55,5;539;2249
+Üzletben kapható termékek;Belgian Seashells belga csokoládé praliné 65 g;3,3;32,9;55,9;539;2249
+Üzletben kapható termékek;Belgian táblás étcsokoládé 72% 100 g;9,1;39,7;29,5;541;2245
+Üzletben kapható termékek;Belgian táblás tejcsokoládé 100 g;5,8;29,7;58,2;530;2216
+Üzletben kapható termékek;Belgian táblás tejcsokoládé ropogós keksszel 100 g;5,8;28,0;59,8;521;2180
+Üzletben kapható termékek;Belgian táblás tejcsokoládé ropogós mogyoróval 100 g;5,7;28,9;59,2;526;2199
+Üzletben kapható termékek;belVita JóReggelt! csökkentett cukortartalmú kakaós gabonás omlós keksz csokoládé darabkákkal 300 g;8,5;13,5;64,5;430;1810
+Üzletben kapható termékek;belVita JóReggelt! csökkentett cukortartalmú kakaós gabonás omlós keksz csokoládé darabkákkal 50 g;8,5;13,5;64,5;430;1810
+Üzletben kapható termékek;belVita JóReggelt! Duo gabonás omlós keksz kakaós-mogyorós ízű töltelékkel 50 g;7,2;16,0;69,0;460;1930
+Üzletben kapható termékek;belVita JóReggelt! epres-joghurtos szendvics 50,6 g;6,9;14,0;70,0;445;1875
+Üzletben kapható termékek;belVita JóReggelt! erdei gyümölcsös gabonás omlós keksz 300 g;7,5;16,0;68,0;450;1890
+Üzletben kapható termékek;belVita JóReggelt! erdei gyümölcsös gabonás omlós keksz 50 g;7,5;16,0;68,0;450;1890
+Üzletben kapható termékek;belVita JóReggelt! gyümölcsös-müzlis omlós keksz 300 g;7,4;15.0;67,0;445;1865
+Üzletben kapható termékek;belVita JóReggelt! kakaós gabonás omlós keksz csokoládé darabokkal 300 g;7,8;15,0;66,0;440;1840
+Üzletben kapható termékek;belVita JóReggelt! kakaós gabonás omlós keksz csokoládé darabokkal 50 g;7,8;15,0;66,0;440;1850
+Üzletben kapható termékek;belVita JóReggelt! kakaós-mogyorós ízű szendvics 50,6 g;7,3;16,0;68,0;450;1900
+Üzletben kapható termékek;Belvita JóReggelt! Softy gabonás keksz csokoládédarabkákkal 50 g;5,7;15,0;61,0;405;1705
+Üzletben kapható termékek;Belvita JóReggelt! Softy gabonás keksz csokoládédarabokkal 5 db 250 g;5,5;15;62;409;1714
+Üzletben kapható termékek;belVita JóReggelt! Softy gabonás keksz epres töltelékkel 50 g;4,6;11;64;376;1579
+Üzletben kapható termékek;belVita JóReggelt! Softy gabonás omlós keksz csokoládés-mogyorós ízű töltelékkel 50 g;5,1;15;63;415;1741
+Üzletben kapható termékek;Belvita JóReggelt! Softy Original gabonás keksz 5 db 250 g;5,9;12;63;385;1620
+Üzletben kapható termékek;belVita JóReggelt! törökmogyorós és mézes gabonás omlós keksz 50 g;7,6;15,0;69,0;455;1910
+Üzletben kapható termékek;Benei citrom ízű krémmel töltött ostya 200 g;4,9;26,8;50,8;466;1948
+Üzletben kapható termékek;Benei citrom ízű krémmel töltött ostya 250 g;4,9;26,8;50,8;466;1948
+Üzletben kapható termékek;Benei diós krémmel töltött ostya 250 g;5,2;25,2;45,4;450;1795
+Üzletben kapható termékek;Benei kakaós krémmel töltött ostya 200 g;5,9;28,7;55,5;511;2135
+Üzletben kapható termékek;Benei kakaós krémmel töltött ostya 250 g;5,9;28,7;55,5;511;2135
+Üzletben kapható termékek;Benei Parány kakaós ét bevonómasszával mártott, kakaós krémmel töltött ostya 200 g;5,1;30,8;50,8;501;2089
+Üzletben kapható termékek;Benei Parány kakaós ét bevonómasszával mártott, kakaós krémmel töltött ostya 350 g;5,1;30,8;50,8;501;2089
+Üzletben kapható termékek;Benei vegyes teasütemény 600 g;6,00;32,50;43,40;490;2042
+Üzletben kapható termékek;Bertolli Pesto Rosso bazsalikommal ízesített paradicsomos tésztaszósz 185 g;6,6;36;8,4;394;1603
+Üzletben kapható termékek;Bertolli Pesto Verde olasz pesto szósz bazsalikommal és olasz sajtokkal 185 g;6,5;33;10;366;1530
+Üzletben kapható termékek;Bio King BIO bogyós müzli 375 g;9,0;4,0;64,8;349;1461
+Üzletben kapható termékek;Bio King BIO csokis-mogyorós ropogós müzli 375 g;8,4;26,9;48,5;483;2022
+Üzletben kapható termékek;Bio King BIO pirított ropogós müzli 375 g;7,4;16,9;58,9;434;1831
+Üzletben kapható termékek;Bio Zentrale BIO citromlé 100% 250 ml;0,4;0,1;6,5;28;120
+Üzletben kapható termékek;Bio Zentrale BIO földimogyoróvaj 250 g;28,0;46,9;9,7;597;2473
+Üzletben kapható termékek;Bio Zentrale BIO Hagymás zsír 150 g;1,6;82,6;9,5;792;3260
+Üzletben kapható termékek;Bio Zentrale BIO mediterrán kenyér pástétom 125 g;6,1;27,3;6,7;302;1248
+Üzletben kapható termékek;Bio Zentrale BIO medvehagymás pástétom 125 g;7,2;35,7;2,6;366;1509
+Üzletben kapható termékek;Bio Zentrale BIO penne rigate teljes kiőrlésű durumbúza tészta 500 g;12;2,2;68;356;1506
+Üzletben kapható termékek;Bio Zentrale BIO sós rizswaffel 100 g;7,7;3,6;79,6;389;1646
+Üzletben kapható termékek;Bio Zentrale BIO sótlan rizswaffel 100 g;7,7;3,6;79,8;390;1651
+Üzletben kapható termékek;Bio Zentrale BIO spagetti teljes kiőrlésű durumbúza tészta 500 g;12;2,2;68;356;1506
+Üzletben kapható termékek;Bio Zentrale BIO spirelli teljes kiőrlésű durumbúza tészta 500 g;12;2,2;68;356;1506
+Üzletben kapható termékek;Bio Zentrale BIO taboulé 200 g;12;2,1;58;321;1357
+Üzletben kapható termékek;Biopont Bio 24h BIO napraforgómagos mézes szelet 40 g;18,1;39,2;24,9;535;2221
+Üzletben kapható termékek;Biopont BIO agave szirup 300 g;0,1;0,1;75;300;1275
+Üzletben kapható termékek;Biopont BIO apró zabpehely 300 g;13;7;59;368;1549
+Üzletben kapható termékek;Biopont BIO barna rizs 500 g;7,8;2,2;74;352;1491
+Üzletben kapható termékek;Biopont BIO buláta natúr extrudált csíráztatott búza 100 g;13,0;0,5;63,9;332;1404
+Üzletben kapható termékek;Biopont BIO búzafinomliszt 1 kg;12;1,4;67;335;1421
+Üzletben kapható termékek;Biopont BIO fahéjas kölesgolyó 60 g;8,7;16,4;64,1;404;1701
+Üzletben kapható termékek;Biopont BIO gluténmentes extrudált kakaós kölesgolyó 60 g;9,5;12,7;68,4;435;1829
+Üzletben kapható termékek;Biopont BIO gluténmentes extrudált kölesgolyó barbecue fűszerkeverékkel 75 g;9,4;18;55;435;1820
+Üzletben kapható termékek;Biopont BIO gluténmentes extrudált kölesgolyó magyaros ízesítésű fűszerkeverékkel 75 g;8,5;20,7;65,9;490;2056
+Üzletben kapható termékek;Biopont BIO gluténmentes rizsgolyó spenóttal és póréhagymával 60 g;7,0;16,4;56,3;419;1754
+Üzletben kapható termékek;Biopont BIO gluténmentes sóspálcika (dekor-sós) 45 g;2,0;8,6;71;371;1566
+Üzletben kapható termékek;Biopont BIO gluténmentes sóspálcika 45 g;2,1;8,7;72;378;1595
+Üzletben kapható termékek;Biopont BIO gluténmentes, enyhén sózott kölesgolyó 100 g;12,1;3,4;75,8;389;1646
+Üzletben kapható termékek;Biopont BIO hidegen sajtolt napraforgó étolaj 1 l;0;100;0;900;3700
+Üzletben kapható termékek;Biopont BIO karobpor 200 g;4,6;0,5;44,0;286;1194
+Üzletben kapható termékek;Biopont BIO koffeinmentes gabona kávé cikóriával 100 g;3,9;0,1;72;339;1430
+Üzletben kapható termékek;Biopont BIO kölesgolyó sajtos-hagymás fűszerezéssel 75 g;9,7;18;52;425;1780
+Üzletben kapható termékek;Biopont BIO lenmag 250 g;24,4;30,9;0;453;1867
+Üzletben kapható termékek;Biopont BIO natúr extrudált tönkölybúza 100 g;15,8;2,6;72,1;375;1591
+Üzletben kapható termékek;Biopont Bio Power BIO gluténmentes enyhén sós extrudált kukorica 70 g;8,1;15,8;60;425;1782
+Üzletben kapható termékek;Biopont Bio Power BIO gluténmentes extrudált kukorica valódi eperporral 70 g;6,0;16,9;64;439;1841
+Üzletben kapható termékek;Biopont BIO rizsszirup 300 g;1,1;0,4;96;392;1666
+Üzletben kapható termékek;Biopont BIO szárított szezámmag 200 g;18;50;10,2;588;2429
+Üzletben kapható termékek;Biopont BIO tejcsokoládés kölesgolyó 80 g;11;19;58;454;1901
+Üzletben kapható termékek;Biopont BIO teljes kiőrlésű búzaliszt 1000 g;13;2,4;65;343;1454
+Üzletben kapható termékek;Biopont BIO teljes kiőrlésű rozsliszt 1 kg;11;1,6;65;333;1410
+Üzletben kapható termékek;Biopont BIO teljes kiőrlésű tönkölybúzaliszt 1000 g;13;2,3;56;312;1321
+Üzletben kapható termékek;Biopont BIO tönkölybúza sóspálcika 45 g;14;8,3;73;429;1813
+Üzletben kapható termékek;Biopont BIO zabkorpa 250 g;9,5;4,0;58;362;1518
+Üzletben kapható termékek;Biopont BIO zabpehely 300 g;13;7,0;59;368;1549
+Üzletben kapható termékek;Biopont BIO zsírszegény kakaópor 200 g;25,2;11;13,7;258;1079
+Üzletben kapható termékek;Biopont Ciráta gluténmentes BIO földimogyorós extrudált cirokgolyó 75 g;11,7;17,3;54,8;439;1839
+Üzletben kapható termékek;BioSaurus BIO ketchupos ízesítésű extrudált kukoricás snack 50 g;7,3;20,6;62;469;1968
+Üzletben kapható termékek;BioSaurus BIO sajtos ízű extrudált kukoricás snack 50 g;7,8;20,6;59,3;461;1933
+Üzletben kapható termékek;BioSaurus BIO tengeri só ízesítésű extrudált kukoricás snack 50 g;6,5;20,6;58,4;450;1890
+Üzletben kapható termékek;Blue Dragon Édes  and  Savanyú enyhén csípős wok szósz paradicsompürével és ananászlével 120 g;0,1;0,0;38,4;154;644
+Üzletben kapható termékek;Blue Dragon enyhén csípős Hoisin wok szósz szójaszósszal, fokhagymával, fűszerekkel 120 g;1,3;1,4;30,0;139;582
+Üzletben kapható termékek;Blue Dragon enyhén csípős Teriyaki wok szójaszósz, mirin ízű édes szósz rizsborral 120 g;1,3;0,2;22,4;97;410
+Üzletben kapható termékek;Blue Dragon rizsecet 150 ml;0,2;0,1;0,9;18;78
+Üzletben kapható termékek;Blue Dragon rizspalacsinta 134 g;5,8;0,5;77,4;337;1430
+Üzletben kapható termékek;Blue Dragon sushi csomag 315 g;46,1;0,0;7,0;349;1482
+Üzletben kapható termékek;Blue Dragon sushi rizs 500 g;6,8;0,9;78,0;347;1475
+Üzletben kapható termékek;Blue Dragon szárított algalapok 11 g;46,1;0,1;41,0;350;1485
+Üzletben kapható termékek;Blue Dragon wasabi paszta 45 g;3,8;9,2;39,2;260;1070
+Üzletben kapható termékek;Boci Aero tejcsokoládé nyuszi levegőbuborékos töltelékkel töltött tejcsokoládé golyókkal 100 g;5,6;31;58,6;540;2255
+Üzletben kapható termékek;Boci Aero tejcsokoládé tojás levegőbuborékos töltelékkel töltött tejcsokoládé golyókkal 100 g;5,6;31;58,6;540;2255
+Üzletben kapható termékek;Boci Banánhajó 85 g;4,9;31,9;53,6;527;2201
+Üzletben kapható termékek;Boci Epertorta 90 g;3,9;33,0;59,6;553;2310
+Üzletben kapható termékek;Boci étcsokoládé 90 g;6,2;27,8;50,7;487;2035
+Üzletben kapható termékek;Boci fehér csokoládé 90 g;4,5;30,9;62,8;547;2287
+Üzletben kapható termékek;Boci joghurtízű krémmel töltött tejcsokoládé ropogós búzapehellyel 85 g;4,2;31,9;60,1;547;2283
+Üzletben kapható termékek;Boci kókuszízű krémmel töltött fehér csokoládé ostyadarabokkal 90 g;3,9;33,4;60,8;560;2339
+Üzletben kapható termékek;Boci Kókuszkocka 90 g;5,2;33,4;54,4;546;2277
+Üzletben kapható termékek;Boci meggyes-kekszes tejcsokoládé 90 g;5,0;26,9;62,4;517;2161
+Üzletben kapható termékek;Boci Rigó Jancsi 90 g;6,0;31,5;49,5;511;2131
+Üzletben kapható termékek;Boci sárgabarackos-kekszes étcsokoládé 90 g;6,3;25,5;53,0;477;1993
+Üzletben kapható termékek;Boci sárgabarackos-kekszes tejcsokoládé 90 g;5,1;26,7;62,0;513;2148
+Üzletben kapható termékek;Boci Sztracsatella fehér csokoládé étcsokoládé darabokkal és ropogós búzapehellyel 90 g;4,9;29,9;62,2;541;2260
+Üzletben kapható termékek;Boci Tarka 90 g;3,9;32,2;60,0;548;2286
+Üzletben kapható termékek;Boci tejcsokoládé 90 g;7,4;32,6;54,8;545;2275
+Üzletben kapható termékek;Boci tejcsokoládé figura 18,5 g;5,4;31,2;59,6;544;2272
+Üzletben kapható termékek;Boci tejcsokoládé nyuszi 18,5 g;5,4;31,2;59,6;544;2272
+Üzletben kapható termékek;Boci tejcsokoládé nyuszi 40 g;5,4;31,1;58,8;540;2257
+Üzletben kapható termékek;Boci tejcsokoládé nyuszi 45 g;5,4;31,2;59,6;544;2272
+Üzletben kapható termékek;Boci tejcsokoládé nyuszi 70 g;5,4;31,2;59,6;544;2272
+Üzletben kapható termékek;Boci tejcsokoládé tojás 15 g;5,4;31,1;58,8;540;2257
+Üzletben kapható termékek;Boci tejcsokoládé tojás 40 g;5,4;31,1;58,8;540;2257
+Üzletben kapható termékek;Boci tejeskávé ízű krémmel töltött tejcsokoládé 90 g;5,4;31,6;54,9;528;2204
+Üzletben kapható termékek;Boci Tiramisu 85 g;4,9;31,1;53,7;521;2173
+Üzletben kapható termékek;Boci Túrógombóc 90 g;4,9;31,9;53,5;527;2197
+Üzletben kapható termékek;Bogutti BisCiok ropogós keksz csokoládéval 150 g;6,0;27;58;491;2052
+Üzletben kapható termékek;bombus Raw Energy Apple  and  Cinnamon gyümölcs szelet 50 g;2;0,4;76;302;1265
+Üzletben kapható termékek;bombus Raw Energy Coconut  and  Cocoa gyümölcs szelet 50 g;5;18;61;406;1698
+Üzletben kapható termékek;bombus Raw Energy Maracuja  and  Coconut gyümölcs szelet 50 g;4;18;60;398;1664
+Üzletben kapható termékek;Bona Vita Bran Flakes gabonapehely 450 g;12;2,5;66;363;1531
+Üzletben kapható termékek;Bona Vita Choco Balls kakaó ízű gabonagolyó 375 g;7,7;2,3;82;398;1646
+Üzletben kapható termékek;Bona Vita Choco Shells cereáliás, kakaós kagylócskák 375 g;8,5;2,3;79;381;1612
+Üzletben kapható termékek;Bona Vita Cinnamon Magic fahéjas gabona négyzetek 375 g;7,6;15;65;441;1850
+Üzletben kapható termékek;Bona Vita csokis ropogós müzli fehér csokoládéval és eperrel 700 g;7,4;17;67;462;1939
+Üzletben kapható termékek;Bona Vita Duo Balls gabonafélék keverékéből készült kakaós és fehér csokoládé ízű gabonagolyó 350 g;7,2;4,0;83;404;1712
+Üzletben kapható termékek;Bona Vita Good Porridge csokoládés zabkása 4 x 65 g;9,2;9,0;70;410;1727
+Üzletben kapható termékek;Bona Vita Good Porridge zabkása erdei gyümölccsel 4 x 65 g;7,9;7,9;67;383;1614
+Üzletben kapható termékek;Bona Vita Honey Rings mézes gabonakarikák 375 g;6,3;2,3;81;373;1580
+Üzletben kapható termékek;Bona Vita kukoricapehely 375 g;7,9;1,2;85;386;1640
+Üzletben kapható termékek;Bona Vita ropogós csokis müzli 750 g;7,4;18;66;466;1956
+Üzletben kapható termékek;Bona Vita ropogós müzli 3 féle csokoládéval 700 g;7,1;19;66;474;1987
+Üzletben kapható termékek;Bona Vita ropogós müzli eperrel 750 g;7,5;16;68;457;1920
+Üzletben kapható termékek;Bona Vita ropogós sült müzli gyümölccsel 375 g;7,0;16;69,2;438;1841
+Üzletben kapható termékek;Bonbonetti Arany Kakaó holland kakaópor 125 g;20,0;21,0;11,0;377;1560
+Üzletben kapható termékek;Bonbonetti Arany Kakaó zsírszegény kakaópor 125 g;22,0;11,0;13,0;314;1300
+Üzletben kapható termékek;Bonbonetti Cherry Queen étcsokoládés konyakmeggy 192 g;2,5;15,9;62,1;436;1830
+Üzletben kapható termékek;Bonbonetti crispys mogyorókrémmel töltött tejcsokoládés praliné 113 g;6;33,6;57;558;2328
+Üzletben kapható termékek;Bonbonetti dunakavics 70 g;12;21,7;54,6;463;1940
+Üzletben kapható termékek;Bonbonetti francia drazsé 70 g;2;12;81,7;448;1890
+Üzletben kapható termékek;Bonbonetti Moments mogyorós tejcsokoládé desszert 121 g;6,5;33,8;55,5;557;2322
+Üzletben kapható termékek;Bonduelle bébirépa 400 g;0,6;0,3;3,4;23;98
+Üzletben kapható termékek;Bonduelle Bon Menu Barbeque vörösbab barbeque mártásban 430 g;5,2;0,7;13;90;379
+Üzletben kapható termékek;Bonduelle Bon Menu Chili vörösbab csípős mexikói mártásban 430 g;4,7;2,9;12,1;106;442
+Üzletben kapható termékek;Bonduelle Bon Menu Curry fehérbab curry mártásban 430 g;4,2;3,0;14,7;111;464
+Üzletben kapható termékek;Bonduelle Bon Menu Mexicana vörösbab kukoricával, enyhe mexikói mártásban 430 g;4,0;2,8;14,7;107;450
+Üzletben kapható termékek;Bonduelle Bon Menu Paradicsom fehérbab paradicsommártásban 430 g;3,9;0,5;14,3;88;369
+Üzletben kapható termékek;Bonduelle Créatif Duett zöldségkeverék 400 g;1,7;0,3;4,0;31;130
+Üzletben kapható termékek;Bonduelle Créatif Duo zöldborsó-bébirépa keverék 400 g;2,5;0,6;6,1;48;200
+Üzletben kapható termékek;Bonduelle Créatif Florida zöldségkeverék 340 g;4,1;1,7;9,7;81;340
+Üzletben kapható termékek;Bonduelle Créatif Mexico zöldségkeverék 340 g;3,4;1,5;11,4;81;340
+Üzletben kapható termékek;Bonduelle Créatif Olíva zöldségkeverék 310 g;2,0;3,5;6,8;76;314
+Üzletben kapható termékek;Bonduelle Créatif Sombrero zöldségkeverék 340 g;3,6;1,6;18,2;109;458
+Üzletben kapható termékek;Bonduelle csemegeuborka 3-6 cm 550 g;1,2;0,1;4,6;28;116
+Üzletben kapható termékek;Bonduelle csemegeuborka 5-8 cm 680 g;1,2;0,1;4,6;28;116
+Üzletben kapható termékek;Bonduelle Gold BIO morzsolt csemegekukorica 150 g;2,9;1,9;10,8;80;334
+Üzletben kapható termékek;Bonduelle Gold Chili morzsolt csemegekukorica paprikával és chilivel 310 g;2,2;1,0;13,1;76;321
+Üzletben kapható termékek;Bonduelle Gold morzsolt csemegekukorica 340 g;2,9;1,9;10,8;80;334
+Üzletben kapható termékek;Bonduelle Gold morzsolt csemegekukorica 670 g;2,9;1,9;10,8;80;334
+Üzletben kapható termékek;Bonduelle Inspirációk csicseriborsó 2 x 80 g;6,4;2,2;14,7;120;502
+Üzletben kapható termékek;Bonduelle Inspirációk Gold csemegekukorica 2 x 85 g;2,9;1,9;10,8;80;334
+Üzletben kapható termékek;Bonduelle Inspirációk vörösbab 2 x 80 g;8,3;0,5;15,2;111;468
+Üzletben kapható termékek;Bonduelle morzsolt csemegekukorica 340 g;3,0;1,3;20,5;112;471
+Üzletben kapható termékek;Bonduelle Prémium egész csiperkegomba fejek 280 g;2,2;0,4;0,6;19;79
+Üzletben kapható termékek;Bonduelle Prémium mini egész csiperkegomba fejek 280 g;2,2;0,4;0,6;19;79
+Üzletben kapható termékek;Bonduelle Prémium szeletelt csiperkegomba 280 g;2,2;0,4;0,6;19;79
+Üzletben kapható termékek;Bonduelle szeletelt csiperkegomba 400 g;2,2;0,4;0,9;19;82
+Üzletben kapható termékek;Bonduelle szeletelt ecetes cékla 540 g;1,2;0,1;6,9;37;157
+Üzletben kapható termékek;Bonduelle szuperédes és ropogós csemegekukorica 530 g;2,9;1,7;11,7;79;332
+Üzletben kapható termékek;Bonduelle Vapeur gőzben párolt cannellini fehérbab 310 g;6,6;1,0;10,4;91;382
+Üzletben kapható termékek;Bonduelle Vapeur gőzben párolt csicseriborsó 310 g;6,4;2,2;14,7;120;502
+Üzletben kapható termékek;Bonduelle Vapeur gőzben párolt egész zöldbab 295 g;1,5;0,5;2,5;26;110
+Üzletben kapható termékek;Bonduelle Vapeur gőzben párolt lencse 310 g;8,5;0,7;14,2;107;449
+Üzletben kapható termékek;Bonduelle Vapeur gőzben párolt vörösbab 310 g;8,3;nyomokban;15,2;111;468
+Üzletben kapható termékek;Bonduelle Vapeur gőzben párolt zsenge zöldborsó 160 g;5,9;0,9;6,7;71;299
+Üzletben kapható termékek;Bonduelle Vapeur gőzben párolt zsenge zöldborsó 320 g;5,9;0,9;6,7;71;299
+Üzletben kapható termékek;Bonduelle vörösbab 800 g;7,2;0,8;11,4;94;394
+Üzletben kapható termékek;Bonduelle zöldborsó 400 g;5,5;0,7;7,4;73;307
+Üzletben kapható termékek;Bonduelle zöldborsó 530 g;6,3;0,8;8,0;81;341
+Üzletben kapható termékek;Bonduelle zöldborsó 660 g;6,3;0,8;8,0;81;341
+Üzletben kapható termékek;Bonduelle zöldborsó 800 g;5,5;0,7;7,4;73;307
+Üzletben kapható termékek;Bonne Maman füge extra dzsem 370 g;0,7;0,2;59;243;1034
+Üzletben kapható termékek;Bonne Maman málna extra dzsem 370 g;0,7;0,2;57;239;1016
+Üzletben kapható termékek;Borges extra szűz olívaolaj 500 ml;0;100;0;900;3700
+Üzletben kapható termékek;Borges extra szűz olívaolaj 750 ml;0;100;0;900;3700
+Üzletben kapható termékek;Bounty kókuszos szeletek étcsokoládéba mártva 2 db 57 g;3,5;27;56;492;2056
+Üzletben kapható termékek;Bounty kókuszos szeletek tejcsokoládéba mártva 2 db 57 g;3,7;26;59;487;2035
+Üzletben kapható termékek;Bounty kókuszos szeletek tejcsokoládéba mártva 228 g;3,8;26,0;58,3;488;2040
+Üzletben kapható termékek;Bounty Trio kókuszos szeletek tejcsokoládéba mártva 3 db 85 g;3,7;26;59;487;2035
+Üzletben kapható termékek;Breakfast King extrudált kukoricapehely 1000 g;7,9;1,2;85,0;386;1640
+Üzletben kapható termékek;Breakfast King fahéjas gabonapehely 250 g;7,6;12,0;70,0;429;1805
+Üzletben kapható termékek;Breakfast King kakaós gabonagolyók hozzáadott vitaminokkal és ásványi anyagokkal 250 g;7,5;1,6;84,0;387;1640
+Üzletben kapható termékek;Breakfast King kakaós gabonapelyhek hozzáadott vitaminokkal és vassal 250 g;9,1;4,0;75,0;386;1632
+Üzletben kapható termékek;Breakfast King mézes gabonakarikák hozzáadott vitaminokkal és ásványi anyagokkal 250 g;7,8;2,3;83,0;389;1649
+Üzletben kapható termékek;Bretas zöld olajbogyó feta sajttal töltve 290 g;2,1;18,60;1,8;191;800
+Üzletben kapható termékek;Bretas zöld olajbogyó fokhagymával töltve 300 g;1,29;13,30;4,1;141;590
+Üzletben kapható termékek;Bretas zöld olajbogyó mandulával töltve 300 g;3,2;17,3;1,5;185;775
+Üzletben kapható termékek;Calvo tonhal napraforgóolajban 160 g;17;33;0;367;1534
+Üzletben kapható termékek;Calvo tonhal napraforgóolajban 3 x 80 g;17;33;0;367;1534
+Üzletben kapható termékek;Canderel aszpartám és aceszulfám-K alapú asztali édesítőszer tabletta 500 db 42,5 g;9,6;0;79;358;1503
+Üzletben kapható termékek;Canderel Cankao instant kakaó alapú italpor édesítőszerrel 250 g;12;7,9;40;235;984
+Üzletben kapható termékek;Canderel citrom ízű krémmel töltött ostya édesítőszerrel 40 g;4,7;37;34;478;2000
+Üzletben kapható termékek;Canderel Crispy tejcsokoládé szelet ropogós gabonával és édesítőszerekkel 27 g;7,7;29;60;534;2211
+Üzletben kapható termékek;Canderel Dark étcsokoládé szelet édesítőszerekkel 30 g;6,4;29;38;441;1846
+Üzletben kapható termékek;Canderel édesítőszer 100 db 8,5 g;0;0;84;329;1378
+Üzletben kapható termékek;Canderel földimogyorós krémmel töltött ostya édesítőszerrel 40 g;7,4;32;33;439;1839
+Üzletben kapható termékek;Canderel Fruit  and  Nut tejcsokoládé szelet mazsolával, mandulával és édesítőszerekkel 27 g;7,9;21;42;472;1976
+Üzletben kapható termékek;Canderel kakaós krémmel töltött ostya édesítőszerrel, hozzáadott cukor nélkül 40 g;7;30;36;408;1708
+Üzletben kapható termékek;Canderel tejcsokoládé szelet édesítőszerekkel 30 g;7,4;33,4;38;489;2047
+Üzletben kapható termékek;Canderel tejcsokoládé szelet mandulával, ropogós gabonával, édesítőszerekkel 27 g;9,5;30,6;57;541;2239
+Üzletben kapható termékek;Candy Bon Fru gyümölcsízű puhakaramella eper-, citrom-, málna- és narancs ízekben 60 g;0,2;7,7;76;374;1580
+Üzletben kapható termékek;Cantiña Mexicana taco kagylók 150 g;1,0;3;8,3;62;259
+Üzletben kapható termékek;Casali Original habosított banánkrém csokoládéba mártva 150 g;1,8;11,8;67,5;387;1623
+Üzletben kapható termékek;Casali Original habosított banánkrém csokoládéba mártva 300 g;1,8;11,8;67,5;387;1623
+Üzletben kapható termékek;Casali Original rumos-kókuszos drazsé alkohollal töltve tej- és étcsokoládéval bevonva 100 g;4,9;23,2;60,1;490;2056
+Üzletben kapható termékek;Cavalcad hagyományos ételízesítő 200 g;6,4;0,4;26;142;602
+Üzletben kapható termékek;Celebrations Szív vegyes töltött, kekszes és ostyás tejcsokoládé 215 g;5,7;25;62;499;2087
+Üzletben kapható termékek;Celebrations Tojás vegyes töltött, kekszes és ostyás tejcsokoládé 242 g;5,7;25;62;499;2087
+Üzletben kapható termékek;Celebrations vegyes töltött és kekszes tejcsokoládé 650 g;5,4;24;63;493;2065
+Üzletben kapható termékek;Celebrations vegyes töltött, kekszes és ostyás tejcsokoládé 186 g;5,7;25,1;61,6;499;2088
+Üzletben kapható termékek;Cerbona áfonyás müzli 200 g;6,9;9,9;69,3;399;1678
+Üzletben kapható termékek;Cerbona áfonyás müzliszelet joghurtos bevonó talppal 20 g;4,4;12,5;70,8;411;1727
+Üzletben kapható termékek;Cerbona almás müzli 200 g;7,1;10,1;65,9;392;1647
+Üzletben kapható termékek;Cerbona almás müzliszelet citrommal 20 g;6,0;10,3;66,7;387;1628
+Üzletben kapható termékek;Cerbona almás zabszelet 50 g;6,9;11,4;65,8;399;1679
+Üzletben kapható termékek;Cerbona banános müzliszelet kakaós tejbevonó talppal, cukorral és édesítőszerrel 20 g;4,0;15,5;70,4;396;1655
+Üzletben kapható termékek;Cerbona csokoládés müzli 200 g;6,4;11,4;70,0;412;1736
+Üzletben kapható termékek;Cerbona csokoládés müzliszelet 20 g;6,1;12,2;63,4;395;1658
+Üzletben kapható termékek;Cerbona csokoládés zabszelet 50 g;7,0;14,5;62,1;413;1735
+Üzletben kapható termékek;Cerbona Durillo fodros nagykocka durum száraztészta 500 g;13;2,1;74;375;1589
+Üzletben kapható termékek;Cerbona Durillo masni durum száraztészta 500 g;13;2,1;74;375;1589
+Üzletben kapható termékek;Cerbona Durillo orsó durum száraztészta 500 g;13;2,1;74;375;1589
+Üzletben kapható termékek;Cerbona Durillo penne durum száraztészta 500 g;13;2,1;74;375;1589
+Üzletben kapható termékek;Cerbona Durillo spagetti durum száraztészta 500 g;13;2,1;74;375;1589
+Üzletben kapható termékek;Cerbona Durillo szarvacska durum száraztészta 500 g;13;2,1;74;375;1589
+Üzletben kapható termékek;Cerbona epres müzli cukor hozzáadása nélkül, édesítőszerrel 200 g;7,4;9,0;69,2;375;1535
+Üzletben kapható termékek;Cerbona epres-joghurtos müzliszelet epres bevonó talppal, cukorral és édesítőszerrel 20 g;5,4;13,3;71,2;387;1620
+Üzletben kapható termékek;Cerbona erdei gyümölcsös zabszelet 50 g;7,1;13,0;62,3;401;1684
+Üzletben kapható termékek;Cerbona étcsokoládés müzli 200 g;7,6;13,5;66,9;425;1788
+Üzletben kapható termékek;Cerbona étcsokoládés-málnás müzliszelet kakaós bevonó talppal, cukorral és édesítőszerrel 20 g;5,4;13,7;68,3;385;1611
+Üzletben kapható termékek;Cerbona finomra őrölt zabpehelyliszt 500 g;12,3;8,0;58,1;373;1569
+Üzletben kapható termékek;Cerbona finomszemű zabpehely 500 g;13,0;7,0;59,1;372;1566
+Üzletben kapható termékek;Cerbona Fitt müzliszelet kalciummal 20 g;6,2;13,3;65,1;405;1700
+Üzletben kapható termékek;Cerbona Fitt natúr puffasztott búzaszelet 90 g;12,9;2,2;67,0;363;1535
+Üzletben kapható termékek;Cerbona Fitt natúr puffasztott rizsszelet 90 g;8,2;2,1;82,4;385;1633
+Üzletben kapható termékek;Cerbona Fitt puffasztott búzaszelet tengeri sóval 90 g;12,8;2,1;66,5;361;1527
+Üzletben kapható termékek;Cerbona Fitt puffasztott rizsszelet tengeri sóval 90 g;8,1;2,1;81,0;379;1607
+Üzletben kapható termékek;Cerbona kakaós-mogyorós müzliszelet cukor hozzáadása nélkül, édesítőszerrel 20 g;7,0;13,8;65,9;373;1557
+Üzletben kapható termékek;Cerbona kávés müzliszelet fehér bevonó talppal 20 g;4,0;16,4;63,5;422;1767
+Üzletben kapható termékek;Cerbona kókuszos müzli 200 g;5,6;15,1;65,7;426;1789
+Üzletben kapható termékek;Cerbona kókuszos müzliszelet kakaós tejbevonó talppal, cukorral és édesítőszerrel 20 g;4,3;18,1;67,1;404;1684
+Üzletben kapható termékek;Cerbona meggyes müzli 200 g;6,7;10,0;69,3;400;1686
+Üzletben kapható termékek;Cerbona meggyes müzliszelet 20 g;5,2;10,9;66,4;389;1633
+Üzletben kapható termékek;Cerbona mézes müzli 200 g;6,2;10,2;70,5;403;1696
+Üzletben kapható termékek;Cerbona piros gyümölcsös müzliszelet cukor hozzáadása nélkül, édesítőszerrel 20 g;4,5;6,5;75,4;332;1394
+Üzletben kapható termékek;Charlotte alkoholos meggyel töltött étcsokoládé desszert 232 g;4,3;21,9;58,7;459;1919
+Üzletben kapható termékek;Charlotte Chocolate Mix töltött csokoládédesszert válogatás 400 g;4,8;30,5;47,2;509;2119
+Üzletben kapható termékek;Charlotte egész mogyorós étcsokoládé bonbon 225 g;5,5;40,6;46,1;582;2419
+Üzletben kapható termékek;Charlotte étcsokoládéval bevont desszert földimogyorós-marcipános töltelékkel 228 g;6,2;38,0;50,1;572;2384
+Üzletben kapható termékek;Charlotte mogyorókrémes fehér-, tej-, étcsokoládé pralinék 250 g;4,6;34;54;544;2269
+Üzletben kapható termékek;Charlotte vegyes praliné 400 g;3,5;20,8;67,2;474;1989
+Üzletben kapható termékek;Cheetos Crunchos édes csili ízesítésű kukoricasnack 95 g;6,3;24;63;496;2077
+Üzletben kapható termékek;Cheetos Crunchos sajtos ízesítésű kukoricasnack 95 g;6,1;24;62;494;2068
+Üzletben kapható termékek;Cheetos Földimogyoró ízű kukoricasnack 43 g;11,0;27;53;508;2123
+Üzletben kapható termékek;Cheetos ketchup ízesítésű kukoricasnack 43 g;6,2;24;63;493;2064
+Üzletben kapható termékek;Cheetos Mix-Ups pizzás, hot dog, hamburger ízesítésű kukoricasnack mix 70 g;6,4;24;61;493;2065
+Üzletben kapható termékek;Cheetos Mix-Ups sajtos-ketchupos, újhagymás, paprikás ízesítésű kukoricasnack mix 70 g;6,3;26;61;501;2098
+Üzletben kapható termékek;Cheetos Pizzerini pizzás ízésítésű kukoricasnack 43 g;6,5;23;63;489;2048
+Üzletben kapható termékek;Cheetos sajtos ízű kukoricasnack 43 g;5,6;23;62;480;2011
+Üzletben kapható termékek;Cheetos Spirals sajtos  and  ketchupos ízesítésű kukoricasnack 30 g;5,8;28;59;514;2147
+Üzletben kapható termékek;Cherry Queen étcsokoládés konyakmeggy 108 g;2,5;16;59;428;1795
+Üzletben kapható termékek;Cherry Queen konyakmeggy 125 g;2,5;16,3;61;437;1830
+Üzletben kapható termékek;Cherry Queen konyakmeggy 36 g;2,5;16;62;436;1830
+Üzletben kapható termékek;Chio Big Pep sonka ízű búza-burgonyasnack 65 g;6,7;26;58;499;2085
+Üzletben kapható termékek;Chio Bikers pizza ízű kukoricasnack 80 g;5,6;33;52;539;2245
+Üzletben kapható termékek;Chio Crackings Original sós kréker 100 g;8,7;23;57;476;1993
+Üzletben kapható termékek;Chio Crispers földimogyoró sajtos fűszeres tésztabundában 60 g;12,3;33,7;42,5;529;2206
+Üzletben kapható termékek;Chio Crispers földimogyoró tzatziki ízű tésztabundában 60 g;14;33;38;512;2131
+Üzletben kapható termékek;Chio Crispers földimogyoró újhagymás tésztabundában 60 g;12,2;33,7;42,4;528;2202
+Üzletben kapható termékek;Chio Crispers földimogyoró wasabi ízesítésű tésztabundában 60 g;13;32;40;503;2096
+Üzletben kapható termékek;Chio Donuts földimogyorós és karamellás ízű kukoricasnack 80 g;11;21;61;481;2015
+Üzletben kapható termékek;Chio Exxtra Intense sajtos és jalapeño chili ízű burgonyachips 65 g;8,0;28;52;497;2076
+Üzletben kapható termékek;Chio Flips kukorica-földimogyoró snack 100 g;12;27;52;510;2130
+Üzletben kapható termékek;Chio Gold Fischli sajtos kréker 100 g;9,1;25;54;484;2025
+Üzletben kapható termékek;Chio hagymás-tejfölös burgonyachips 100 g;6,0;35;48;544;2265
+Üzletben kapható termékek;Chio hagymás-tejfölös burgonyachips 140 g;6,0;35;48;544;2265
+Üzletben kapható termékek;Chio hagymás-tejfölös burgonyachips 70 g;6,0;35;48;544;2265
+Üzletben kapható termékek;Chio Hagyományos hagymás-sajtos burgonyaszirom 40 g;3,0;34;57;550;2294
+Üzletben kapható termékek;Chio Hagyományos magyaros ízű burgonyaszirom 40 g;2,9;34;57;550;2293
+Üzletben kapható termékek;Chio Hagyományos sósperec nagyszemű sóval 200 g;11;4,0;71;372;1576
+Üzletben kapható termékek;Chio Hagyományos sózott burgonyaszirom 40 g;2,4;35;57;556;2319
+Üzletben kapható termékek;Chio Intense chili és csirkehús ízű burgonyachips 70 g;5,4;33;51;532;2218
+Üzletben kapható termékek;Chio Intense chili és lime burgonyachips 65 g;5,8;33;50;530;2211
+Üzletben kapható termékek;Chio Intense paradicsom, chili és bors ízű burgonyachips 70 g;5,4;34;50;541;2254
+Üzletben kapható termékek;Chio Intense tejfölös-paprikás burgonyachips 65 g;5,8;34;49;537;2240
+Üzletben kapható termékek;Chio Intense újhagymás-tejfölös burgonyachips 140 g;6,2;35;48;545;2269
+Üzletben kapható termékek;Chio Intense újhagymás-tejfölös burgonyachips 70 g;6,2;35;48;545;2269
+Üzletben kapható termékek;Chio Kettle Coated földimogyoró chili- és paprika ízű ropogós tésztabundában 100 g;13,5;27,7;46,3;497;2077
+Üzletben kapható termékek;Chio Kettle Coated földimogyoró pikáns zöldfűszeres ízű ropogós tésztabundában 100 g;13,4;27,6;46,5;496;2072
+Üzletben kapható termékek;Chio Kettle Cooked chili és paprika ízesítésű héjas burgonyachips 80 g;6,3;28;53;504;2104
+Üzletben kapható termékek;Chio Kettle Cooked tengeri sós ízesítésű héjas burgonyachips 80 g;6,0;28;53;502;2095
+Üzletben kapható termékek;Chio Kettle Cooked újhagymás-tejfölös ízesítésű héjas burgonyachips 80 g;6,6;28;53;504;2106
+Üzletben kapható termékek;Chio Master Crok hagymás-tejfölös kukoricasnack 40 g;7,0;29;55;517;2161
+Üzletben kapható termékek;Chio Master Crok pizza ízű kukoricasnack 40 g;7,1;28;56;512;2141
+Üzletben kapható termékek;Chio Master Crok sajtos kukoricasnack 40 g;7,0;29;55;516;2157
+Üzletben kapható termékek;Chio Maxi Mix kréker és sósperec keverék 100 g;9;18;61;449;1885
+Üzletben kapható termékek;Chio Maxi Mix sós kréker keverék 200 g;8,8;19;60;453;1901
+Üzletben kapható termékek;Chio Micro Popcorn sajtízű kipattogtatható kukorica 80 g;8,9;19;50;429;1792
+Üzletben kapható termékek;Chio paprikás burgonyachips 140 g;5,8;35;49;547;2277
+Üzletben kapható termékek;Chio paprikás burgonyachips 70 g;5,8;35;49;547;2277
+Üzletben kapható termékek;Chio Party Mix sós kréker keverék 200 g;9,3;16;62;437;1834
+Üzletben kapható termékek;Chio sajtos burgonyachips 100 g;6,3;35;48;544;2267
+Üzletben kapható termékek;Chio sajtos burgonyachips 70 g;6,3;35;48;544;2267
+Üzletben kapható termékek;Chio sós burgonyachips 100 g;5,5;35;48;541;2255
+Üzletben kapható termékek;Chio sós burgonyachips 140 g;5,5;35;48;541;2255
+Üzletben kapható termékek;Chio sós burgonyachips 70 g;5,5;35;48;541;2255
+Üzletben kapható termékek;Chio Stickletti burgonyás pálcika 80 g;5,3;22;63;476;1994
+Üzletben kapható termékek;Chio Stickletti hagymás-tejfölös pálcika 35 g;5,7;21;64;473;1982
+Üzletben kapható termékek;Chio Stickletti hagymás-tejfölös pálcika 80 g;5,7;21;64;473;1982
+Üzletben kapható termékek;Chio Stickletti Original sóspálcika 100 g;11;3,7;72;374;1582
+Üzletben kapható termékek;Chio Stickletti Original sóspálcika 2 x 100 g;11;3,7;72;374;1582
+Üzletben kapható termékek;Chio Stickletti sajtos pálcika 80 g;11;19;60;463;1944
+Üzletben kapható termékek;Chio Street Food Ízek gyros ízű burgonyachips 70 g;5,8;35;49;547;2280
+Üzletben kapható termékek;Chio Street Food Ízek pizza ízű burgonyachips 70 g;6,3;35;48;545;2270
+Üzletben kapható termékek;Chio sültcsirke ízű burgonyasnack 60 g;3,9;29;58;515;2152
+Üzletben kapható termékek;Chio szalonnás ízesítésű burgonyachips 70 g;5,8;35;49;547;2278
+Üzletben kapható termékek;Chio Taccos grilles ízű búza-burgonyasnack 65 g;8,2;22;58;471;1974
+Üzletben kapható termékek;Chio tengeri sós és olívaolajos burgonyachips 70 g;5,4;33;50;538;2244
+Üzletben kapható termékek;Chio Tortillas chilis kukoricasnack 125 g;5,9;22;63;483;2023
+Üzletben kapható termékek;Chio Tortillas sajtos kukoricasnack 125 g;5,9;22;63;482;2018
+Üzletben kapható termékek;Chio Tortillas sós kukoricasnack 125 g;5,4;22;64;484;2028
+Üzletben kapható termékek;Chio Tubes sajtos kukoricasnack 80 g;5,2;35;52;550;2293
+Üzletben kapható termékek;Chio újhagymás burgonyachips 70 g;5,8;35;48;543;2261
+Üzletben kapható termékek;Chivers narancs-gyömbér marmelád 340 g;0,3;0;64,7;261;1100
+Üzletben kapható termékek;Chumak Red Hot nagyon csípős ketchup 570 g;1,3;0,01;29,3;117,2;490
+Üzletben kapható termékek;Chupa Chups vegyes gyümölcsízesítésű nyalóka 12 g;0;0;96;387;1645
+Üzletben kapható termékek;Cica Maca Tina töltött kakaós tejtábla tejes töltelékkel és puffasztott kukoricával 100 g;6,8;28,0;59,6;521;2177
+Üzletben kapható termékek;Cirio aprított paradicsom 400 g;1,3;0,1;4,7;29;122
+Üzletben kapható termékek;Cirio passzírozott paradicsom 350 g;1,2;0,1;6,3;35;147
+Üzletben kapható termékek;Cirio passzírozott paradicsom 500 g;1,2;0,1;6,3;35;147
+Üzletben kapható termékek;Cirio passzírozott paradicsom 680 g;1,2;0,1;5,3;35;135
+Üzletben kapható termékek;Compex jódozott étkezési finom só keverék 1 kg;0;0;0;0;0
+Üzletben kapható termékek;Cook's Kitchen gulyás alappor 50 g;14,3;4,9;50,5;305;1285
+Üzletben kapható termékek;Coppenrath kakaós glutén és laktózmentes keksz vaníliás töltelékkel 300 g;2,6;23;67;493;2065
+Üzletben kapható termékek;Coppenrath vaníliás glutén- laktózmentes keksz vaníliás töltelékkel 300 g;1,9;22;72;495;2077
+Üzletben kapható termékek;Cornexi almás fahéjas zabkása, hozzáadott cukor nélküli 65 g;13;5,1;69;359;1509
+Üzletben kapható termékek;Cornexi banános-csokis zabkása 65 g;12;4,3;72;386;1634
+Üzletben kapható termékek;Cornexi Cinnexi-Apple almás-fahéjas ízű flakes, tk. gabonával, Ca+D-vitaminnal, édesítőszerrel 250 g;9,0;4,7;65;335;1405
+Üzletben kapható termékek;Cornexi Dzsungexi mézes-malátás-kakaós gabonapehely teljes kiőrlésű gabonával, Ca+D-vitaminnal 250 g;9,1;3,4;74;376;1589
+Üzletben kapható termékek;Cornexi kókuszos-mandulás zabkása chia maggal, hozzáadott cukor nélküli 65 g;13;7,8;66;374;1575
+Üzletben kapható termékek;Cornexi Ötgabonás, vanília ízű zabkása chiával és quinoával, hozzáadott cukor nélküli 65 g;13;5,1;67;354;1490
+Üzletben kapható termékek;Cornexi piros gyümölcsös zabkása chia maggal 65 g;13;5,6;67;383;1617
+Üzletben kapható termékek;Cornexi Zabexi kakaós gabonagolyó zabbal, tk. gabonával, Ca+D-vitaminnal, édesítőszerrel 250 g;9,5;5,4;66;347;1460
+Üzletben kapható termékek;Corny Big müzliszelet kakaós süteménydarabokkal és feketecsokoládéval 50 g;5,5;14,2;68,3;432;1814
+Üzletben kapható termékek;Corny Big müzliszelet kakaótartalmú gabonaropogóssal, tejcsokoládéba mártva 50 g;6,2;15,4;65,1;433;1818
+Üzletben kapható termékek;Corny Big müzliszelet mogyoróval 50 g;6,2;15,6;65,8;437;1837
+Üzletben kapható termékek;Corny Big tejcsokoládéba mártott banánízű müzliszelet 50 g;5,1;15,1;68,7;438;1840
+Üzletben kapható termékek;Corny Big tejcsokoládéba mártott müzliszelet 50 g;6,1;16,7;66,0;445;1870
+Üzletben kapható termékek;Country Barn áfonyás müzliszelet joghurtos bevonótalppal 25 g;5,0;14,0;70,0;431;1813
+Üzletben kapható termékek;Családi baromfimájas, tépőzáras 190 g;10,5;13,5;7,0;192;798
+Üzletben kapható termékek;Családi sertésmájkrém, tépőzáras 190 g;9,9;12,5;10,6;195;811
+Üzletben kapható termékek;Császári Csemege glutén- és laktózmentes paprikás extrudált kukoricapehely 75 g;7,33;8,96;60,74;349;1474
+Üzletben kapható termékek;Császári Csemege glutén- és laktózmentes sós extrudált kukoricapehely 75 g;6,8;9;73;411;1734
+Üzletben kapható termékek;Császári Csemege glutén- és laktózmentes vegyes gyümölcs ízű extrudált kukoricapehely 75 g;5,7;1,7;86;386;1638
+Üzletben kapható termékek;Csipet Snack sós kisperec 100 g;10;5,7;67;373;1574
+Üzletben kapható termékek;Dandy sűrített paradicsom 140 g;2,4;0,2;6,5;40;168
+Üzletben kapható termékek;Darált sertéslöncs 400 g;8,4;14,6;10,7;208;864
+Üzletben kapható termékek;Daráltlöncs 400 g;8,4;11,3;10,7;179;745
+Üzletben kapható termékek;Dawtona bolognai szósz provance-i fűszerekkel 425 g + 125 g;1,0;0,4;15,7;71;303
+Üzletben kapható termékek;Dawtona édes-savanyú szósz ananásszal 425 g + 125 g;0,7;0,2;16,4;72;300
+Üzletben kapható termékek;Dawtona mexikói szósz 425 g + 125 g;1,6;0,6;14,2;71;300
+Üzletben kapható termékek;Dawtona milánói szósz 425 g + 125 g;1,6;3,6;10,3;82;343
+Üzletben kapható termékek;Delafaille töltött tej- fehér és étcsokoládé desszert 150 g;5,7;36,1;52,3;562;2344
+Üzletben kapható termékek;Delafaille töltött tej- fehér és étcsokoládé desszert 150 g;5,3;36,7;52,3;566;2363
+Üzletben kapható termékek;Delaviuda kakaós trüffel 100 g;6,4;38;49,1;570;2375
+Üzletben kapható termékek;Delaviuda narancs ízesítésű trüffel 100 g;6,4;38;49,1;570;2375
+Üzletben kapható termékek;Delikát ételízesítő 1 kg;5;0,9;17;100;430
+Üzletben kapható termékek;Delikát ételízesítő 250 g;5;0,9;17;100;430
+Üzletben kapható termékek;Delikát ételízesítő 450 g;5;0,9;17;100;430
+Üzletben kapható termékek;Delikát ételízesítő 600 g;5;0,9;17;100;430
+Üzletben kapható termékek;Delikát ételízesítő 75 g;5;0,9;17;100;430
+Üzletben kapható termékek;Delikát ételízesítő csirkés ételekhez 200 g;8;0,9;19;140;570
+Üzletben kapható termékek;Delphi Kalamata olívabogyó sós lében 350 g;1,9;28;2;270;1110
+Üzletben kapható termékek;Detki állatfigurás háztartási keksz gyerekeknek kalciummal 180 g;8,3;8,3;74,2;410;1732
+Üzletben kapható termékek;Detki állatfigurás kakaós keksz gyerekeknek kalciummal 140 g;8,7;8,7;72,7;412;1739
+Üzletben kapható termékek;Detki BIO tönköly keksz 180 g;8,6;8,7;73,2;416;1756
+Üzletben kapható termékek;Detki Coco Crunchy kókuszos teasütemény kakaós étbevonómasszával félig mártva 150 g;6,0;28,1;57,1;513;2143
+Üzletben kapható termékek;Detki Cookies cukormentes csokidarabos + kakaós omlós keksz édesítőszerekkel 130 g;7,5;22,5;61,5;449;1872
+Üzletben kapható termékek;Detki Cookies cukormentes csokidarabos omlós keksz édesítőszerekkel 130 g;7,1;23,1;62,1;452;1885
+Üzletben kapható termékek;Detki Cukor Stop háztartási keksz cukor hozzáadása nélkül 200 g;11,3;10,7;66,0;419;1763
+Üzletben kapható termékek;Detki cukormentes darált háztartási keksz édesítőszerekkel 350 g;9,4;11,4;71,2;411;1728
+Üzletben kapható termékek;Detki cukormentes édes omlós keksz édesítőszerekkel 200 g;7,3;22,2;64,2;461;1928
+Üzletben kapható termékek;Detki cukormentes háztartási keksz édesítőszerekkel 160 g;9,4;11,4;71,2;411;1728
+Üzletben kapható termékek;Detki cukormentes kakaós omlós keksz édesítőszerekkel 180 g;7,7;21,6;63,1;457;1910
+Üzletben kapható termékek;Detki cukormentes kókuszos omlós keksz édesítőszerekkel 180 g;7,2;22,9;63,4;465;1944
+Üzletben kapható termékek;Detki fahéjas mini karika 150 g;6,6;26,3;60,0;510;2131
+Üzletben kapható termékek;Detki Fruity Crunchy erdei gyümölcsös teasütemény kakaós étbevonómasszával félig mártva 150 g;5,9;24,1;62,2;496;2074
+Üzletben kapható termékek;Detki hagyományos háztartási keksz 200 g;8,8;6,2;76,0;401;1696
+Üzletben kapható termékek;Detki hagyományos háztartási keksz 500 g;8,8;6,2;76,0;401;1696
+Üzletben kapható termékek;Detki Kexchips hagymás-tejfölös kemencés-burgonyás chips 75 g;4,3;12,9;74,3;437;1840
+Üzletben kapható termékek;Detki Kexchips sajtos kemencés-burgonyás chips 75 g;4,2;12,7;75,4;438;1845
+Üzletben kapható termékek;Detki Lurkó Cars 3 teljes kiőrlésű omlós keksz vitaminokkal és inulinnal 180 g;7,4;17,6;66,7;463;1942
+Üzletben kapható termékek;Detki Lurkó édes omlós keksz csokoládé darabokkal és inulinnal 150 g;6,5;17,5;69,2;467;1960
+Üzletben kapható termékek;Detki Lurkó Frozen kakaós omlós keksz vassal és vitaminokkal 180 g;7,9;17,2;65,9;459;1927
+Üzletben kapható termékek;Detki Lurkó Frozen tejes omlós keksz kalciummal és inulinnal 180 g;7,4;18,2;67,0;467;1960
+Üzletben kapható termékek;Detki Mese mézes linzer almás kockával és fahéjjal 160 g;8,7;19,0;64,2;468;1962
+Üzletben kapható termékek;Detki Mese mézes linzer kakaós étbevonómasszával félig mártva 200 g;7,8;23,3;62,0;494;2068
+Üzletben kapható termékek;Detki Mese mézes linzer kakaós tejbevonómasszával félig mártva 200 g;8,2;23,4;62,1;496;2078
+Üzletben kapható termékek;Detki Mesefit gabonás omlós erdei gyümölcsös keksz 40 g;7,3;17,8;62,3;447;1875
+Üzletben kapható termékek;Detki Mesefit gabonás omlós keksz kakaóval és csokoládé darabokkal 40 g;8,4;20,0;62,5;474;1986
+Üzletben kapható termékek;Detki Tere-fere édes omlós keksz 180 g;6,9;16,7;70,1;463;1946
+Üzletben kapható termékek;Detki Tere-fere kakaós omlós keksz 180 g;7,2;18,0;67,4;467;1962
+Üzletben kapható termékek;Detki Tere-fere kókuszos omlós keksz 180 g;7,2;19,4;66,9;477;2001
+Üzletben kapható termékek;Detki Tere-fere mézes omlós keksz 180 g;8,2;17,8;65,3;463;1944
+Üzletben kapható termékek;Detki Zab Álom almás-zabpelyhes omlós keksz 180 g;7,7;18,8;63,1;464;1947
+Üzletben kapható termékek;Detki Zab Álom meggyes-zabpelyhes omlós keksz 180 g;7,7;19,0;63,3;465;1951
+Üzletben kapható termékek;Detki Zab Álom zabpelyhes omlós keksz 180 g;7,9;19,6;61,7;467;1958
+Üzletben kapható termékek;Dexi extrudált barnakenyér 100 g;10;2,0;83;368;1559
+Üzletben kapható termékek;Dexi extrudált búzakenyér sajttal 125 g;9,9;2,6;82,2;372;1574
+Üzletben kapható termékek;Dexi extrudált kenyér graham liszttel 100 g;10;2,3;83;375;1585
+Üzletben kapható termékek;Dexi extrudált kenyér hajdinával 125 g;11,3;1,8;82,3;375;1558
+Üzletben kapható termékek;Dexi extrudált kukoricakenyér fokhagymával és hagymával 125 g;10,0;3,1;84,2;381;1620
+Üzletben kapható termékek;Dexi extrudált rozskenyér 125 g;9,8;2,6;82,5;373;1578
+Üzletben kapható termékek;Dexi gluténmentes csokoládé ízesítésű párnák 150 g;5,5;14,0;76,0;450;1893
+Üzletben kapható termékek;Dexi gluténmentes extrudált kukoricakenyér 100 g;8,9;3,1;79;387;1639
+Üzletben kapható termékek;Dexi gluténmentes extrudált kukoricakenyér sajttal 125 g;8,5;3,2;82;382;1618
+Üzletben kapható termékek;Dexi gluténmentes extrudált rizskenyér 100 g;7,9;1,6;86;385;1632
+Üzletben kapható termékek;Dexi gluténmentes vanília ízesítésű párnák 150 g;5,1;13,1;76,4;440;1853
+Üzletben kapható termékek;Dextro Energy energetizáló cseresznye ízű szőlőcukor tabletta 50 g;0;0,6;87;360;1530
+Üzletben kapható termékek;Dextro Energy energetizáló feketeribizli ízű szőlőcukor tabletta 50 g;0;0,6;87;360;1530
+Üzletben kapható termékek;Dextro Energy energiát adó erdei gyümölcs ízesítésű szőlőcukor tabletták 50 g;0;0,6;85;357;1517
+Üzletben kapható termékek;Dextro Energy energiát adó narancs ízesítésű szőlőcukor tabletták 50 g;0;0,6;85;357;1517
+Üzletben kapható termékek;Diabetikus citromos ízű nápolyi 200 g;7,27;28,6;59;498;2088
+Üzletben kapható termékek;Diabetikus kakaós nápolyi 200 g;7;28,4;57;486;2038
+Üzletben kapható termékek;Dialky szélein kakaós bevonatba mártott földimogyoró ízű krémmel töltött ostyaszelet fruktózzal 40 g;11;37;45;567;2361
+Üzletben kapható termékek;Disney mandulás figura édesítőszerekkel 30 g;15,1;23,6;22,8;362;1496
+Üzletben kapható termékek;Dolce Vita édes omlós keksz 1000 g;7,2;15,9;70,9;460;1935
+Üzletben kapható termékek;Dolmio Bolognese bolognai alap bazsalikommal és olívaolajjal 500 g;1,3;0,6;7,6;44;185
+Üzletben kapható termékek;Dolmio Bolognese bolognai alap vöröshagymával és fokhagymával 500 g;1,6;0,5;6,9;42;177
+Üzletben kapható termékek;Dolmio Bolognese Speciale bolognai alap gombával 500 g;1,4;0,2;6,2;36;154
+Üzletben kapható termékek;Donna Pasta spaghetti 1 tojásos száraztészta 500 g;12;1,4;76;367;1557
+Üzletben kapható termékek;Dörmi banános-joghurtos ízű krémmel töltött puha piskóta 30 g;5,8;16;59;391;1639
+Üzletben kapható termékek;Dörmi csokoládés krémmel töltött puha piskóta 30 g;6,0;16,0;58,0;395;1660
+Üzletben kapható termékek;Dörmi csokoládés krémmel töltött puha piskóta 5 db 150 g;6,0;16;58,0;395;1660
+Üzletben kapható termékek;Dörmi DUO puha piskóta csokoládés krémmel és mogyoróízű krémmel 30 g;5,3;16;59;395;1658
+Üzletben kapható termékek;Dörmi DUO puha piskóta epres töltelékkel és vaníliaízű krémmel 30 g;5,4;13;61;371;1559
+Üzletben kapható termékek;Dörmi puha piskóta almás-epres töltelékkel 30 g;4,6;11,0;64,0;355;1500
+Üzletben kapható termékek;Dörmi tejes krémmel töltött puha piskóta 30 g;6,1;15,0;58,0;390;1630
+Üzletben kapható termékek;Dörmi tejes krémmel töltött puha piskóta 5 db 150 g;6,1;15,0;58,0;390;1630
+Üzletben kapható termékek;Dr Gerard enyhén sós snack 250 g;7,6;20;65;474;1988
+Üzletben kapható termékek;Dr Gerard hagymás snack 250 g;11;13;65;428;1802
+Üzletben kapható termékek;Dr. Chen Patika Goji+C Flavojuice folyékony étrend-kiegészítő 500 ml;0;0;7,5;30,5;128
+Üzletben kapható termékek;Dr. Chen Patika szűztea keksz 120 g;3,8;16,0;13,3;212,4;892
+Üzletben kapható termékek;Dr. Oetker Aranka Krém csokoládés krémpor 75 g;3,5;3,9;18,5;126;529
+Üzletben kapható termékek;Dr. Oetker Aranka Krém mogyoróízű krémpor 68 g;3,1;3,1;19,1;118;497
+Üzletben kapható termékek;Dr. Oetker Aranka Krém vaníliaízű krémpor 68 g;3,0;3,0;19,7;118;500
+Üzletben kapható termékek;Dr. Oetker arany dekor gyöngy 30 g;0,1;0,2;92;370;1574
+Üzletben kapható termékek;Dr. Oetker Brownies süteménypor 436 g;6,8;14;54;371;1560
+Üzletben kapható termékek;Dr. Oetker Cukormáz marcipánízű 100 g;0,0;0,0;83;332;1411
+Üzletben kapható termékek;Dr. Oetker Csokis Muffin süteménypor 345 g;6,4;27;43;443;1847
+Üzletben kapható termékek;Dr. Oetker csokoládés fagylaltpor 96 g;4,9;5,0;25;169;711
+Üzletben kapható termékek;Dr. Oetker Csokoládés Tortakrém alappor 145 g;4,3;3,8;22;143;603
+Üzletben kapható termékek;Dr. Oetker csokoládés-mogyorós tortakrém alappor 130 g;4,5;4,1;20;137;576
+Üzletben kapható termékek;Dr. Oetker dekor ostyavirág 12 db;0,2;0,5;87;355;1508
+Üzletben kapható termékek;Dr. Oetker Dekor Toll cukormáz 4 színben 4 db 76 g;0,1;6,1;82;385;1628
+Üzletben kapható termékek;Dr. Oetker Dekor Toll csokoládé- és karamellízű cukormáz 4 x 19 g;0,9;7,6;76;378;1597
+Üzletben kapható termékek;Dr. Oetker Desszertöntet Csokoládéízű 200 g;2,4;3,2;70;325;1375
+Üzletben kapható termékek;Dr. Oetker Desszertöntet Epres 200 g;0,3;0,1;60;244;1037
+Üzletben kapható termékek;Dr. Oetker Desszertöntet Karamellás 200 g;2,4;4,1;68;318;1348
+Üzletben kapható termékek;Dr. Oetker Desszertöntetpor csokoládéízű 36 g;4,2;1,9;17;105;442
+Üzletben kapható termékek;Dr. Oetker Desszertöntetpor vaníliaízű 35 g;3,0;1,3;21;108;458
+Üzletben kapható termékek;Dr. Oetker Édes Ételek császármorzsa alappor mazsolával 200 g;4,6;5,9;31;198;832
+Üzletben kapható termékek;Dr. Oetker Édes Ételek klasszikus tejberizs alappor 125 g;3,8;1,3;23;120;507
+Üzletben kapható termékek;Dr. Oetker Édes Ételek vaníliaízű tejberizs alap 125 g;3,7;1,3;23;119;506
+Üzletben kapható termékek;Dr. Oetker eperízű gyümölcskocsonyapor 90 g;0,0;0,0;22;93;395
+Üzletben kapható termékek;Dr. Oetker erdeigyümölcs-ízű gyümölcskocsonyapor 90 g;0,0;0,0;22;93;395
+Üzletben kapható termékek;Dr. Oetker Eredeti gluténmentes csokoládéízű pudingpor 49 g;3,4;1,5;18;100;422
+Üzletben kapható termékek;Dr. Oetker Eredeti gluténmentes vaníliaízű pudingpor 40 g;3,1;1,4;18;96;407
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding banános pudingpor 40 g;3,1;1,4;18;96;408
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding csokoládés pudingpor 3 x 49 g;3,4;1,5;18;100;423
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding csokoládés pudingpor 49 g;3,4;1,5;18;100;423
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding csokoládés-rumízű pudingpor 49 g;3,4;1,5;18;100;423
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding epres pudingpor 3 x 40 g;3,1;1,4;18;96;408
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding epres pudingpor 40 g;3,1;1,4;18;96;408
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding étcsokoládés pudingpor 3 x 52 g;354;1,6;18;101;428
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding étcsokoládés pudingpor 52 g;3,5;1,6;18;101;428
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding fehércsokoládés pudingpor 3 x 46 g;3,2;2,0;18;103;437
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding fehércsokoládés pudingpor 46 g;3,2;2,0;18;103;437
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding karamellás pudingpor 40 g;3,1;1,4;18;97;409
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding puncs pudingpor 3 x 40 g;3,1;1,4;18;96;408
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding puncs pudingpor 40 g;3,1;1,4;18;96;408
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding tejszínes pudingpor 3 x 40 g;3,1;1,4;18;97;410
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding tejszínes pudingpor 40 g;3,1;1,4;18;97;410
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding vaníliaízű pudingpor 3 x 40 g;3,1;1,4;18;96;407
+Üzletben kapható termékek;Dr. Oetker Eredeti Puding vaníliaízű pudingpor 40 g;3,1;1,4;18;96;407
+Üzletben kapható termékek;Dr. Oetker étcsokoládés csokoládé betűk és számok 60 g;5,2;38;44;557;2314
+Üzletben kapható termékek;Dr. Oetker Expressz csokoládéízű desszertöntetpor 52 g;3,6;1,6;18;103;434
+Üzletben kapható termékek;Dr. Oetker Expressz Desszertöntetpor vaníliaízű 39 g;3,0;1,5;17;94;397
+Üzletben kapható termékek;Dr. Oetker Expressz Tortazselé színtelen, cukrozott 50 g;0,0;0,0;16;65;275
+Üzletben kapható termékek;Dr. Oetker fehér dekor gyöngy 30 g;0,7;0,2;91;369;1568
+Üzletben kapható termékek;Dr. Oetker Finesse reszelt citromhéj 2 x 6 g;0,6;0,1;63;265;1125
+Üzletben kapható termékek;Dr. Oetker Fondant fehér nyújtható cukormassza 454 g;0,0;3,8;88;390;1654
+Üzletben kapható termékek;Dr. Oetker Gála csokoládés krémpudingpor 104 g;3,3;1,6;18;103;434
+Üzletben kapható termékek;Dr. Oetker Gála étcsokoládés krémpudingpor 104 g;3,4;1,6;18;102;432
+Üzletben kapható termékek;Dr. Oetker Gála puncs krémpudingpor 78 g;3,5;1,3;16;91;386
+Üzletben kapható termékek;Dr. Oetker Gála sós-karamellás krémpudingpor csokoládé darabokkal 89 g;3,5;1,7;17;98;414
+Üzletben kapható termékek;Dr. Oetker Gála vaníliaízű krémpudingpor 78 g;3,5;1,3;16;91;387
+Üzletben kapható termékek;Dr. Oetker Gustin étkezési keményítő 250 g;0,5;0,0;86;346;1471
+Üzletben kapható termékek;Dr. Oetker Gustin gluténmentes étkezési keményítő 80 g;0,5;0,0;86;346;1471
+Üzletben kapható termékek;Dr. Oetker Házi Krémes krémpor 225 g;2,7;1,2;25;120;508
+Üzletben kapható termékek;Dr. Oetker Holland Kakaópor sütéshez 70 g;20;21;8,9;366;1517
+Üzletben kapható termékek;Dr. Oetker Kislányfejes Puding csokoládéízű pudingpor 40 g;3,3;1,4;17;96;406
+Üzletben kapható termékek;Dr. Oetker Kislányfejes Puding karamellízű pudingpor 40 g;3,1;1,4;18;96;408
+Üzletben kapható termékek;Dr. Oetker Kislányfejes Puding puncs pudingpor 40 g;3,1;1,4;18;96;408
+Üzletben kapható termékek;Dr. Oetker Kislányfejes Puding vaníliaízű pudingpor 40 g;3,1;1,4;18;96;408
+Üzletben kapható termékek;Dr. Oetker madagaszkári bourbon vanília paszta vanília magokkal 19 g;0,1;0,1;46;222;941
+Üzletben kapható termékek;Dr. Oetker Mousse csokoládés habkrémpor 92 g;5,5;4,2;20;146;613
+Üzletben kapható termékek;Dr. Oetker Muffin süteménypor 345 g;5,9;26;46;441;1841
+Üzletben kapható termékek;Dr. Oetker narancsízű gyümölcskocsonyapor 90 g;0,0;0,0;23;93;396
+Üzletben kapható termékek;Dr. Oetker natúr lübecki marcipánmassza 150 g;8,1;20;56;449;1880
+Üzletben kapható termékek;Dr. Oetker Paula dekorcukor 17 g;1,0;4,1;92;412;1746
+Üzletben kapható termékek;Dr. Oetker Paula Foltos Tortája süteménypor 375 g;5,0;5,7;30;195;823
+Üzletben kapható termékek;Dr. Oetker piros dekor szív 30 g;0,6;4,3;94;418;1770
+Üzletben kapható termékek;Dr. Oetker piros expressz tortazselé 50 g;0,0;0,0;16;64;273
+Üzletben kapható termékek;Dr. Oetker Prémium belga csokoládés pudingpor 54 g;3,7;1,8;17;102;431
+Üzletben kapható termékek;Dr. Oetker Prémium bourbon vaníliás pudingpor 36 g;3,1;1,4;17;95;400
+Üzletben kapható termékek;Dr. Oetker prémium ét tortabevonó 100 g;6,8;44;32;572;2370
+Üzletben kapható termékek;Dr. Oetker puncs fagylaltpor 82 g;3,8;4,5;27;162;683
+Üzletben kapható termékek;Dr. Oetker rózsaszín dekor gyöngy 30 g;0,9;0,1;92;373;1585
+Üzletben kapható termékek;Dr. Oetker Süti Puding csokoládés pudingpor hatlapos süteményhez 100 g;3,3;1,5;20;106;449
+Üzletben kapható termékek;Dr. Oetker Süti Puding gesztenyeízű pudingpor gesztenyekockához 84 g;2,9;1,3;24;121;513
+Üzletben kapható termékek;Dr. Oetker Süti Puding vanília- és rumízű pudingpor oroszkrém tortához 78 g;2,9;1,3;24;120;507
+Üzletben kapható termékek;Dr. Oetker színes dekor konfetti 30 g;0,9;5,5;89;409;1730
+Üzletben kapható termékek;Dr. Oetker Tejszínes-Vaníliás Tortakrém alappor 130 g;2,9;3,8;24;141;596
+Üzletben kapható termékek;Dr. Oetker Tejszínízű Habpor 45 g;3,4;7,8;18;158;662
+Üzletben kapható termékek;Dr. Oetker Tiramisu krémpor 70 g;4,0;4,0;21;136;572
+Üzletben kapható termékek;Dr. Oetker Tortabevonó ét 100 g;3,7;46;41;606;2514
+Üzletben kapható termékek;Dr. Oetker Tortadara kakaós 30 g;4,0;3,0;84;389;1646
+Üzletben kapható termékek;Dr. Oetker Tortadara színes 30 g;0,1;1,3;97;399;1695
+Üzletben kapható termékek;Dr. Oetker vaníliás fagylaltpor 82 g;3,8;4,5;27;162;683
+Üzletben kapható termékek;Dr. Oetker Vitalis almás-fahéjas zabkása alappor 48 g;3,0;2,1;18;111;470
+Üzletben kapható termékek;Dr. Oetker Vitalis banános zabkása alappor 55 g;3,3;2,2;20;122;516
+Üzletben kapható termékek;Dr. Oetker Vitalis csokoládés zabkása alappor 60 g;3,8;3,3;20;134;562
+Üzletben kapható termékek;Dr. Oetker Vitalis málnás zabkása alappor 53 g;3,6;2,5;19;116;489
+Üzletben kapható termékek;Dr. Oetker Vitalis Szuperkása étcsokoládés zabkása alappor 62 g;3,4;3,3;16;118;495
+Üzletben kapható termékek;Dr. Oetker Vitalis Szuperkása laktózmentes áfonyás zabkása alappor 55 g;2,7;1,9;17;104;439
+Üzletben kapható termékek;Dr. Oetker Vitalis vaníliás zabkása alappor 52 g;3,2;2,2;19;115;484
+Üzletben kapható termékek;Dr. Willi Knoll burgonyapüré por 3 x 125 g;2,1;1,1;11,8;68;286
+Üzletben kapható termékek;Duel banán ízű holland kakaópor 75 g;19,3;20,1;11,4;369;1542
+Üzletben kapható termékek;Duel eper ízű holland kakaópor 75 g;19,3;20,1;11,0;367;1536
+Üzletben kapható termékek;Duel holland kakaópor 150 g;19,9;20,7;8,9;368;1539
+Üzletben kapható termékek;Duel holland kakaópor 75 g;19,9;20,7;8,9;368;1539
+Üzletben kapható termékek;Duel zsírszegény kakaópor 75 g;23,5;10,5;8,5;299;1246
+Üzletben kapható termékek;Dunakeszi betű 8 tojásos száraztészta 200 g;13;3,8;69;368;1557
+Üzletben kapható termékek;Dunakeszi cérnácska 8 tojásos száraztészta 200 g;13;3,8;69;368;1557
+Üzletben kapható termékek;Dunakeszi cérnametélt 8 tojásos száraztészta 200 g;13;3,8;69;368;1557
+Üzletben kapható termékek;Dunakeszi csiga 8 tojásos száraztészta 200 g;13;3,8;69;368;1557
+Üzletben kapható termékek;Dunakeszi eperlevél 8 tojásos száraztészta 200 g;13;3,8;69;368;1557
+Üzletben kapható termékek;Dunakeszi fodros nagykocka 2 tojásos száraztészta 500 g;14,0;1,1;70,2;353;1498
+Üzletben kapható termékek;Dunakeszi orsó 2 tojásos száraztészta 500 g;14,0;1,1;70,2;353;1498
+Üzletben kapható termékek;Dunakeszi rövidcső 2 tojásos száraztészta 500 g;14,0;1,1;70,2;353;1498
+Üzletben kapható termékek;Dunakeszi spagetti 2 tojásos száraztészta 500 g;14,0;1,1;70,2;353;1498
+Üzletben kapható termékek;Dunakeszi szarvacska 2 tojásos száraztészta 500 g;14,0;1,1;70,2;353;1498
+Üzletben kapható termékek;Dunakeszi tarhonya 2 tojásos száraztészta 500 g;14,0;1,1;70,2;353;1498
+Üzletben kapható termékek;Dunakeszi tarhonya 8 tojásos száraztészta 200 g;13;3,8;69;368;1557
+Üzletben kapható termékek;Dunakeszi zabkocka 8 tojásos száraztészta 200 g;13;3,8;69;368;1557
+Üzletben kapható termékek;Duo Penotti Caramel lágy kenhető csokoládés-karamellás mogyorókrém 350 g;3,0;38;55;575;2395
+Üzletben kapható termékek;Duo Penotti Cookies  and  Milk lágy, kenhető tejes-kakaós kekszkrém valódi kekszből 350 g;4,2;37;53;569;2368
+Üzletben kapható termékek;Duplo tejcsokoládéval bevont ostya mogyorós-kakaós krémmel töltve 18,2 g;6,1;33,5;56;555;2316
+Üzletben kapható termékek;EcoMil Cuisine BIO konyhai alapanyag kesudióval 200 ml;1,3;8,3;2,8;93;389
+Üzletben kapható termékek;EcoMil Cuisine BIO konyhai alapanyag mandulával 200 ml;1,3;8,5;1;93;383
+Üzletben kapható termékek;EcoMil Cuisine BIO konyhai készült kókusztejjel 200 ml;0,5;7,3;1,3;75;310
+Üzletben kapható termékek;Eko Nagymama sárgabaracklekvárja 340 g;0,5;0,4;41;174;740
+Üzletben kapható termékek;Eko Nagymama szamócalekvárja 340 g;0,5;0,4;41;171;724
+Üzletben kapható termékek;Eko Nagymama szilvakrémje 320 g;0,7;0,5;33;140;595
+Üzletben kapható termékek;Ela citrom ízű krémmel töltött ostya fruktózzal 40 g;7;33;56;550;2300
+Üzletben kapható termékek;Ela kakaós krémmel töltött ostya fruktózzal 40 g;11;34;46;544;2267
+Üzletben kapható termékek;Ela mogyoró ízű krémmel töltött ostya gyümölcscukorral 40 g;10;37;46;560;2345
+Üzletben kapható termékek;Ela nugát ízű krémmel töltött ostya gyümölcscukorral 40 g;12;35;45;546;2288
+Üzletben kapható termékek;Ela vanília ízű krémmel töltött ostya fruktózzal 40 g;8;36;51;564;2351
+Üzletben kapható termékek;Életfa Élelem hántolt konyhakész hajdina főzőtasakban 2 x 125 g;9,8;1,8;72,5;365;1526
+Üzletben kapható termékek;Életfa Élelem hántolt konyhakész köles főzőtasakban 2 x 125 g;10,5;3,9;69,7;360;1520
+Üzletben kapható termékek;Életfa Élelem hántolt tönkölybúza főzőtasakban 2 x 125 g;11,6;2,0;69,4;369;1545
+Üzletben kapható termékek;Életfa Élelem konyhakész bulgur búzatöret főzőtasakban 2 x 125 g;12,5;1,5;69,8;350;1464
+Üzletben kapható termékek;Elyon Vendégváró csiga házi jellegű 8 tojásos száraztészta 200 g;13,82;4,22;76,74;395;1674
+Üzletben kapható termékek;Elyon Vendégváró csipetke 8 tojásos száraztészta 200 g;13,82;4,22;76,74;395;1674
+Üzletben kapható termékek;Elyon Vendégváró eperlevél házi jellegű 8 tojásos száraztészta 200 g;13,82;4,22;76,74;395;1674
+Üzletben kapható termékek;Elyon Vendégváró tarhonya házi jellegű 8 tojásos száraztészta 200 g;13,82;4,22;76,74;395;1674
+Üzletben kapható termékek;Emco Granola gluténmentes müzli csokoládéval és mandulával 340 g;6,5;16,2;70,2;463;1937
+Üzletben kapható termékek;Emco Granola gluténmentes müzli eperrel és mandulával 340 g;8,4;16,7;67,2;462;1936
+Üzletben kapható termékek;Emco Granola gluténmentes müzli mézzel és mogyoróval 340 g;8,2;18,5;65,8;472;1974
+Üzletben kapható termékek;Ételízesítő 200 g;9,7;6,3;74,3;371,3;1554,6
+Üzletben kapható termékek;Eva heringfilé növényi olajban 170 g;12;37;0;384;1586
+Üzletben kapható termékek;Eva sprotni növényi olajban 170 g;13;25;0;277;1145
+Üzletben kapható termékek;Eva sprotni paradicsommártásban 170 g;11;6,1;4,8;119;496
+Üzletben kapható termékek;Eva szardínia növényi olajban 115 g;17,0;33,0;0;365;1510
+Üzletben kapható termékek;Eva szardínia növényi olajban citrommal 115 g;17,0;33,0;0;365;1510
+Üzletben kapható termékek;Eva tonhal natúr lében 160 g;18;0,5;0;77;325
+Üzletben kapható termékek;Eva tonhal növényi olajban 160 g;19;35;0;391;1618
+Üzletben kapható termékek;Eva tonhal növényi olajban 80 g;19;35;0;391;1618
+Üzletben kapható termékek;Eva tonhal olívaolajban 160 g;19;35;0;391;1618
+Üzletben kapható termékek;Eva tonhal olívaolajban 80 g;19;35;0;391;1618
+Üzletben kapható termékek;Everyday teljes kiőrlésű zabpehely 500 g;10,9;7,2;59;368;1551
+Üzletben kapható termékek;Everyday zabkorpa 200 g;18;7,7;46;339;1430
+Üzletben kapható termékek;Excelcium csokoládé praliné válogatás 18 db 180 g;6,1;20;64;465;1950
+Üzletben kapható termékek;Ezerédes édesítő tabletta 1320 db 79 g;0;0;1;34;146
+Üzletben kapható termékek;Ezerédes eritritol 300 g;0;0;99,5;0;0
+Üzletben kapható termékek;Ezerédes folyékony édesítőszer fruktózzal 210 ml;0;0;5;28;118
+Üzletben kapható termékek;Fehér quinoa 250 g;14,0;5,8;65,0;371;1558
+Üzletben kapható termékek;Fehérvári morzsa 500 g;11,7;2,2;74,4;366;1551
+Üzletben kapható termékek;Feketebab 250 g;21,0;0,9;63,0;339;1432
+Üzletben kapható termékek;Felix BIO ketchup 435 g;1,5;30,0;20,0;363;1505
+Üzletben kapható termékek;Felix csemege ketchup 1 kg;1,2;0,5;22;101;427
+Üzletben kapható termékek;Felix csemege ketchup 1,5 kg;1,2;0,5;22;100;424
+Üzletben kapható termékek;Felix csemege ketchup 450 g;1,2;0,5;22;101;427
+Üzletben kapható termékek;Felix ketchup édesítőszerrel 960 g;1,1;0,5;8,0;40;170
+Üzletben kapható termékek;Felix ketchup hozzáadott cukor nélkül, édesítőszerrel 435 g;1,1;0,5;8,0;40;170
+Üzletben kapható termékek;Felix Pokol Tüze extra csípős ketchup 1 kg;1,1;0,5;22;100;423
+Üzletben kapható termékek;Felix Pokol Tüze extra csípős ketchup 450 g;1,1;0,5;22;100;423
+Üzletben kapható termékek;Felix Sugo 5 fűszeres paradicsomszósz 360 g;1,5;3,4;6,6;69;286
+Üzletben kapható termékek;Felix Sugo bolognai paradicsomszósz 360 g;4,5;6,8;6,2;109;456
+Üzletben kapható termékek;Ferrero Rocher Szív tejcsokoládéval és mogyoródarabkákkal borított ostya mogyorós töltelékkel 50 g;8,2;42,7;44,4;603;2506
+Üzletben kapható termékek;Figaro banánízű habos zselé szelet étcsokoládé bevonatban 200 g;2;8;76;383;1650
+Üzletben kapható termékek;Figaro gluténmentes étcsokoládéval bevont banános habos zselé szelet 20 g;2;10;68;380;1590
+Üzletben kapható termékek;Figaro Happy Eggs mogyorós krémmel töltött tejcsokoládék 100 g;5;39;51;581;2419
+Üzletben kapható termékek;Figaro tejcsokoládé 60 g;6;39;50;581;2419
+Üzletben kapható termékek;Filippo Berio ricottás paradicsomos pesto fűszerszósz 190 g;5,5;33,4;11,8;371;1536
+Üzletben kapható termékek;Filippo Berio szárított paradicsomos pesto 190 g;7,3;42;18;484;2002
+Üzletben kapható termékek;Finn Crisp fokhagyma ízesítésű vékony ropogós kenyér 175 g;11;2,3;65;350;1500
+Üzletben kapható termékek;Finn Crisp Snacks rozs ropogós fokhagymával és zöldfűszerekkel 130 g;10;2,4;61;344;1448
+Üzletben kapható termékek;Finn Crisp Snacks rozs ropogós magkeverékkel és tengeri sóval 130 g;12;8,1;53;371;1557
+Üzletben kapható termékek;Finn Crisp vékony ropogós sokgabonás kenyér 175 g;11;2,9;63;350;1500
+Üzletben kapható termékek;Finn Crisp vékony ropogós teljes kiőrlésű kenyér 200 g;10;2,6;61;350;1450
+Üzletben kapható termékek;Finom gluténmentes kukoricatallér 100 g;8,7;1,7;81;381;1615
+Üzletben kapható termékek;Finom gluténmentes paprikás kukoricatallér 100 g;7,3;1,9;78;367;1556
+Üzletben kapható termékek;Fisherman's Friend cukormentes borsmenta ízű töltetlen keménycukorka édesítőszerekkel 25 g;0,07;0,57;98,41;242;1008
+Üzletben kapható termékek;Fisherman's Friend mentol-eukaliptusz ízű keménycukorka 25 g;0,28;0,59;97,03;249;1041
+Üzletben kapható termékek;Fit Fruit gyümölcsös müzliszelet meggyes ízesítéssel 23 g;5,26;9,4;62,5;374;1570
+Üzletben kapható termékek;Fit Kids Süsü Kedvence gluténmentes, extrudált, gyümölcsízű gabonagolyók 120 g;6,4;4,6;85;407;1724
+Üzletben kapható termékek;Fit Kids Süsü Kedvence gluténmentes, extrudált, mézzel és kakaóval ízesített kukoricapehely 225 g;5,8;9,1;80;425;1795
+Üzletben kapható termékek;Fit Reggeli ropogós müzli csokoládéval és mogyoróval 200 g;7,5;17;66;459;1927
+Üzletben kapható termékek;Fit Reggeli ropogós müzli eperrel 200 g;7,4;16;68;458;1922
+Üzletben kapható termékek;Fit Reggeli ropogós müzli vörösáfonyával és málnával 200 g;7,3;15,5;69;456;1916
+Üzletben kapható termékek;Fit Reggeli zabkása almával és fahéjjal 65 g;8,0;7,2;70;387;1633
+Üzletben kapható termékek;Fit Reggeli zabkása chia-maggal és étcsokoládéval 65 g;10;10;64;403;1697
+Üzletben kapható termékek;Fit Reggeli zabkása chia-maggal, eperrel ízesítve 65 g;9,8;9,5;65;400;1686
+Üzletben kapható termékek;Fit Reggeli zabkása étcsokoládéval 65 g;8,4;8,8;68;396;1668
+Üzletben kapható termékek;Fit Reggeli zabkása goji bogyóval és vörösáfonyás ízesítéssel 65 g;9,2;7,0;65;373;1572
+Üzletben kapható termékek;FlapJack joghurtos zabszelet 120 g;5;22;57;461;1870
+Üzletben kapható termékek;FlapJack kókuszos-cseresznyés zabszelet 120 g;5;25;57;455;1968
+Üzletben kapható termékek;FlapJack Toffee zabszelet 120 g;4,9;24;62;482;2022
+Üzletben kapható termékek;Floriol finomított étolaj természetes Omega-3 és Omega-6 tartalommal 1 l;0;100;0;900;3700
+Üzletben kapható termékek;Fodros nagykocka tojás nélküli száraztészta 400 g;11,0;1,1;70,2;341;1446
+Üzletben kapható termékek;Foody arany kétszersült teljes kiőrlésű liszt felhasználásával 220 g;16;6,9;58;382;1609
+Üzletben kapható termékek;Foody natúr arany kétszersült 220 g;12;6,3;67;389;1640
+Üzletben kapható termékek;Fruppy felezett, hámozott őszibarack szirupban 820 g;0,4;0,1;14,6;54;226
+Üzletben kapható termékek;Germi spagetti tojás nélküli száraztészta 400 g;12;1,0;76;363;1542
+Üzletben kapható termékek;Giana eperbefőtt 410 g;0,5;0,5;14;61;255
+Üzletben kapható termékek;Giana fehérbab chilis szószban 410 g;3,8;0,6;14;85;358
+Üzletben kapható termékek;Giana fehérbab paradicsomszószban 420 g;3,8;0,6;14;84;353
+Üzletben kapható termékek;Giana fehérbab sós lében 400 g;4;0,5;7,5;58;242
+Üzletben kapható termékek;Giana gyümölcskoktél cukrozott lében 410 g;0,6;0,1;22;93;389
+Üzletben kapható termékek;Giana mandarinbefőtt 312 g;0,5;0;16;61;255
+Üzletben kapható termékek;Giana őszibarackbefőtt 820 g;0,3;0;15;65;270
+Üzletben kapható termékek;Giana paradicsompüré 500 g;1,3;0,5;3,8;25;105
+Üzletben kapható termékek;Giana sárgabarack befőtt 820 g;0,5;0,5;15;67;282
+Üzletben kapható termékek;Giana spanyol fekete magozott olívabogyó sós lében 880 g;0,5;14;0;133;546
+Üzletben kapható termékek;Giana spanyol fekete szeletelt olívabogyó sós lében 900 g;0,5;15;0;142;584
+Üzletben kapható termékek;Giana spanyol zöld magozott olívabogyó sós lében 880 g;0,9;16;0;148;607
+Üzletben kapható termékek;Giana spanyol zöld szeletelt olívabogyó sós lében 900 g;0,8;14;0;138;668
+Üzletben kapható termékek;Giana vörösbab sós lében 400 g;5,2;0,5;9;71;299
+Üzletben kapható termékek;Globus bolognai mártás 400 g;1;0,1;11;45;190
+Üzletben kapható termékek;Globus családi csirkemájas 190 g;10,2;17,6;5,7;222;920
+Üzletben kapható termékek;Globus családi sertésmájas 190 g;9,7;16,2;6,9;212;880
+Üzletben kapható termékek;Globus dijoni mustár 265 g;7,1;12;4,4;159;663
+Üzletben kapható termékek;Globus finom zöldborsó 660 g;5,4;0,8;8,8;76;318
+Üzletben kapható termékek;Globus francia melegszendvicskrém 290 g;3,8;11,9;6,9;150;621
+Üzletben kapható termékek;Globus Gold szuperédes morzsolt csemegekukorica 340 g;2,9;2,4;12;89;373
+Üzletben kapható termékek;Globus hamburger melegszendvicskrém 290 g;5,8;11,7;9,8;167;697
+Üzletben kapható termékek;Globus különleges marhavagdalt 130 g;12,7;16,3;11,3;243;1011
+Üzletben kapható termékek;Globus különleges marhavagdalt 130 g;14,6;11,8;13,3 ;218;912
+Üzletben kapható termékek;Globus Light majonéz 400 g;1;31;9;320;1300
+Üzletben kapható termékek;Globus magyaros sertés és marhavagdalt 130 g;11,6;18,1;9,6;248;1030
+Üzletben kapható termékek;Globus majonéz 400 g;0,7;67;4,5;610;2600
+Üzletben kapható termékek;Globus majonéz 600 g;0,7;67;4,5;610;2600
+Üzletben kapható termékek;Globus mexikói melegszendvicskrém 290 g;6,1;12,0;12,1;181;753
+Üzletben kapható termékek;Globus milánói mártás gombával 400 g;1,5;1;11;60;250
+Üzletben kapható termékek;Globus Mindennapi ketchup 1 kg;1,5;0,1;24;110;460
+Üzletben kapható termékek;Globus Mindennapi ketchup 450 g;1,5;0,1;24;110;460
+Üzletben kapható termékek;Globus Mix mexikói zöldségkeverék 300 g;3,8;1,6;9,4;77;322
+Üzletben kapható termékek;Globus morzsolt csemegekukorica 150 g;3,0;1,3;22;118;500
+Üzletben kapható termékek;Globus morzsolt csemegekukorica 340 g;3,0;1,3;22;118;500
+Üzletben kapható termékek;Globus mustár 440 g;5;6;9;110;480
+Üzletben kapható termékek;Globus mustár 470 g;5;6;9;110;480
+Üzletben kapható termékek;Globus mustár 720 g;5;6;9;110;480
+Üzletben kapható termékek;Globus pizzás melegszendvicskrém 290 g;6,3;5,5;11,5;121;508
+Üzletben kapható termékek;Globus provence-i melegszendvicskrém 290 g;4,8;10,7;10,7;158;660
+Üzletben kapható termékek;Globus tavaszi marhavagdalt 130 g;11,4;10,4;3,2;152;632
+Üzletben kapható termékek;Globus töltött paprika paradicsommártásban 400 g;2,5;3,3;12,0;88;371
+Üzletben kapható termékek;Globus zöldborsófőzelék pörkölttel 400 g;5,4;2,2;9,2;78;331
+Üzletben kapható termékek;Globus zsenge zöldborsó bébirépával 200 g;3,4;0,6;8,8;63;263
+Üzletben kapható termékek;Gloster csemegeuborka 3-6 cm 680 g;0,6;0,1;2,4;14;60
+Üzletben kapható termékek;Gloster csípős ecetes cseresznyepaprika 680 g;0,6;0,2;2,5;16;67
+Üzletben kapható termékek;Gloster ecetes pepperóni paprika 680 g;0,6;0,2;2,5;16;67
+Üzletben kapható termékek;Gloster natúr lecsó 680 g;1,8;0,4;8,6;47;198
+Üzletben kapható termékek;Gloster negyedelt ecetes pritaminpaprika 680 g;0,6;0,2;5,3;26;109
+Üzletben kapható termékek;Gloster vágott vegyes savanyúság 680 g;0,8;0,1;2,4;15;64
+Üzletben kapható termékek;Gluténemntes extrudált sós kukoricapehely 70 g;7,1;10;72;417;1756
+Üzletben kapható termékek;Go gluténmentes eperízű müzliszelet joghurtos bevonattal 23 g;3,4;13;70;416;1750
+Üzletben kapható termékek;Go gluténmentes müzliszelet kakaós bevonatban 23 g;3,2;15;69;428;1800
+Üzletben kapható termékek;Go ribizli ízű müzliszelet joghurtos bevonatban 23 g;3,3;14;69;422;1774
+Üzletben kapható termékek;Gold Fischli szezámmagos kréker 100 g;10;26;51;487;2035
+Üzletben kapható termékek;Golden Dragon "A" minőségű thai jázmin rizs 1 kg;8,1;0,7;78;351;1491
+Üzletben kapható termékek;Gourmand chia mag 100 g;16,54;30,8;42,12;512;2137
+Üzletben kapható termékek;Gourmand gesztenyeliszt 250 g;6,3;3,6;74;372;1570
+Üzletben kapható termékek;Gourmand lenmagliszt 250 g;34,0;9,0;4,6;311;1293
+Üzletben kapható termékek;Granny's cheddar sajtszósz 300 g;3,5;11,0;4,2;131;542
+Üzletben kapható termékek;Granny's cheddar sajtszósz 90 g;3,5;11,0;4,2;131;542
+Üzletben kapható termékek;Granny's Salsa Mexicana szósz 315 g;0,8;0,1;11,0;50;214
+Üzletben kapható termékek;Granny's Salsa Mexicana szósz 90 g;0,8;0,1;11,0;50;214
+Üzletben kapható termékek;Green Farm gluténmentes liszt keverék 1 kg;7,8;1,6;74,4;353;1495
+Üzletben kapható termékek;Gullón Chip Choco gluténmentes keksz hozzáadott cukor nélkül, édesítőszerrel 130 g;5,5;23;63;444;1850
+Üzletben kapható termékek;Gullón Crackers gluténmentes sós keksz 200 g;1,7;14;79;454;1912
+Üzletben kapható termékek;Gullón Cuor di Cereale élelmi rostban gazdag gabonakeksz 280 g;7,5;21;56;465;1945
+Üzletben kapható termékek;Gullón Cuor di Cereale élelmi rostban gazdag gabonakeksz puffasztott rizzsel 265 g;7;15;68;448;1882
+Üzletben kapható termékek;Gullón diabetikus vanília ízesítésű töltött nápolyi édesítőszerrel 70 g;3;22;63;431;1794
+Üzletben kapható termékek;Gullón Dibus Sharkies gluténmentes reggelizőkeksz 250 g;1,9;16;75;459;1930
+Üzletben kapható termékek;Gullón DietNature Chip Choco diabetikus keksz csokoládé darabkákkal, édesítőszerrel 125 g;5,9;24;63;458;1911
+Üzletben kapható termékek;Gullón DietNature cukor hozzáadása nélkül készült keksz, édesítőszerrel 200 g;7,4;11;73;401;1683
+Üzletben kapható termékek;Gullón DietNature csokoládé ízű krémmel töltött diabetikus szendvicskeksz 250 g;6,7;17;67;422;1763
+Üzletben kapható termékek;Gullón DietNature diabetikus kakaós ízesítésű töltött nápolyi édesítőszerrel 70 g;4,3;22,8;67,5;436;1815
+Üzletben kapható termékek;Gullón DietNature diabetikus María keksz 400 g;7;11;75;409;1713
+Üzletben kapható termékek;Gullón DietNature élelmi rostban gazdag cukormentes keksz, édesítőszerrel 170 g;6,1;17;;431;1802
+Üzletben kapható termékek;Gullón DietNature kakaós keksz krém töltelékkel 210 g;4,9;16;;408;1707
+Üzletben kapható termékek;Gullón DietNature kakaós keksz krém töltelékkel, hozzáadott cukor nélkül, édesítőszerrel 147 g;5,0;17;65;408;1702
+Üzletben kapható termékek;Gullón DietNature krémmel töltött keksz hozzáadott cukor nélkül, édesítőszerrel 220 g;7,0;17;;420;1757
+Üzletben kapható termékek;Gullón DietNature Ronditas étcsokoládéval töltött keksz hozzáadott cukor nélkül édesítőszerrel 186 g;7;25;61;469;1954
+Üzletben kapható termékek;Gullón Digestive gluténmentes keksz 150 g;1,2;16;75;457;1919
+Üzletben kapható termékek;Gullón Digestive Müzli keksz zabpehellyel, mazsolával, sárgabarackkal és szójával 365 g;8,3;18,8;62,2;450,8;1892,5
+Üzletben kapható termékek;Gullón Digestive teljes kiőrlésű keksz zabbal, naranccsal 425 g;8,1;21;60;475;1989
+Üzletben kapható termékek;Gullón élelmi rostban gazdag gabonakeksz csokoládé darabkákkal 280 g;7,8;15;63;438;1839
+Üzletben kapható termékek;Gullón élelmi rostban gazdag gabonakeksz gyümölccsel 300 g;7,2;19;59;459;1921
+Üzletben kapható termékek;Gullón élelmi rostban gazdag keksz hozzáadott cukor nélkül, édesítőszerrel 280 g;7,8;20;54;430;1791
+Üzletben kapható termékek;Gullón fahéjas keksz 235 g;6,4;17;70;463;1945
+Üzletben kapható termékek;Gullón gluténmentes keksz csokoládé darabokkal 200 g;5,1;23;65;495;2073
+Üzletben kapható termékek;Gullón keksz teljes kiőrlésű gabonával cukor hozzáadása nélkül édesítőszerrel 216 g;6,8;14;65;410;1719
+Üzletben kapható termékek;Gullón Ligera sómentes keksz édesítőszerrel 200 g;9;13;57;402;1683
+Üzletben kapható termékek;Gullón Maria BIO keksz 350 g;7,6;17;70;467;1963
+Üzletben kapható termékek;Gullón María glutén-, tej- és laktózmentes keksz 400 g;3,4;18;70;467;1959
+Üzletben kapható termékek;Gullón Pastas glutén-, tej- és laktózmentes keksz 200 g;4,9;18;72;474;1989
+Üzletben kapható termékek;Gullón Vitalday zabpelyhes keksz csokoládé darabokkal 240 g;8;18;57;448;1875
+Üzletben kapható termékek;Gyermelyi ABC 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi búzafinomliszt BL 55 1 kg;11,7;1,0;72,4;354;1483
+Üzletben kapható termékek;Gyermelyi búzarétesliszt BFF 55 1 kg;10,3;0,6;72,2;341;1447
+Üzletben kapható termékek;Gyermelyi cérnácska 8 tojásos száraztészta 250 g;15;3,6;76;393;1668
+Üzletben kapható termékek;Gyermelyi cérnametélt 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi csavartcső 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi csiga 8 tojásos száraztészta 250 g;15;3,6;76;393;1668
+Üzletben kapható termékek;Gyermelyi csipet 8 tojásos száraztészta 250 g;15;3,6;76;393;1668
+Üzletben kapható termékek;Gyermelyi csusza 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi dörzstarhonya 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi eperlevél 8 tojásos száraztészta 250 g;15;3,6;76;393;1668
+Üzletben kapható termékek;Gyermelyi étkezési búzadara BD 1 kg;10,1;0,7;72,3;343;1456
+Üzletben kapható termékek;Gyermelyi fehér búzakenyérliszt BL 80 1 kg;13,0;1,6;70,5;357;1495
+Üzletben kapható termékek;Gyermelyi fodros kocka 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi gyufametélt 8 tojásos száraztészta 250 g;15;3,6;76;393;1668
+Üzletben kapható termékek;Gyermelyi hosszúmetélt 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi kiskagyló 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi makaróni 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi nagykocka 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi négytojásos durum lasagne tészta 500 g;15;2,9;69;371;1570
+Üzletben kapható termékek;Gyermelyi olaszcsavart 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi orsó 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi rövidcső 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi spagetti 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi szarvacska 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi szélesmetélt 8 tojásos száraztészta 250 g;15;3,6;76;393;1668
+Üzletben kapható termékek;Gyermelyi tarhonya 4 tojásos száraztészta 500 g;13;2,2;80;394;1672
+Üzletben kapható termékek;Gyermelyi Vita Pasta fodros kocka durum száraztészta 500 g;14;1,4;73;361;1531
+Üzletben kapható termékek;Gyermelyi Vita Pasta masni durum száraztészta 500 g;14;1,4;73;361;1531
+Üzletben kapható termékek;Gyermelyi Vita Pasta orsó durum száraztészta 500 g;14;1,4;73;361;1531
+Üzletben kapható termékek;Gyermelyi Vita Pasta penne durum száraztészta 500 g;14;1,4;73;361;1531
+Üzletben kapható termékek;Gyermelyi Vita Pasta spagetti durum száraztészta 500 g;14;1,4;73;361;1531
+Üzletben kapható termékek;Gyermelyi Vita Pasta zöldséges orsó durum száraztészta 500 g;14;1,4;73;361;1531
+Üzletben kapható termékek;Gyermelyi Vita Pasta zöldséges penne durum száraztészta 500 g;14;1,4;73;361;1531
+Üzletben kapható termékek;Győri darált háztartási keksz 500 g;7,0;8,9;79,5;430;1820
+Üzletben kapható termékek;Győri Édes Duplajó kakaós bevonómasszával talpán mártott, kakaós, omlós keksz 150 g;5,5;23,5;62,5;490;2050
+Üzletben kapható termékek;Győri Édes Duplajó kakaós bevonómasszával talpán mártott, omlós keksz 150 g;5,9;23,5;62,5;490;2060
+Üzletben kapható termékek;Győri Édes Gyümölcsös és Magvas keksz sárgabarackkal és mandulával 120 g;6,7;25;58;490;2049
+Üzletben kapható termékek;Győri Édes Gyümölcsös és Magvas omlós keksz vörösáfonyával és mogyoróval 120 g;6,0;25;59;491;2053
+Üzletben kapható termékek;Győri Édes kakaós, omlós keksz 180 g;5,9;20,5;66,0;475;2000
+Üzletben kapható termékek;Győri Édes kókuszos, omlós keksz 180 g;6,6;24,0;64,5;505;2120
+Üzletben kapható termékek;Győri Édes omlós, édes keksz 180 g;6,3;21,0;66,0;480;2010
+Üzletben kapható termékek;Győri Édes omlós, mézes keksz csokoládédarabokkal 150 g;6,1;22;69;502;2104
+Üzletben kapható termékek;Győri Édes teljes kiőrlésű, omlós, kakaós keksz 180 g;6,7;17,5;69,0;470;1975
+Üzletben kapható termékek;Győri Édes teljes kiőrlésű, omlós, mézes keksz 180 g;7,2;18,0;70,0;475;2000
+Üzletben kapható termékek;Győri Édes Zabfalatok almás zabpelyhes keksz 225 g;7,3;17,5;67,5;465;1955
+Üzletben kapható termékek;Győri Édes Zabfalatok csokis zabpelyhes, omlós keksz 244 g;7,3;22,5;61,0;485;2040
+Üzletben kapható termékek;Győri Édes Zabfalatok eredeti zabpelyhes, omlós keksz 215 g;7,5;21,0;60,0;465;1960
+Üzletben kapható termékek;Győri Édes Zabfalatok kókuszos zabpelyhes keksz 215 g;6,4;26,5;52,0;490;2040
+Üzletben kapható termékek;Győri Édes Zabfalatok Mini zabpelyhes keksz 140 g;7,2;21,0;60,5;470;1965
+Üzletben kapható termékek;Győri Korpovit ropogós keksz teljes kiőrlésű gabonával 174 g;10,5;13,0;69,5;450;1895
+Üzletben kapható termékek;Győri Negro Classic töltött keménycukorka 159 g;0;0;96,0;385;1630
+Üzletben kapható termékek;Győri Negro Classic töltött keménycukorka 79 g;0;0;96,0;385;1630
+Üzletben kapható termékek;Győri Negro extra erős töltetlen keménycukorka 159 g;0;0;99,5;400;1690
+Üzletben kapható termékek;Győri Negro extra erős töltetlen keménycukorka 79 g;0;0;99,5;400;1690
+Üzletben kapható termékek;Győri Negro feketeribizli ízű töltetlen keménycukorka 79 g;0;0;97,5;395;1670
+Üzletben kapható termékek;Győri Negro mentol ízű töltetlen keménycukorka 159 g;0;0;99,5;400;1690
+Üzletben kapható termékek;Győri Negro mentol ízű töltetlen keménycukorka 79 g;0;0;99,5;400;1690
+Üzletben kapható termékek;Győri Negro mézes töltött keménycukorka 159 g;0;0;98,5;395;1675
+Üzletben kapható termékek;Győri Negro mézes töltött keménycukorka 79 g;0;0;98,5;395;1675
+Üzletben kapható termékek;Győri Otthon háztartási keksz 200 g;7,0;8,9;79,5;430;1820
+Üzletben kapható termékek;Győri Otthon háztartási keksz 800 g;7,0;8,9;79,5;430;1820
+Üzletben kapható termékek;Győri Pilóta epres piskótatallér 147 g;3,3;7,3;69,5;360;1525
+Üzletben kapható termékek;Győri Pilóta kakaós krémmel töltött keksz 180 g;6,1;25,0;61,0;500;2100
+Üzletben kapható termékek;Győri Pilóta kakaós krémmel töltött omlós keksz 320 g;6,1;25,0;61,0;500;2100
+Üzletben kapható termékek;Győri Pilóta málnás piskótatallér 147 g;3,3;7,3;70,0;360;1525
+Üzletben kapható termékek;Győri Pilóta meggyes piskótatallér 147 g;3,3;7,3;70,0;360;1530
+Üzletben kapható termékek;Győri Pilóta sárgabarackos piskótatallér 147 g;3,2;7,3;70,0;360;1525
+Üzletben kapható termékek;Győri Pilóta tripla kakaós krémmel töltött kakaós keksz 180 g;5,4;25,0;61,5;500;2085
+Üzletben kapható termékek;Győri Pilóta vaníliás karika 150 g;5,6;27,0;58,5;505;2105
+Üzletben kapható termékek;Győri Pilóta vaníliás karika 300 g;5,6;27,0;58,5;505;2105
+Üzletben kapható termékek;Győri Pilóta vaníliás karika kakaós tejbevonómasszával 150 g;6,1;26,5;58,5;505;2105
+Üzletben kapható termékek;Gyümölcscukor 500 g;0;0;100;400;1700
+Üzletben kapható termékek;Gyümölcsözön áfonya-meggy-málna extra dzsem 290 g;0,5;0,0;61,5;253;1075
+Üzletben kapható termékek;Gyümölcsözön fahéjas szilva extra dzsem 290 g;0,4;0,0;61,5;256;1087
+Üzletben kapható termékek;Gyümölcsözön sárgabarack extra dzsem 290 g;0,2;0,0;61,5;250;1064
+Üzletben kapható termékek;Haas Fitt szójagranulátum 150 g;45,3;1,9;39,9;358;1519
+Üzletben kapható termékek;Haas Klasszikus csokoládéízű pudingpor 3 x 44 g;3;1,4;80,9;355;1507
+Üzletben kapható termékek;Haas Klasszikus puncsízű pudingpor 3 x 40 g;0,4;0,1;87,0;350;1487
+Üzletben kapható termékek;Haas Klasszikus puncsízű pudingpor 40 g;0,4;0,1;87,0;350;1487
+Üzletben kapható termékek;Haas Klasszikus vaníliaízű pudingpor 3 x 40 g;0,4;0,1;86,7;349;1481
+Üzletben kapható termékek;Haas Klasszikus vaníliaízű pudingpor 40 g;0,4;0,1;86,7;349;1481
+Üzletben kapható termékek;Haas Natural gluténmentes csokoládéízű pudingpor 3 x 44 g;3,2;1,4;77;340;1410
+Üzletben kapható termékek;Haas Natural gluténmentes étkezési keményítő 250 g;0,5;0;86;346;1470
+Üzletben kapható termékek;Haas Natural gluténmentes étkezési keményítő 50 g;0,5;0;86;346;1470
+Üzletben kapható termékek;Haas Natural gluténmentes kókuszízű pudingpor 40 g;0,5;0;86;346;1471
+Üzletben kapható termékek;Haas Natural gluténmentes puncs pudingpor 3 x 40 g;0,5;0;85,9;346;1470
+Üzletben kapható termékek;Haas Natural gluténmentes szőlőcukor 330 g;0;0;90;358;1522
+Üzletben kapható termékek;Haas Natural gluténmentes tiramisu pudingpor 3 x 40 g;0,7;0,1;85,0;346;1466
+Üzletben kapható termékek;Haas Natural gluténmentes tuttifrutti pudingpor 3 x 40 g;0,5;0;86;346;1472
+Üzletben kapható termékek;Haas Natural gluténmentes vaníliaízű pudingpor 3 x 40 g;0,5;0,1;86;346;1472
+Üzletben kapható termékek;Haas Natural gluténmentes vaníliaízű pudingpor 40 g;0,5;0,1;86;346;1472
+Üzletben kapható termékek;Haas Natural sodó vaníliaízű öntetpor 15 g;0,5;0,2;85,8;347;1475
+Üzletben kapható termékek;Haas Natural sütőpor 4 x 12 g;0,1;0;26;104;441
+Üzletben kapható termékek;Haas Natural tejszínízű pudingpor 40 g;0,5;0;86;346;1471
+Üzletben kapható termékek;Haas Natural vanillincukor 4 x 8 g;0;0;98,3;393;1671
+Üzletben kapható termékek;Hahne kisméretű, lapos, teljes kiőrlésű zabpehely 500 g;12,5;7,0;57;360;1517
+Üzletben kapható termékek;Hahne nagyméretű, lapos, teljes kiőrlésű zabpehely 500 g;12,5;7,0;57;360;1517
+Üzletben kapható termékek;Halls borsmentaízű cukormentes rágógumi édesítőszerekkel 18 g;0,1;0,5;70;179;746
+Üzletben kapható termékek;Halls extra erős mentol-eukaliptusz ízű töltetlen keménycukorka 33,5 g;0;0;95,5;380;1620
+Üzletben kapható termékek;Halls fodormenta ízű töltelten keménycukorka 33,5 g;0,1;0,2;97;388;1649
+Üzletben kapható termékek;Halls fodormentaízű cukormentes rágógumi édesítőszerekkel 18 g;0,1;0,5;71;179;746
+Üzletben kapható termékek;Halls görögdinnyeízű cukormentes rágógumi édesítőszerekkel 18 g;0,4;1,1;69;188;782
+Üzletben kapható termékek;Halls mandarinízű cukormentes rágógumi édesítőszerekkel 18 g;0,4;0,7;69;183;763
+Üzletben kapható termékek;Halls mentol-eukaliptusz ízű keménycukorka 33,5 g;0;0;96;385;1635
+Üzletben kapható termékek;Halls méz és citrom ízű keménycukorka 33,5 g;0;0;96,0;385;1640
+Üzletben kapható termékek;Halls vegyes gyümölcsízű töltetlen keménycukorka 33,5 g;0,1;0,1;96;389;1652
+Üzletben kapható termékek;Halls Vita-C lime ízű keménycukorka C-vitaminnal 33,5 g;0;0;93,5;380;1625
+Üzletben kapható termékek;Hamé Betyár ínyenc húskészítmény 105 g;7,1;31,6;2,1;321;1324
+Üzletben kapható termékek;Hamé csipkebogyó extradzsem 340 g;0,2;0,1;60,0;242;1028
+Üzletben kapható termékek;Hamé eper extradzsem 300 g;0,3;0,3;60,0;244;1035
+Üzletben kapható termékek;Hamé kacsa és sertésmájas 105 g;9,1;29,2;2,5;309;1277
+Üzletben kapható termékek;Hamé lazacos pástétom 100 g;13,1;27,9;3,0;317;1311
+Üzletben kapható termékek;Hamé liba és sertésmájas 105 g;9,1;29,2;2,5;309;1277
+Üzletben kapható termékek;Hamé narancs marmelád 340 g;0,2;0,2;60,0;244;1035
+Üzletben kapható termékek;Hamé Natura vegetáriánus pástétom 105 g;3,4;25,8;4,6;266;1098
+Üzletben kapható termékek;Hamé Natura vegetáriánus pástétom olívával 105 g;3,6;26,6;5,8;279;1152
+Üzletben kapható termékek;Hamé Natura vegetáriánus pástétom pirospaprikával 105 g;3,6;25,9;5,7;272;1124
+Üzletben kapható termékek;Hamé Ördögi Ínyenc marhahús pástétom 105 g;11,4;20,3;1,4;234;969
+Üzletben kapható termékek;Hamé Ördögi pirítós keverék marhahússal 105 g;13,6;15,9;4,3;215;894
+Üzletben kapható termékek;Hamé paradicsomos szardínia 125 g;19;5,8;1,8;125;522
+Üzletben kapható termékek;Hamé parasztos sertés májkrém 105 g;8,0;28,1;1,8;292;1206
+Üzletben kapható termékek;Hamé Reggeli csípős marhahús pástétom 105 g;10,8;19,2;5,3;238;986
+Üzletben kapható termékek;Hamé reggeli sertés löncshús 105 g;9,3;15,4;0,8;176;740
+Üzletben kapható termékek;Hamé sárgabarack extradzsem 300 g;0,3;0,1;60,0;242;1030
+Üzletben kapható termékek;Hamé sertés májkrém darabos pirospaprikával 105 g;8,5;27,2;1,9;286;1183
+Üzletben kapható termékek;Hamé sonkás csemege sertéshússal 105 g;11,8;5,9;2,4;110;460
+Üzletben kapható termékek;Hamé szardínia napraforgóolajban 125 g;24,4;14,4;0,2;227;948
+Üzletben kapható termékek;Hamé szardínia napraforgóolajban csilivel 125 g;24;15;0;237;994
+Üzletben kapható termékek;Hamé tonhalas krém 100 g;6,2;32,7;1,7;326;1344
+Üzletben kapható termékek;Hamé tőkehalmáj saját olajában 115 g;5,2;60;0;561;2308
+Üzletben kapható termékek;Hamlet 36 Chocola's Crispy Orange narancs ízű tejcsokoládé puffasztott rizzsel 125 g;6,9;31;55;533;2230
+Üzletben kapható termékek;Hamlet 36 Chocola's epres ízesítésű tejcsokoládé szirom 125 g;6,9;31,3;54,7;533;2227
+Üzletben kapható termékek;Hamlet belga Praliné válogatás, Arany színű díszdobozban 125 g;6,2;30,4;55,5;526;2200
+Üzletben kapható termékek;Hamlet belga Praliné válogatás, Bordó színű díszdobozban 125 g;6,2;30,4;55,5;526;2200
+Üzletben kapható termékek;Happy Frucht csilis bab 400 g;5,0;0,5;9,4;73;305
+Üzletben kapható termékek;Happy Frucht fehérbab 400 g;4,0;0,5;7,5;58;242
+Üzletben kapható termékek;Happy Frucht szeletelt gomba konzerv 400 g;3,4;0,5;0,5;24;101
+Üzletben kapható termékek;Haribo Balla Stixx alma ízű gumicukorka 80 g;2,8;5,2;79;380;1609
+Üzletben kapható termékek;Haribo Balla Stixx cseresznye ízű gumicukorka 80 g;2,7;3,5;82;371;1574
+Üzletben kapható termékek;Haribo Balla Stixx gyümölcsízű gumicukorka 80 g;2,7;3,6;82;373;1579
+Üzletben kapható termékek;Haribo Balla Stixx málna és feketeribizli ízű gumicukorka 80 g;2,7;3,5;81;369;1565
+Üzletben kapható termékek;Haribo Berries zselécukorka 100 g;1,1;0,5;86;350;1486
+Üzletben kapható termékek;Haribo Chamallows Exotic habcukor 100 g;3,5;0,5;80;333;1414
+Üzletben kapható termékek;Haribo Chamallows Flowers habcukor 100 g;3,5;0,5;80;333;1414
+Üzletben kapható termékek;Haribo Chamallows habcukorka 11,6 g;3,5;0,5;80;333;1414
+Üzletben kapható termékek;Haribo Chamallows Tubular habcukorka 90 g;3,5;0,5;80;333;1414
+Üzletben kapható termékek;Haribo Dinos gyümölcsízű gumicukorka 100 g;6,3;0,5;77;339;1441
+Üzletben kapható termékek;Haribo Dragee Eier zselés cukordrazsé 100 g;2,7;0,5;94;390;1656
+Üzletben kapható termékek;Haribo Fruity-Bussi gyümölcsízű gumicukorka 100 g;4,7;0,5;78;336;1428
+Üzletben kapható termékek;Haribo Goldbären gyümölcsízű gumicukorka 1 kg;6,9;0,5;77;343;1459
+Üzletben kapható termékek;Haribo Goldbären gyümölcsízű gumicukorka 100 g;6,9;0,5;77;343;1459
+Üzletben kapható termékek;Haribo Goldbären gyümölcsízű gumicukorka 200 g;6,9;0,5;77;343;1459
+Üzletben kapható termékek;Haribo Goldbären Saft gyümölcsízű gumicukorka gyümölcslével 85 g;5,7;0,5;77;338;1437
+Üzletben kapható termékek;Haribo Happy Cherries gyümölcsízű gumicukor 100 g;6,9;0,5;77;343;1459
+Üzletben kapható termékek;Haribo Happy Cola kólaízű gumicukor 100 g;6,9;0,5;77;343;1459
+Üzletben kapható termékek;Haribo Happy Cola kólaízű habosított gumicukorka 85 g;4,7;0,5;78;336;1428
+Üzletben kapható termékek;Haribo Jelly Beans cukordrazsé zselével töltve 85 g;0,5;0,5;93;375;1595
+Üzletben kapható termékek;Haribo Liebesherzen gyümölcsízű gumicukorka 100 g;5,5;0,5;82;353;1499
+Üzletben kapható termékek;Haribo Pommes F!zz gyümölcsízű savanyú gumicukorka 100 g;3,2;0,5;80;337;1434
+Üzletben kapható termékek;Haribo Primavera gyümölcsízű habcukor 100 g;2,9;0,5;91;377;1603
+Üzletben kapható termékek;Haribo Quaxi gyümölcsízű gumicukor habcukorral 100 g;5,8;0,5;79;345;1466
+Üzletben kapható termékek;Haribo Quaxi gyümölcsízű gumicukor habcukorral 200 g;5,8;0,5;79;345;1466
+Üzletben kapható termékek;Haribo Rainbow Frizzi gyümölcsízű gumicukorka 90 g;1,1;2,7;87;371;1574
+Üzletben kapható termékek;Haribo Roulette gyümölcsízű gumicukorka 25 g;6,9;0,5;77;343;1459
+Üzletben kapható termékek;Haribo Sandía dinnyeízű gumicukorka 90 g;3,6;0,5;82;336;1425
+Üzletben kapható termékek;Haribo Share The Fun gyümölcs- és kólaízű gumicukorka 700 g;6,7;0,5;78;343;1459
+Üzletben kapható termékek;Haribo Tangfastics gyümölcs- és kólaízű savanyú vegyes gumicukorka 100 g;6,6;0,5;80;346;1472
+Üzletben kapható termékek;Haribo Tropi Frutti gyümölcsízű gumicukorka 1000 g;4,5;0,5;82;349;1482
+Üzletben kapható termékek;Haribo Tropifrutti gyümölcsízű gumicukorka 100 g;4,5;0,5;82;349;1482
+Üzletben kapható termékek;Haribo Tropifrutti gyümölcsízű gumicukorka 200 g;4,5;0,5;82;349;1482
+Üzletben kapható termékek;Haribo Wummis gyümölcsízű gumicukorka 100 g;6,3;0,5;77;338;1436
+Üzletben kapható termékek;Házi Arany ázsiai wok fűszerkeverék 33 g;7,2;3,9;29,6;187;791
+Üzletben kapható termékek;Házi Arany fasírt fűszerkeverék 33 g;8,8;3,2;46,3;257;1087
+Üzletben kapható termékek;Házi Arany fokhagymás fűszerkeverék 33 g;7,0;1,6;33,5;179;759
+Üzletben kapható termékek;Házi Arany görög gyros fűszerkeverék 33 g;5,9;2,5;32,6;179;759
+Üzletben kapható termékek;Házi Arany magyaros fűszerkeverék 33 g;6,4;3,4;24,6;161;678
+Üzletben kapható termékek;Házi Arany szárnyas fűszerkeverék 33 g;5,9;2,9;29,7;174;734
+Üzletben kapható termékek;Házias Ízek babfőzelék 400 g;4,1;2,8;12,6;94;395
+Üzletben kapható termékek;Házias Ízek babfőzelék házikolbásszal 400 g;7,0;6,7;12,0;145;608
+Üzletben kapható termékek;Házias Ízek babgulyás 800 g;5,6;2,5;8,7;81;339
+Üzletben kapható termékek;Házias Ízek babgulyás sertéshússal 400 g;5,6;6,1;8,7;112;468
+Üzletben kapható termékek;Házias Ízek bakonyi sertésragu tésztával 400 g;3,6;4,8;8,9;94;394
+Üzletben kapható termékek;Házias Ízek bográcsgulyás 500 g;5,6;2,5;8,7;81;339
+Üzletben kapható termékek;Házias Ízek bolognai tészta 400 g;3,5;2,4;13,6;91;385
+Üzletben kapható termékek;Házias Ízek borsos tokány tésztával 400 g;4,4;4,5;9,0;96;400
+Üzletben kapható termékek;Házias Ízek chilis bab darált marhahússal 400 g;5,4;2,5;19,0;121;511
+Üzletben kapható termékek;Házias Ízek chilis bab darált marhahússal 800 g;5,4;2,5;19,0;121;511
+Üzletben kapható termékek;Házias Ízek csárdafalatok csülökhússal 400 g;3,7;6,2;5,1;92;383
+Üzletben kapható termékek;Házias Ízek csípős magyaros melegszendvics krém 290 g;8,3;23,7;4,6;264;1093
+Üzletben kapható termékek;Házias Ízek hamburgeres melegszendvics krém 290 g;4,0;4,6;13,4;112;472
+Üzletben kapható termékek;Házias Ízek húsgombóc paradicsommártásban 400 g;3,5;3,2;6,6;69;291
+Üzletben kapható termékek;Házias Ízek lencsefőzelék 400 g;4,8;3,0;12,2;101;424
+Üzletben kapható termékek;Házias Ízek lencsefőzelék házikolbásszal 400 g;6,4;4,3;11,8;116;488
+Üzletben kapható termékek;Házias Ízek lencsefőzelék sertéshússal 400 g;6,5;3,5;10,1;103;432
+Üzletben kapható termékek;Házias Ízek marhapörkölt tarhonyával 400 g;4,1;5,5;9,1;105;440
+Üzletben kapható termékek;Házias Ízek mexikói melegszendvics krém 290 g;5,4;6,2;10,8;120;504
+Üzletben kapható termékek;Házias Ízek milánói tészta 400 g;4,2;3,3;15,7;111;466
+Üzletben kapható termékek;Házias Ízek pacalpörkölt 400 g;9,1;8,8;3,4;130;541
+Üzletben kapható termékek;Házias Ízek pacalpörkölt 800 g;10,1;6,5;4,6;118;493
+Üzletben kapható termékek;Házias Ízek pacalpörkölt csülökhússal 500 g;10,1;6,5;3,4;113;474
+Üzletben kapható termékek;Házias Ízek pásztortarhonya csípős házikolbásszal 400 g;3,6;6,7;11,3;121;507
+Üzletben kapható termékek;Házias Ízek pincepörkölt 400 g;4,1;6,2;7,3;103;431
+Üzletben kapható termékek;Házias Ízek pizzás melegszendvics krém 290 g;5,2;2,0;13,6;105;443
+Üzletben kapható termékek;Házias Ízek provanszi melegszendvics krém 290 g;5,2;6,3;11,5;127;530
+Üzletben kapható termékek;Házias Ízek pulykahús falatok zöldborsóval 400 g;5,5;1,4;10,4;76;323
+Üzletben kapható termékek;Házias Ízek rakott káposzta 400 g;3,6;8,5;6,6;117;487
+Üzletben kapható termékek;Házias Ízek rakott káposzta 500 g;4,8;6,9;6,4;114;475
+Üzletben kapható termékek;Házias Ízek rakott tészta 400 g;3,9;6,5;9,9;116;484
+Üzletben kapható termékek;Házias Ízek rizses lecsó házikolbásszal 400 g;3,9;6,2;11,0;116;484
+Üzletben kapható termékek;Házias Ízek sárgaborsófőzelék pörkölttel 400 g;5,7;5,4;10,7;114;477
+Üzletben kapható termékek;Házias Ízek sertéspörkölt 300 g;8,5;9,0;4,7;134;559
+Üzletben kapható termékek;Házias Ízek sólet csípős házikolbásszal 500 g;6,8;6,1;12,5;139;583
+Üzletben kapható termékek;Házias Ízek sólet pácolt marhahússal 400 g;8,0;2,6;13,0;107;453
+Üzletben kapható termékek;Házias Ízek sonkás melegszendvics krém 290 g;8,2;18,3;4,3;215;889
+Üzletben kapható termékek;Házias Ízek székelykáposzta 400 g;2,6;5,5;5,6;82;343
+Üzletben kapható termékek;Házias Ízek tanyasi káposzta csülökhússal 400 g;3,2;4,0;4,7;70;292
+Üzletben kapható termékek;Házias Ízek töltött káposzta 400 g;3,1;5,3;4,9;83;344
+Üzletben kapható termékek;Házias Ízek zöldséges aprópecsenye 400 g;5,1;3,7;7,1;86;361
+Üzletben kapható termékek;Házias Ízek zöldséges egytál sertéshússal 400 g;5,8;0,6;9,7;68;287
+Üzletben kapható termékek;Házias Ízek zúzapörkölt 400 g;9,9;6,9;4,8;122;510
+Üzletben kapható termékek;Házisweets Choco mini kakaós-rumos ízű kókuszos csemege 40 g;4;13,2;54,8;354;1488
+Üzletben kapható termékek;Házisweets Choco Premium kakaós-rumos ízű kókuszos csemege 180 g;4;13,2;54,8;354;1488
+Üzletben kapható termékek;Házisweets citromízű szőlőcukor tabletta 80 g;0,1;0,7;90,3;368;1563
+Üzletben kapható termékek;Házisweets mentolos ízű szőlőcukor tabletta 80 g;0,1;0,3;91;367;1560
+Üzletben kapható termékek;Házisweets natúr szőlőcukor tabletta 80 g;0,1;0,7;90;368;1558
+Üzletben kapható termékek;Hearty Food Co. "B" minőségű hosszú szemű rizs 4 x 100 g;6,7;0,7;78,9;354;1500
+Üzletben kapható termékek;Hearty Food Co. cérnácska 2 tojásos száraztészta 500 g;11,0;1,9;72,0;354;1502
+Üzletben kapható termékek;Hearty Food Co. cérnácska tojás nélküli száraztészta 500 g;11,0;1,2;74,0;358;1516
+Üzletben kapható termékek;Hearty Food Co. cérnametélt 2 tojásos száraztészta 250 g;12,0;1,4;76,0;371;1572
+Üzletben kapható termékek;Hearty Food Co. copfocska 2 tojásos száraztészta 500 g;11,0;1,9;72,0;354;1502
+Üzletben kapható termékek;Hearty Food Co. fodros nagykocka 2 tojásos száraztészta 500 g;11,0;1,9;72,0;354;1502
+Üzletben kapható termékek;Hearty Food Co. makaróni 2 tojásos száraztészta 500 g;11,0;1,9;72,0;354;1502
+Üzletben kapható termékek;Hearty Food Co. orsó 2 tojásos száraztészta 500 g;11,0;1,9;72,0;354;1502
+Üzletben kapható termékek;Hearty Food Co. orsó tojás nélküli száraztészta 500 g;11,0;1,2;74,0;358;1516
+Üzletben kapható termékek;Hearty Food Co. penne tojás nélküli száraztészta 500 g;11,0;1,2;74,0;358;1516
+Üzletben kapható termékek;Hearty Food Co. rövidmetélt 2 tojásos száraztészta 500 g;11,0;1,9;72,0;354;1502
+Üzletben kapható termékek;Hearty Food Co. spagetti 2 tojásos száraztészta 500 g;11,0;1,9;72,0;354;1502
+Üzletben kapható termékek;Hearty Food Co. spagetti tojás nélküli száraztészta 500 g;11,0;1,2;74,0;358;1516
+Üzletben kapható termékek;Hearty Food Co. szarvacska 2 tojásos száraztészta 500 g;11,0;1,9;72,0;354;1502
+Üzletben kapható termékek;Hearty Food Co. szarvacska tojás nélküli száraztészta 500 g;11,0;1,2;74,0;358;1516
+Üzletben kapható termékek;Hearty Food Co. tarhonya 2 tojásos száraztészta 500 g;11,0;1,9;72,0;354;1502
+Üzletben kapható termékek;Heinz Baked Beans sült bab paradicsommártásban 415 g;4,7;0,2;12,5;78;329
+Üzletben kapható termékek;Heinz barbecue szósz 220 ml;0,8;0,2;34,0;142;602
+Üzletben kapható termékek;Heinz barbecue szósz chili 400 ml;1,0;0;35;154;655
+Üzletben kapható termékek;Heinz barbecue szósz classic 400 ml;0,9;0;32;138;586
+Üzletben kapható termékek;Heinz barbecue szósz édes 400 ml;0,9;0;42;175;741
+Üzletben kapható termékek;Heinz BIO ketchup 500 ml;1,5;0,2;28,9;126;536
+Üzletben kapható termékek;Heinz csípős ketchup 570 g;1,2;0,1;23,3;107;449
+Üzletben kapható termékek;Heinz light ketchup 550 g;1,4;0,1;12;64;271
+Üzletben kapható termékek;Heinz majonéz 26% 420 g;0,6;26;3,8;250;1029
+Üzletben kapható termékek;Heinz majonéz 70% 395 g;0,8;70;3,0;644;2650
+Üzletben kapható termékek;Heinz majonéz 70% zsírtartalommal 215 g;0,8;70;3,0;644;2650
+Üzletben kapható termékek;Heinz majonéz 70% zsírtartalommal 460 g;0,8;70;3,0;644;2650
+Üzletben kapható termékek;Heinz Mild mustár 445 g;5,4;5,0;9,3;118;495
+Üzletben kapható termékek;Heinz Sweet mustár mézzel 240 g;5,1;4,8;20;154;645
+Üzletben kapható termékek;Heinz Tomato ketchup 1 kg;1,2;0,1;23,2;102;435
+Üzletben kapható termékek;Heinz Tomato ketchup 1,5 kg;1,2;0,1;23,2;102;435
+Üzletben kapható termékek;Helcom erdei gyümölcssaláta cukrozott lében 360 g;0,5;0;16;67;292
+Üzletben kapható termékek;Helcom gyümölcssaláta cukrozott lében 820 g;0,5;0,1;14,9;259;61,6
+Üzletben kapható termékek;Helcom pirított hagyma 100 g;6,0;48;37;610;2550
+Üzletben kapható termékek;Hellmann's BBQ szósz flakonos 250 ml;0,8;0,6;29;140;587
+Üzletben kapható termékek;Hellmann's Delicate majonéz 412 g;0,8;68;4,6;620;2602
+Üzletben kapható termékek;Hellmann's Light majonéz 430 ml;0,5;26;6,1;264;1108
+Üzletben kapható termékek;Hellmann's majonéz 400 g;1,1;79;1,4;708;2963
+Üzletben kapható termékek;Hellmann's majonéz 430 ml;1,1;79;1,4;726;2985
+Üzletben kapható termékek;Hellmann's majonéz olívaolajjal 400 g;0,8;66;2,4;592;2491
+Üzletben kapható termékek;Hershey's táblás tejcsokoládé 45 g;8,7;31,4;55,5;547;22287
+Üzletben kapható termékek;Hit szendvicskeksz csokoládé ízesítésű töltelékkel 220 g;6,9;23;64;496;2077
+Üzletben kapható termékek;Hit szendvicskeksz étcsokoládé és narancs ízesítésű töltelékkel 220 g;6,7;24;63;499;2089
+Üzletben kapható termékek;Hit szendvicskeksz fehér csokoládé és citrom ízesítésű töltelékkel 220 g;5,8;24;63;500;2094
+Üzletben kapható termékek;Hízott libamáj desszert 190 g;7,1;37,2;1,4;369;1520
+Üzletben kapható termékek;Hízott libamáj zsírjában 180 g;3,0;73,4;0,4;674;2773
+Üzletben kapható termékek;Horváth Rozi brassói aprópecsenye fűszerkeverék 30 g;8,8;1,0;36;213;893
+Üzletben kapható termékek;Horváth Rozi étkezési zselatin 20 g;84;0,1;0;342;1435
+Üzletben kapható termékek;Horváth Rozi fokhagymabors 20 g;10;0,9;51;265;1115
+Üzletben kapható termékek;Horváth Rozi fokhagymás gyorspác fűszerkeverék 30 g;10;1,2;43;242;1018
+Üzletben kapható termékek;Horváth Rozi fűszeres tarja fűszersó 30 g;4,8;2,3;18;124;520
+Üzletben kapható termékek;Horváth Rozi gyros gyorspác 30 g;6,8;3,3;36;226;949
+Üzletben kapható termékek;Horváth Rozi jódozott vákuum só 1 kg;0;0;0;0;0
+Üzletben kapható termékek;Horváth Rozi magyaros sertéssült fűszersó 30 g;3,8;2,1;12;90;376
+Üzletben kapható termékek;Horváth Rozi mustáros gyorspác fűszerkeverék 30 g;14;13;27;293;1229
+Üzletben kapható termékek;Horváth Rozi rablóhús fűszersó 30 g;11;3,3;14;145;607
+Üzletben kapható termékek;Horváth Rozi ropogós sültcsirke fűszersó 30 g;15;1,3;6,3;100;427
+Üzletben kapható termékek;Horváth Rozi sültkrumpli fűszersó 30 g;5;1,2;25;140;587
+Üzletben kapható termékek;HP barnamártás 285 g;0,9;0,1;28,3;122;517
+Üzletben kapható termékek;Hunicon darált mák 200 g;20,5;38;24;526;2209
+Üzletben kapható termékek;Hunicon diótöltelék 200 g;16,3;19;38,4;470;2146
+Üzletben kapható termékek;Hunicon Sütivarázs dió ízű töltelék 200 g;18,7;14,1;49,5;414;1737
+Üzletben kapható termékek;I. osztályú őrölt csípős paprika 50 g;15;6,7;24;291;1208
+Üzletben kapható termékek;I. osztályú őrölt édes paprika 100 g;15;6,7;24;291;1208
+Üzletben kapható termékek;I. osztályú őrölt édes paprika 150 g;15;6,7;24;291;1208
+Üzletben kapható termékek;I. osztályú őrölt édes paprika 50 g;15;6,7;24;291;1208
+Üzletben kapható termékek;II. osztályú őrölt édes paprika 100 g;16;12;56;403;1695
+Üzletben kapható termékek;II. osztályú őrölt édes paprika 50 g;15;6,7;24;291;1208
+Üzletben kapható termékek;Isostar Hydrate  and  Perform narancs ízű izotóniás sportital-por 400 g;0;0;73;373;1586
+Üzletben kapható termékek;Ízvilág Bohóc étcsokoládéval bevont szelet narancsos és rumos ízű kakaós töltelékkel 25 g;3,6;14,5;70,0;430;1805
+Üzletben kapható termékek;Ízvilág Kapucíner étcsokoládéval bevont szelet kávés és tejszínízű töltelékkel 31 g;7,3;15,5;65,5;430;1810
+Üzletben kapható termékek;Ízvilág Lottó étcsokoládéval bevont szelet rumos ízű diós töltelékkel 25 g;5,1;13,5;67,0;420;1775
+Üzletben kapható termékek;Ízvilág Szamba étcsokoládéval bevont szelet rumos ízű kakaós és marcipános-meggyes töltelékkel 25 g;5,0;13,5;68,5;425;1790
+Üzletben kapható termékek;Izsáki Házitészta Juhászné Száraztésztája cérnametélt 8 tojásos száraztészta 250 g;17,0;5,0;69,2;390;1665
+Üzletben kapható termékek;Izsáki Házitészta Juhászné száraztésztája csipetke 8 tojásos száraztészta 200 g;14,4;3,5;71,8;381;1612
+Üzletben kapható termékek;Izsáki Házitészta Juhászné száraztésztája eperszalag 8 tojásos száraztészta 200 g;14,4;3,5;71,8;381;1612
+Üzletben kapható termékek;Izsáki Házitészta Juhászné száraztésztája lúdgége 8 tojásos száraztészta 200 g;14,4;3,5;71,8;381;1612
+Üzletben kapható termékek;Izsáki Házitészta Juhászné száraztésztája préseltcsiga 8 tojásos száraztészta 200 g;14,4;3,5;71,8;381;1612
+Üzletben kapható termékek;Izsáki Házitészta lúdgége 4 tojásos száraztészta 500 g;15;3,4;72,9;382;1620
+Üzletben kapható termékek;Jam sárgabarack dzsem csökkentett cukortartalommal 600 g;0,5;0,5;34;148;623
+Üzletben kapható termékek;Jam szamóca-alma dzsem csökkentett cukortartalommal 600 g;0,5;0,5;34;148;623
+Üzletben kapható termékek;Jamie Oliver csodálatos currys csicseriborsó 250 g;6,1;4,3;15,6;135;565
+Üzletben kapható termékek;Jamie Oliver érzéki édes chili tönköly 250 g;5,6;4,2;32,4;199;840
+Üzletben kapható termékek;Jamie Oliver isteni lencse 250 g;6,2;2,0;12;98;412
+Üzletben kapható termékek;Jamie Oliver különleges, krémes fekete lencse melengető fűszerekkel 250 g;6,8;4,9;13;130;546
+Üzletben kapható termékek;Jamie Oliver paradicsom és mediterrán zöldséges tésztaszósz 400 g;1,7;1,5;5,8;44;185
+Üzletben kapható termékek;Jamie Oliver szuper paradicsom, olíva és quinoa 250 g;4,2;5,8;23,8;170;715
+Üzletben kapható termékek;Jordans Country Crisp ropogós gabonapelyhek étcsokoládé reszelékkel 400 g;8,3;17,3;64,8;460;1929
+Üzletben kapható termékek;Jordans Country Crisp ropogós gabonapelyhek liofilizált eperrel 400 g;7,9;14,8;66,4;444;1866
+Üzletben kapható termékek;Jordans Country Crisp ropogós, teljes kiőrlésű gabonapelyhek diófélékkel 400 g;10,9;20,8;57,7;474;1985
+Üzletben kapható termékek;Kaija lazacfilé angol mustárszószban 170 g;9;3,5;7;185;771
+Üzletben kapható termékek;Kaija lazacfilé gombaszószban 170 g;9;14;5;182;756
+Üzletben kapható termékek;Kaija lazacfilé paradicsomszószban 170 g;9;13;6;177;736
+Üzletben kapható termékek;Kaija lazacfilé saját levében 170 g;18;10;0;162;677
+Üzletben kapható termékek;Kaiser Franz Josef Exclusive magozott fekete olívabogyó sós lében 300 g;0,5;14;0;133;546
+Üzletben kapható termékek;Kalas Classic jódozott görög tengeri só 400 g;0;0;0;0;0
+Üzletben kapható termékek;Kalas Niké jódozott görög tengeri só 1 kg;0;0;0;0;0
+Üzletben kapható termékek;Kalifa Alhambra étcsokoládés vörös áfonya 60 g;3,3;14;67;427;1791
+Üzletben kapható termékek;Kalifa cukrozott aszalt vörösáfonya 100 g;0,2;1,2;81;344;1459
+Üzletben kapható termékek;Kalifa cukrozott, aszalt papayakocka 200 g;0,8;0,05;82;333;1415
+Üzletben kapható termékek;Kalifa darált, cukrozott dióbél 200 g;8,1;32;53;539;2248
+Üzletben kapható termékek;Kalifa diákcsemege 200 g;12,9;24,3;42,0;451;1881
+Üzletben kapható termékek;Kalifa diákcsemege 500 g;15,0;34,2;30,9;496;2060
+Üzletben kapható termékek;Kalifa étkezési mák 250 g;20,5;39,1;23,9;540;2242
+Üzletben kapható termékek;Kalifa fenyőmag 50 g;13,7;68,4;13,1;730;3016
+Üzletben kapható termékek;Kalifa héj nélküli tökmag 100 g;35;43;3,6;575;2382
+Üzletben kapható termékek;Kalifa Kalifa Mix cukrozott ananász- és papayakocka 200 g;0,5;0,05;84;342;1454
+Üzletben kapható termékek;Kalifa kókuszreszelék 100 g;7,7;59;7,0;635;2612
+Üzletben kapható termékek;Kalifa lenmag 250 g;21;43;2,2;553;2276
+Üzletben kapható termékek;Kalifa magozott aszalt sárgabarack 200 g;2,8;0,2;66;295;1250
+Üzletben kapható termékek;Kalifa magozott aszalt sárgabarack 500 g;2,5;0,7;35,8;165;699
+Üzletben kapható termékek;Kalifa magozott aszalt szilva 200 g;2,2;1;64,0;286;1209
+Üzletben kapható termékek;Kalifa mazsola 100 g;2,7;0,8;77;332;1410
+Üzletben kapható termékek;Kalifa mazsola 250 g;2,7;0,8;77;332;1410
+Üzletben kapható termékek;Kalifa natúr mandula 100 g;21,2;49,4;6,8;564;2333
+Üzletben kapható termékek;Kalifa saláta-magkeverék 50 g;17;46,4;30;616;2559
+Üzletben kapható termékek;Kalifa sós, pörkölt mandula 70 g;20,7;52,6;3,4;590;2435
+Üzletben kapható termékek;Kalifa szeletelt mandula 100 g;28,6;50,0;14,3;636;2636
+Üzletben kapható termékek;Kalifa szezámmag 250 g;25;51;2,2;594;2458
+Üzletben kapható termékek;Kalifa törökmogyoróbél 100 g;16;62;4,2;658;2715
+Üzletben kapható termékek;Kalocsai csemege gulyáskrém 160 g + 16 g;1,6;6,4;8;99;411
+Üzletben kapható termékek;Kalocsai csemege paprikakrém 160 g + 16 g;1;0,3;4,3;27;112
+Üzletben kapható termékek;Kalocsai erős paprikakrém 160 g + 16 g;1;0,3;4,3;27;112
+Üzletben kapható termékek;Kalocsai ketchup 750 g;1,6;0,3;22,4;99;419
+Üzletben kapható termékek;Kalocsai majonéz édesítőszerrel 420 ml + 250 ml;4;23,9;10,4;103;433
+Üzletben kapható termékek;Kalocsai mustár 420 g + 250 g;4,5;4,6;12;118;490
+Üzletben kapható termékek;Kecskeméti csökkentett energia- és cukortartalmú sárgabaracklekvár cukorral és édesítőszerrel 280 g;0,5;0,0;21,1;90;380
+Üzletben kapható termékek;Kecskeméti Prémium áfonyalekvár 300 g;0,3;0,4;48,0;204;858
+Üzletben kapható termékek;Kecskeméti Prémium birsalmalekvár almakockákkal 300 g;0,3;0,0;48,0;199;834
+Üzletben kapható termékek;Kecskeméti Prémium erdei vegyes gyümölcslekvár 300 g;0,7;0,0;48,0;209;879
+Üzletben kapható termékek;Kecskeméti Prémium málnalekvár 300 g;0,7;0,2;48,0;213;893
+Üzletben kapható termékek;Kecskeméti Prémium meggylekvár 300 g;0,5;0,2;48,0;207;869
+Üzletben kapható termékek;Kecskeméti Prémium szamócalekvár 300 g;0,6;0,2;48,0;203;851
+Üzletben kapható termékek;Kecskeméti sűrített paradicsom 360 g;3,2;0,7;13,0;75;314
+Üzletben kapható termékek;Kenyérvarázs Glutenix gluténmentes magkeverékes kenyér sütőkeverék 500 g;6,2;9,42;63,2;380;1598
+Üzletben kapható termékek;Kinder Bueno Dark étcsokoládéval bevont ostya tejes-mogyorós krémmel töltve 2 db 43 g;9;40,6;46,1;593;2469
+Üzletben kapható termékek;Kinder Bueno Mini tejcsokoládéval bevont tejes-mogyorós töltésű ostya 108 g;8,6;37,3;49,5;572;2384
+Üzletben kapható termékek;Kinder Bueno tejcsokoládéval bevont ostya tejes-mogyorós krémmel töltve 2 db 43 g;8,6;37,3;49,5;572;2384
+Üzletben kapható termékek;Kinder Bueno White fehércsokoládéval bevont ostya tejes-mogyorós krémmel töltve 2 db 39 g;8,8;35,9;53;572;2387
+Üzletben kapható termékek;Kinder Chocolate Mini tejcsokoládé szelet tejes krémmel töltve 120 g;8,7;35;53,5;566;2360
+Üzletben kapható termékek;Kinder Chocolate tejcsokoládé szelet tejes krémmel töltve 24 db 300 g;8,7;35;53,5;566;2360
+Üzletben kapható termékek;Kinder Country tejcsokoládé szelet gabonapelyhes és tejes töltéssel 23,5 g;8,6;33,8;54,9;561;2342
+Üzletben kapható termékek;Kinder Country tejcsokoládé szelet tejes krémmel és gabonapelyhekkel töltve 4 db 94 g;8,6;33,8;54,9;561;2342
+Üzletben kapható termékek;Kinder Gransorpresa Fiú belső tejes réteggel bevont tejcsokoládé tojás meglepetéssel 320 g;8,8;36,2;53,9;579;2413
+Üzletben kapható termékek;Kinder Gransorpresa Lány belső tejes réteggel bevont tejcsokoládé tojás meglepetéssel 320 g;8,8;36,2;53,9;579;2413
+Üzletben kapható termékek;Kinder Maxi Mix ajándékcsomag plüssfigurával 133 g;8,6;37,3;52,5;561;2342
+Üzletben kapható termékek;Kinder Maxi tejcsokoládé szelet tejes krémmel 21 g;8,7;35;53,5;566;2360
+Üzletben kapható termékek;Kinder Meglepetés belső tejes réteggel bevont tejcsokoládé tojás belsejében meglepetéssel 20 g;8,1;34,2;52,3;552;2302
+Üzletben kapható termékek;Kinder Mix ajándékcsomag 79 g;8,8;36,2;54,9;552;2302
+Üzletben kapható termékek;Kinder Schokobons tejcsokoládé bonbonok tejes krémmel és mogyoródarabkákkal töltve 46 g;8,3;36,6;52,5;576;2401
+Üzletben kapható termékek;Kinder Schokobons tejcsokoládé bonbonok tejes-mogyorós töltéssel 125 g;8,3;36,6;52,5;576;2401
+Üzletben kapható termékek;Kinder Surprise Maxi belső tejes réteggel bevont tejcsokoládé tojás belsejében meglepetéssel 100 g;8,8;36,2;53,9;579;2413
+Üzletben kapható termékek;Kinder tejcsokoládé szelet tejes krémmel töltve 4 db 50 g;8,7;35;53,5;566;2360
+Üzletben kapható termékek;Kinder tejcsokoládé szelet tejes krémmel töltve 8 db 100 g;8,7;35;53,5;566;2360
+Üzletben kapható termékek;Kiskunfélegyházi asztali mustár 700 g;5,0;5,0;7,0;105;440
+Üzletben kapható termékek;Kiskunfélegyházi ecetes reszelt torma 350 g;2,0;2,0;14;93;391
+Üzletben kapható termékek;Kiss Torma csípős paprika krém 200 g;1,6;1,2;4,5;45;190
+Üzletben kapható termékek;Kiss Torma ecetes torma 200 g;1,4;3,5;14;116;485
+Üzletben kapható termékek;Kiss Torma ecetes torma 350 g;1,4;3,5;14;116;485
+Üzletben kapható termékek;Kiss Torma tejszínes torma 200 g;1,2;8,0;16;165;691
+Üzletben kapható termékek;KitKat Bites Peanut Butter földimogyorós krémmel töltött ropogós ostya tejcsokoládéban 104 g;10,8;28,3;55,3;523;2188
+Üzletben kapható termékek;KitKat Bites ropogós ostya tejcsokoládéban 104 g;6,1;26,9;62,9;522;2184
+Üzletben kapható termékek;KitKat Chunky mogyorós krémmel bevont ropogós ostya tejcsokoládéban 42 g;7,2;30,6;58,0;539;2251
+Üzletben kapható termékek;KitKat Chunky ropogós ostya fehér csokoládéban 40 g;6,9;30,6;59,4;541;2263
+Üzletben kapható termékek;KitKat Chunky ropogós ostya tejcsokoládéban 40 g;7,7;28,6;59,5;529;2210
+Üzletben kapható termékek;KitKat Mini ropogós ostya tejcsokoládéban 200 g;7,0;27,9;60,2;524;2190
+Üzletben kapható termékek;KitKat ropogós ostya tejcsokoládéban 41,5 g;8,5;27,6;58,8;521;2181
+Üzletben kapható termékek;KitKat Senses ropogós ostya csokoládékrémmel bevonva, tejcsokoládéban 200 g;5,7;29,9;59,5;535;2236
+Üzletben kapható termékek;KitKat Senses sós karamellel bevont ropogós ostya tejcsokoládéban 200 g;6,8;28,8;59,9;529;2213
+Üzletben kapható termékek;Kleofás formázott keménycukorka 18 g;0,2;0,1;87,3;351;1491
+Üzletben kapható termékek;Knoppers Minis töltött ostya kakaós tejbevonóval félig mártva 200 g;8,8;33,2;52,4;551;2299
+Üzletben kapható termékek;Knoppers tejes-mogyorós töltött ostya 25 g;8,8;33,2;52,4;551;2299
+Üzletben kapható termékek;Knoppers tejes-mogyorós töltött ostya 75 g;8,8;33,2;52,4;551;2299
+Üzletben kapható termékek;Knorr aranybarna sült csirke fűszerkeverék 35 g;6,2;6,7;19;170;713
+Üzletben kapható termékek;Knorr bolognai spagetti alap 43 g;8,5;4,3;54;306;1285
+Üzletben kapható termékek;Knorr bolognai szósz paradicsommal, bazsalikommal és oregánóval 500 g;1,4;0,5;10;46;196
+Üzletben kapható termékek;Knorr burgonyapüré pehely 110 g;2,5;2,5;11;80;340
+Üzletben kapható termékek;Knorr carbonara spagetti alap 47 g;14;21;47;436;1831
+Üzletben kapható termékek;Knorr chilis bab alap 64 g;17;6,6;51;316;1326
+Üzletben kapható termékek;Knorr csípős csirkeszárny páckeverék 35 g;10;6;43;280;1170
+Üzletben kapható termékek;Knorr édes-savanyú mártás 525 g;0,6;0,5;21;93;385
+Üzletben kapható termékek;Knorr ételsűrítő 250 g;6,4;40;46;582;2408
+Üzletben kapható termékek;Knorr Fix 7 sajtos csirkemell alap 35 g;14;32;35;492;2051
+Üzletben kapható termékek;Knorr Fix ázsiai joghurtos csirke alap 48 g;6,8;7,9;59;343;1443
+Üzletben kapható termékek;Knorr Fix bolognai spagetti alap 59 g;7,2;6,4;64;352;1484
+Üzletben kapható termékek;Knorr Fix carbonara spagetti alap 26 g;8;42;33;547;2285
+Üzletben kapható termékek;Knorr Fix gyros alap fokhagymás dresszinggel 40 g;9,6;9;48;330;1391
+Üzletben kapható termékek;Knorr Fix kínai édes-savanyú csirke alap 66 g;3,1;4;76;369;1558
+Üzletben kapható termékek;Knorr Fix kínai pirított csirke alap 39 g;8,9;4,5;56;319;1345
+Üzletben kapható termékek;Knorr Fix lasagne alap 56 g;9,6;3,9;59;317;1328
+Üzletben kapható termékek;Knorr Fix Lasagne Carbonara 190 g;12;7;64;370;1600
+Üzletben kapható termékek;Knorr Fix lasagne tészta bolognai mártással 205 g;12;5;65;356;1505
+Üzletben kapható termékek;Knorr Fix mexikói chilis bab alap 50 g;12;5;53;324;1362
+Üzletben kapható termékek;Knorr Fix milánói makaróni alap 60 g;6,3;8,8;62;160;1514
+Üzletben kapható termékek;Knorr Fix Penne all'Arrabbiata csirkével alap 46 g;8,7;4,3;62;332;1397
+Üzletben kapható termékek;Knorr Fix pörkölt alap 45 g;8,3;7,7;55;342;1436
+Üzletben kapható termékek;Knorr Fix sajtos-csirkés rakott tészta alap 45 g;8,9;35;39;511;2129
+Üzletben kapható termékek;Knorr Fix sajtszósz alap 29 g;14;32;37;501;2086
+Üzletben kapható termékek;Knorr Fix sajtszószos csirkés penne alap 40 g;14;37;33;522;2172
+Üzletben kapható termékek;Knorr Fix szecsuáni csípős csirke alap 37 g;6,5;1,7;62;291;1231
+Üzletben kapható termékek;Knorr Fix tejszínes fokhagymás csirke alap 47 g;8,3;29;44;476;1988
+Üzletben kapható termékek;Knorr Fix vadas alap 60 g;6,5;8;54;336;1405
+Üzletben kapható termékek;Knorr Fix XXL carbonara spagetti alap 43 g;8,2;42;34;555;2314
+Üzletben kapható termékek;Knorr Fix XXL chili con carne alap 75 g;18;12;51;356;1488
+Üzletben kapható termékek;Knorr fokhagymás páckeverék 35 g;5,7;3,7;43;227;953
+Üzletben kapható termékek;Knorr grill páckeverék 35 g;9,7;7,5;34;251;1051
+Üzletben kapható termékek;Knorr gyros fűszerkeverék 35 g;9,9;4,5;31;224;956
+Üzletben kapható termékek;Knorr mézes-mustáros szósz 525 g;1,1;5,3;14;112;466
+Üzletben kapható termékek;Knorr milánói szósz gombaszeletekkel 500 g;2;1,7;11;65;275
+Üzletben kapható termékek;Knorr Pasta Snack tészta paradicsomos-mozzarellás szósszal 72 g;3,2;1,3;17;97;406
+Üzletben kapható termékek;Knorr Pasta Snack tészta sajtos-tejszínes szósszal 71 g;3,1;5;15;116;485
+Üzletben kapható termékek;Knorr Pasta Snack tészta sajtos-zöldfűszeres szósszal 65 g;2,8;2,9;15;100;416
+Üzletben kapható termékek;Knorr Provence csirke fűszerkeverék 35 g;9,3;10;26;271;1154
+Üzletben kapható termékek;Knorr Snack tészta gombás-tejszínes szósszal 70 g;2,8;2,6;15;96;400
+Üzletben kapható termékek;Knorr Snack tészta sajtos-brokkolis szósszal 69 g;3,3;3,9;14;107;447
+Üzletben kapható termékek;Knorr Spaghetteria tejszínes-sajtos tészta szalonnával 153 g;3;2,3;15;94;397
+Üzletben kapható termékek;Knorr Spaghetteria tészta paprikás csirke szósszal 168 g;4;2;20;120;490
+Üzletben kapható termékek;Knorr Spaghetteria tészta paradicsomos-mozzarellás szósszal 163 g;3,9;0,9;21;110;462
+Üzletben kapható termékek;Knorr Spaghetteria tészta parmezános sajtszósszal 163 g;3,4;3,1;19;119;500
+Üzletben kapható termékek;Knorr sült csirke fűszerkeverék 35 g;3,8;2,4;30;165;694
+Üzletben kapható termékek;Knorr sült krumpli fűszerkeverék 35 g;4,6;2,1;28;154;649
+Üzletben kapható termékek;Knorr sült oldalas fűszerkeverék 35 g;8,6;2,9;44;243;956
+Üzletben kapható termékek;Knorr tejfölös-gombás csirke alap 45 g;8,4;3,4;54;297;1244
+Üzletben kapható termékek;Knorr tejszínes gombás szósz 500 g;0,8;7,6;4,7;95;394
+Üzletben kapható termékek;Knorr tejszínes paprikás szósz 500 g;0,8;7,5;7,9;105;443
+Üzletben kapható termékek;Knorr tejszínes sonkás tészta alap 44 g;5,9;3,4;69;343;1441
+Üzletben kapható termékek;Knorr Zöldséges Snack ázsiai fűszeres bulgur paradicsommal és csicseriborsóval 71 g;3,1;3,7;17;118;494
+Üzletben kapható termékek;Knorr Zöldséges Snack curry-s kuszkusz paprikával és gyömbérrel 70 g;3,1;4,8;16;126;526
+Üzletben kapható termékek;Knorr Zöldséges Snack gombás kuszkusz cukkinivel és répával 72 g;3,2;3;20;123;517
+Üzletben kapható termékek;Knorr Zöldséges Snack paradicsomos kuszkusz cukkinivel 70 g;3,5;3,9;17;121;507
+Üzletben kapható termékek;Knusperland levesgyöngy snack 200 g;8;35;50;555;2313
+Üzletben kapható termékek;Koch's tejszínes tormakrém 340 g;1,5;27;5,9;278;1146
+Üzletben kapható termékek;KOCHs pikáns majonézes torma 140 g;2,0;29;10;319;1316
+Üzletben kapható termékek;KOCHs wasabis, csípős torma édesítőszerrel 140 g;3,0;10;10;151;629
+Üzletben kapható termékek;Koestlin dupla csokis reggeliző gabonakeksz 4 x 40 g;8,3;16;70;461;1937
+Üzletben kapható termékek;Koestlin reggeliző gabonakeksz mézzel és magvakkal 4 x 40 g;7,8;19;67;474;1991
+Üzletben kapható termékek;Koestlin reggeliző gabonakeksz szilvával 4 x 40 g;8,0;15;72;458;1926
+Üzletben kapható termékek;Kofa Premium csípős pepperóni paprika savanyúság 350 g;1;0,1;4,5;22;29
+Üzletben kapható termékek;Kofa Premium darabolt ananász, cukrozott lében 565 g;0;0;17;70;293
+Üzletben kapható termékek;Kofa Premium édes-savanyú pikáns ecetes gyöngyhagyma 320 g;1,0;0,5;11;52;221
+Üzletben kapható termékek;Kofa Premium hámozott, felezett, magozott őszibarack cukrozott lében 700 g;0,3;0;16,1;65,6;274,5
+Üzletben kapható termékek;Kofa Premium sűrített paradicsom 400 g;3,17;0,63;9,5;61;257
+Üzletben kapható termékek;Kofa Premium szeletelt ananász cukrozott lében 565 g;0;0;16;64;267,78
+Üzletben kapható termékek;Kókuszolaj 1 l;0;100;0;900;3700
+Üzletben kapható termékek;Korona termesztett csiperke szeletek 190 g;2,3;0,1;2,4;22;92
+Üzletben kapható termékek;Korona termesztett csiperke szeletek 330 g;2,3;0,1;2,4;22;92
+Üzletben kapható termékek;Korona termesztett csiperke szeletek 520 g;2,3;0,1;2,4;22;92
+Üzletben kapható termékek;Koronás Cukor aranybarna cukor 500 g;0;0;99;396;1683
+Üzletben kapható termékek;Koronás Cukor kockacukor 500 g;0;0;100;400;1700
+Üzletben kapható termékek;Koronás Cukor kristálycukor 1000 g;0;0;100;400;1700
+Üzletben kapható termékek;Koronás Cukor porcukor 500 g;0;0;100;400;1700
+Üzletben kapható termékek;Koronás Cukor Prémium finomszemcséjű kristálycukor 1 kg;0;0;100;400;1700
+Üzletben kapható termékek;Kosher akácméz 500 g;0,3;0,0;82,4;300;1270
+Üzletben kapható termékek;Kosher virágméz 500 g;0,3;0,0;82,4;300;1270
+Üzletben kapható termékek;Kotányi 2 in 1 gyros  and  fokhagymás-joghurtos szósszal fűszerkeverék 37 g;7,4;2,1;59;231;971
+Üzletben kapható termékek;Kotányi 2 in 1 szaftos sültcsirke fűszersó + XL sütőzacskó 25 g;2,6;1,6;23;123;517
+Üzletben kapható termékek;Kotányi Cézár salátaöntet fűszerkeverék 13 g;3,7;2,7;69;327;1373
+Üzletben kapható termékek;Kotányi chili jalapeno darabkák 8 g;12,0;17,0;32,0;379;1586
+Üzletben kapható termékek;Kotányi egész zöldbors 12 g;12,1;2,5;75,1;381;1593
+Üzletben kapható termékek;Kotányi Ezersziget salátaöntet fűszerkeverék joghurttal 13 g;3,8;3,2;69;322;1393
+Üzletben kapható termékek;Kotányi fasírt fűszerkeverék 25 g;12,1;5,4;30,6;246;1032
+Üzletben kapható termékek;Kotányi flekken fűszersó 35 g;6,6;5,4;24,4;183;765
+Üzletben kapható termékek;Kotányi fokhagymás pecsenye fűszerkeverék 25 g;10,1;0,4;39,0;213;891
+Üzletben kapható termékek;Kotányi fokhagymás salátaöntet fűszerkeverék 13 g;2,3;1,4;74;325;1366
+Üzletben kapható termékek;Kotányi fokhagymás sültcsirke fűszerkeverék 30 g;3,4;2,1;12,2;94;392
+Üzletben kapható termékek;Kotányi fokhagymasó fűszersó 35 g;4,4;0,1;27,9;137;572
+Üzletben kapható termékek;Kotányi forralt bor fűszerkeverék 35 g;0,1;0,1;96,9;395;1655
+Üzletben kapható termékek;Kotányi görög sültek gyros fűszerkeverék 35 g;10,1;3,5;37,1;224;938
+Üzletben kapható termékek;Kotányi grill barbecue fűszersó 30 g;23,6;5,2;7,9;198;829
+Üzletben kapható termékek;Kotányi grill fokhagymás fűszersó 30 g;5,2;0,1;21,8;115;482
+Üzletben kapható termékek;Kotányi grill fűszersó 81 g;6,6;4,2;18;148;621
+Üzletben kapható termékek;Kotányi grill klasszikus fűszerkeverék 40 g;6,6;4,2;17,9;149;624
+Üzletben kapható termékek;Kotányi grill mexikó fűszerkeverék 30 g;9,4;7,0;18,3;191;801
+Üzletben kapható termékek;Kotányi grill szárnyas fűszerkeverék 30 g;5,9;3,7;26;185;779
+Üzletben kapható termékek;Kotányi Grill Zöldség fűszerkeverék 30 g;3,3;3,0;39;208;875
+Üzletben kapható termékek;Kotányi halak fűszerkeverék 26 g;18,7;7,9;21,3;247;1034
+Üzletben kapható termékek;Kotányi húspuhító keverék 35 g;0,9;0;4,3;26;111
+Üzletben kapható termékek;Kotányi kapros salátaöntet fűszerkeverék 13 g;3,0;1,3;62;282;1185
+Üzletben kapható termékek;Kotányi Könnyű Konyha citromos-friss halak fűszerkeverék 25 g;3,9;1,6;42,8;217;910
+Üzletben kapható termékek;Kotányi Könnyű Konyha illatos-gyümölcsös zöldség fűszerkeverék 25 g;5,1;2,3;49,6;257;1074
+Üzletben kapható termékek;Kotányi Könnyű Konyha virágos-fűszeres parázsburgonya fűszerkeverék 25 g;4,6;1,8;35;197;827
+Üzletben kapható termékek;Kotányi magyaros sültek fűszersó 40 g;5,2;3,6;18;142;598
+Üzletben kapható termékek;Kotányi Malom chili tengeri sóval 35 g;7,8;5,7;4,7;143;590
+Üzletben kapható termékek;Kotányi Malom csokoládés drazsírozott cukordara 62 g;1,7;6,6;89;427;1804
+Üzletben kapható termékek;Kotányi Malom fahéjas-cukros keverék 37 g;0,3;0;96;384;1610
+Üzletben kapható termékek;Kotányi Malom görög fűszersó tengeri sóval 40 g;5,1;1,1;21;133;561
+Üzletben kapható termékek;Kotányi Malom karamellás-vaníliás cukorkeverék aromával 53 g;0;0;99;395;1679
+Üzletben kapható termékek;Kotányi Malom steakbors fűszerkeverék 45 g;6,9;3,9;29;203;851
+Üzletben kapható termékek;Kotányi Malom sült krumpli fűszerkeverék 52 g;8,8;1,9;32;202;846
+Üzletben kapható termékek;Kotányi Mesterkonyhák chilis bab chili con carne fűszerkeverék 25 g;10,2;14,7;31,8;341;1426
+Üzletben kapható termékek;Kotányi Mesterkonyhák Kentucky csirkeszárnyak fűszerkeverék 45 g;5,7;3,3;57,2;298;1247
+Üzletben kapható termékek;Kotányi Mesterkonyhák pizza fűszerkeverék 18 g;12,2;7,9;51,3;330;1381
+Üzletben kapható termékek;Kotányi Mesterpác fokhagymás pác fűszerkeverék 30 g;15;1,7;63;350;1469
+Üzletben kapható termékek;Kotányi mézes-mustáros csirke fűszerkeverék 30 g;7,0;6,4;41;261;1094
+Üzletben kapható termékek;Kotányi morzsolt borsikafű 16 g;6,7;5,9;53,5;329;1376
+Üzletben kapható termékek;Kotányi morzsolt lestyán 10 g;24,5;5,6;35,0;336;1408
+Üzletben kapható termékek;Kotányi morzsolt tárkony 7 g;22,8;7,2;42,8;347;1452
+Üzletben kapható termékek;Kotányi mustáros pác fűszerkeverék 30 g;20,3;19,0;38,7;429;1795
+Üzletben kapható termékek;Kotányi olaszos salátaöntet fűszerkeverék 13 g;1,7;1,8;65;290;1219
+Üzletben kapható termékek;Kotányi őrölt fahéj 25 g;3,9;3,2;56,0;321;1343
+Üzletben kapható termékek;Kotányi őrölt gyömbér 22 g;7,4;3,3;60,0;316;1322
+Üzletben kapható termékek;Kotányi őrölt kömény 28 g;19,8;14,6;37,3;387;1622
+Üzletben kapható termékek;Kotányi őrölt rozmaring 18 g;4,9;15,2;46,4;378;1584
+Üzletben kapható termékek;Kotányi őrölt szegfűszeg 20 g;6,0;20,1;52,0;433;1814
+Üzletben kapható termékek;Kotányi pulykasült fűszersó 38 g;4,5;2,5;17;125;525
+Üzletben kapható termékek;Kotányi puncs instant fűszeres ízesítő gyümölcsporral 30 g;0,4;0,1;95;383;1629
+Üzletben kapható termékek;Kotányi Secrets of China Shanghai wok fűszerkeverék 20 g;12;9,1;35;292;1224
+Üzletben kapható termékek;Kotányi Secrets of India Bombay masala fűszerkeverék 20 g;8,7;5,4;32;235;988
+Üzletben kapható termékek;Kotányi Secrets of Italy fokhagymás-chilis pesto fűszerkeverék 20 g;12;0,8;45;261;1103
+Üzletben kapható termékek;Kotányi Secrets of Italy gombás pesto fűszerkeverék 20 g;18;3,3;24;230;964
+Üzletben kapható termékek;Kotányi Secrets of Italy paradicsomos-bazsalikomos pesto fűszerkeverék 20 g;9,7;1,6;33;215;905
+Üzletben kapható termékek;Kotányi Secrets of Mexico taco fűszerkeverék 20 g;10;12;22;269;1130
+Üzletben kapható termékek;Kotányi Secrets of Thailand Bangkok curry fűszerkeverék 20 g;12;3,3;37;258;1083
+Üzletben kapható termékek;Kotányi sertéssült fűszersó 30 g;24,6;1,8;10,2;163;682
+Üzletben kapható termékek;Kotányi sertéssült fűszersó 90 g;5,8;2,8;19,0;137;574
+Üzletben kapható termékek;Kotányi sült oldalas fűszerkeverék 40 g;5,1;2,7;46;240;1013
+Üzletben kapható termékek;Kotányi sültcsirke fűszersó 110 g;2,8;1,9;14;92;386
+Üzletben kapható termékek;Kotányi sültcsirke fűszersó 40 g;2,8;1,9;14;92;386
+Üzletben kapható termékek;Kotányi sültcsirke fűszersó 90 g;2,8;1,9;14,0;92;386
+Üzletben kapható termékek;Kotányi szárított paradicsomos-chilis fűszerkeverék 20 g;12;3,7;37;257;1082
+Üzletben kapható termékek;Kotányi szárított paradicsomos-fokhagymás fűszerkeverék 20 g;13;2,4;39;256;1077
+Üzletben kapható termékek;Kotányi szárított paradicsomos-olívás fűszerkeverék 20 g;11;6,6;35;269;1130
+Üzletben kapható termékek;Kotányi szeletelt medvehagyma 6 g;33,0;4,0;12,0;216;913
+Üzletben kapható termékek;Kotányi szeletelt metélőhagyma 6 g;25,0;4,2;10,6;271;1133
+Üzletben kapható termékek;Kotányi szeletelt petrezselyem 7 g;22,7;21;35,9;306;1279
+Üzletben kapható termékek;Kotányi szeletelt zsálya 8 g;10,6;12,7;42,7;367;1537
+Üzletben kapható termékek;Kotányi színes szórócukor 30 g;0,0;5,2;94;421;1781
+Üzletben kapható termékek;Kotányi tavaszi sültcsirke fűszersó 30 g;4,8;2,2;30,6;177;740
+Üzletben kapható termékek;Kotányi Tsatsiki salátaöntet fűszerkeverék joghurttal 13 g;4,9;0,3;74;329;1383
+Üzletben kapható termékek;Kotányi vadak fűszerkeverék 20 g;23,4;9,3;39,3;367;1536
+Üzletben kapható termékek;Kotányi vanillincukor 70 g;0;0;98;398;1670
+Üzletben kapható termékek;Kotányi wieliczkai jódozott vákuum só 1 kg;0;0;0;0;0
+Üzletben kapható termékek;Kölln finomszemű, teljes kiőrlésű zabpehely 500 g;14;6,7;56;361;1520
+Üzletben kapható termékek;Kölln nagyszemű teljes kiőrlésű zabpehely 500 g;14;6,7;56;361;1520
+Üzletben kapható termékek;Kraft paradicsom ketchup 465 g;1,1;0,1;24;103;438
+Üzletben kapható termékek;Kraft paradicsom ketchup 970 g;1,1;0,1;24;103;438
+Üzletben kapható termékek;Krisprolls Fiber ropogós kenyérkék 225 g;13;8,0;61;390;1650
+Üzletben kapható termékek;Krisprolls ropogós kenyérkék teljes kiőrlésű búzából 225 g;12;6,5;65;390;1650
+Üzletben kapható termékek;Kristálycukor és stevia tartalmú asztali édesítőszer 500 g;0;0;99,7;390;1632
+Üzletben kapható termékek;Kubu 8gabona keksz tejcsokoládéval 100 g;8,4;21;60;473;1981
+Üzletben kapható termékek;Kubu almás-fahéjas piskóta 21 g;6,5;5,7;71;370;1564
+Üzletben kapható termékek;Kubu omlós keksz vajjal 100 g;9,0;13;73;450;1893
+Üzletben kapható termékek;Kubu piskóta meggyes-almás töltelékkel 21 g;4,3;5,6;66;343;1450
+Üzletben kapható termékek;Kupiec gluténmentes puffasztott rizskeksz belga fekete csokoládéval 90 g;5,5;20,7;62,6;471;1970
+Üzletben kapható termékek;Kupiec gluténmentes puffasztott rizskeksz belga tejcsokoládéval 90 g;6,3;19,0;65;463;1941
+Üzletben kapható termékek;Kupiec gluténmentes puffasztott rizskeksz tengeri sóval 120 g;12,0;3,3;78;377;1595
+Üzletben kapható termékek;Kupiec gluténmentes puffasztott rizskeksz tökmaggal 90 g;9,0;5,0;70,0;378;1596
+Üzletben kapható termékek;Kupiec Mini Bites kakaós gabona snack 50 g;9,3;18,3;60,1;458;1919
+Üzletben kapható termékek;Kupiec Mini Bites kókuszos gabona snack 50 g;8,8;23;58;492;2059
+Üzletben kapható termékek;Kupiec Mini Bites málnás-vörösáfonyás gabona snack 50 g;10,8;23;58;492;2059
+Üzletben kapható termékek;Kupiec Original gluténmentes natúr puffasztott rizskeksz 120 g;8,5;3,3;82;374;1580
+Üzletben kapható termékek;Kupiec Slim gluténmentes puffasztott rizskeksz chia maggal 90 g;9,3;4,9;71,8;386;1630
+Üzletben kapható termékek;Kupiec Slim gluténmentes puffasztott rizskeksz magvakkal 90 g;8,0;4,4;81;379;1603
+Üzletben kapható termékek;Kupiec Slim gluténmentes puffasztott rizskeksz napraforgóval 84 g;9,1;4,4;80;382;1614
+Üzletben kapható termékek;Kupiec Slim gluténmentes puffasztott rizskeksz szezámmal 90 g;8,5;6,4;79;389;1642
+Üzletben kapható termékek;Kupiec Slim Original gluténmentes natúr puffasztott rizskeksz 90 g;8,5;3,3;82;374;1580
+Üzletben kapható termékek;Kühne baby chili 330 g;1,1;0,2;1,5;27;107
+Üzletben kapható termékek;Kühne bajor édes mustár 260 g;6,7;6,0;32;221;929
+Üzletben kapható termékek;Kühne dijoni mustár 260 g;7,2;12;3,2;156;646
+Üzletben kapható termékek;Kühne enyhén csípős mustár 255 g;5,3;5,9;4,2;104;434
+Üzletben kapható termékek;Kühne enyhén csípős mustár 255 g;5,3;5,9;4,2;104;434
+Üzletben kapható termékek;Kühne fűszeres mustár 255 g;5,8;5,2;4,0;99;415
+Üzletben kapható termékek;Kühne jalapeno 330 g;1,1;0,2;1,5;26;107
+Üzletben kapható termékek;Kühne krémes, enyhén csípős mustár 255 g;5,6;5,1;9,6;119;498
+Üzletben kapható termékek;La Molisana 20 Penne Rigate durumbúzából készült tészta 500 g;14,0;1,0;70,0;351;1489
+Üzletben kapható termékek;La Molisana Maccheroni N°37 durum búzadarából készült tészta 500 g;14;1;70;1489;351
+Üzletben kapható termékek;La Molisana Spaghetti N°15 durumbúzából készült tészta 500 g;14;1,0;70;351;1489
+Üzletben kapható termékek;Lay's kemencében sütött joghurtos-zöldfűszeres ízű burgonyasnack 65 g;5,5;14;71;442;1859
+Üzletben kapható termékek;Lay's kemencében sütött sózott burgonyasnack 65 g;5,0;14;71;443;1861
+Üzletben kapható termékek;Lay's Maxx burgonyachips bacon jellegű ízesítéssel 65 g;6,2;31;53;526;2196
+Üzletben kapható termékek;Lay's Maxx orientál salsa ízű burgonyachips 65 g;6,2;31;52;523;2180
+Üzletben kapható termékek;Lay's Maxx sajtos-újhagymás ízű burgonyachips 65 g;6,1;31;53;526;2193
+Üzletben kapható termékek;Lay's paprikás ízű burgonyachips 240 g;6,2;30;52;517;2155
+Üzletben kapható termékek;Lay's pikáns paprikás ízű burgonyachips 100 g;6,2;31;53;526;2196
+Üzletben kapható termékek;Lay's pikáns paprikás ízű burgonyachips 140 g;6,2;31;53;526;2196
+Üzletben kapható termékek;Lay's pikáns paprikás ízű burgonyachips 70 g;6,2;30;53;518;2161
+Üzletben kapható termékek;Lay's sajtos ízű burgonyachips 140 g;6,2;31;53;527;2198
+Üzletben kapható termékek;Lay's sajtos ízű burgonyachips 70 g;6,2;31;53;524;2188
+Üzletben kapható termékek;Lay's sózott burgonyachips 100 g;5,9;33;52;536;2235
+Üzletben kapható termékek;Lay's sózott burgonyachips 140 g;5,9;33;52;536;2235
+Üzletben kapható termékek;Lay's sózott burgonyachips 240 g;5,9;32;52;526;2192
+Üzletben kapható termékek;Lay's sózott burgonyachips 70 g;5,9;32;52;526;2192
+Üzletben kapható termékek;Lay's Stix burgonyachips ketchup jellegű ízesítéssel 70 g;6,0;30;53;516;2152
+Üzletben kapható termékek;Lay's Strong burgonyachips csípős húsos jellegű ízesítéssel 65 g;6,1;31;53;526;2195
+Üzletben kapható termékek;Lay's Strong cayenne bors ízű burgonyachips 65 g;5,9;31;53;525;2189
+Üzletben kapható termékek;Lay's Strong csípőspaprika és lime ízű burgonyachips 130 g;6,4;32;51;524;2185
+Üzletben kapható termékek;Lay's Strong csípőspaprika és lime ízű burgonyachips 65 g;6,4;32;51;524;2185
+Üzletben kapható termékek;Lay's Strong wasabi torma ízű burgonyachips 65 g;6,1;32;53;528;2202
+Üzletben kapható termékek;Lay's tejfölös-zöldfűszeres ízű burgonyachips 100 g;6,2;32;52;529;2208
+Üzletben kapható termékek;Lay's tejfölös-zöldfűszeres ízű burgonyachips 70 g;6,2;31;52;521;2173
+Üzletben kapható termékek;Lay's újhagymás ízű burgonyachips 140 g;6,1;31;53;526;2193
+Üzletben kapható termékek;Lay's újhagymás ízű burgonyachips 240 g;6,3;31;53;519;2166
+Üzletben kapható termékek;Lay's újhagymás ízű burgonyachips 70 g;6,1;30;53;517;2156
+Üzletben kapható termékek;Le Baron bébikukorica 350 g;2;0;8;40;167
+Üzletben kapható termékek;Le Veneziane Anellini gluténmentes száraztészta 250 g;6,45;0,95;79,12;355;1505
+Üzletben kapható termékek;Le Veneziane Eliche gluténmentes száraztészta 250 g;6,45;0,95;79,12;355;1505  -
+Üzletben kapható termékek;Le Veneziane Fettucce gluténmentes száraztészta 250 g;6,45;0,95;79,12;355;1505  -
+Üzletben kapható termékek;Le Veneziane Penne Rigate gluténmentes száraztészta 250 g;6,45;0,95;79,12;355;1505  -
+Üzletben kapható termékek;Leibniz vaj ízesítésű keksz 100 g;8,9;12;72;438;1850
+Üzletben kapható termékek;Libamájpástétom 50 g;8,6;33,4;2,3;345;1425
+Üzletben kapható termékek;Lindt Creation csokoládé-habbal, meggy-krémmel és chilli-krémmel töltött keserű csokoládé 150 g;6,2;32;43;501;2087
+Üzletben kapható termékek;Lindt Creation Orange csokoládéhabbal és narancskrémmel töltött keserű csokoládé 150 g;6,4;33;49;536;2231
+Üzletben kapható termékek;Lindt étcsokoládéhabbal és áfonyakrémmel töltött étcsokoládé 150 g;6,4;33;45;519;2162
+Üzletben kapható termékek;Lindt étcsokoládéhabbal és feketeribizli-krémmel töltött étcsokoládé 150 g;6,4;33;44;516;2146
+Üzletben kapható termékek;Lindt étcsokoládéhabbal és trüffelkrémmel töltött étcsokoládé 150 g;6,9;37;41;543;2257
+Üzletben kapható termékek;Lindt Excellence A Touch of Vanilla extra fehér csokoládé vanília ízzel 100 g;4,8;36;57;571;2383
+Üzletben kapható termékek;Lindt Excellence Chili svájci táblás étcsokoládé chilipaprika kivonattal 100 g;6,1;33;50;538;2240
+Üzletben kapható termékek;Lindt Excellence étcsokoládé kékáfonya- és manduladarabokkal 100 g;7,0;31;50;523;2180
+Üzletben kapható termékek;Lindt Excellence extra finom tejcsokoládé 100 g;6,4;37;51;567;2387
+Üzletben kapható termékek;Lindt Excellence extra keserű csokoládé 70% 100 g;9,5;41;34;566;2350
+Üzletben kapható termékek;Lindt Excellence extra keserű csokoládé 78% 100 g;9,2;47;23;582;2408
+Üzletben kapható termékek;Lindt Excellence extra keserű csokoládé 85% 100 g;12,5;46;19;584;2413
+Üzletben kapható termékek;Lindt Excellence extra keserű csokoládé 99% 50 g;15;51;8,0;590;2433
+Üzletben kapható termékek;Lindt Excellence finom keserű csokoládé 90% 100 g;10;55;14;592;2483
+Üzletben kapható termékek;Lindt Excellence Intense Coconut extra keserű csokoládé karamellizált kókuszdarabokkal 100 g;5,1;34;47;534;2224
+Üzletben kapható termékek;Lindt Excellence Intense Orange narancsos és mandulás étcsokoládé 100 g;6,7;32;49;526;2193
+Üzletben kapható termékek;Lindt Excellence Intense Strawberry finom keserű csokoládé eperdarabokkal 100 g;6,2;31;51;524;2186
+Üzletben kapható termékek;Lindt Excellence svájci étcsokoládé körte és mandula darabokkal 100 g;6,7;32;49;526;2193
+Üzletben kapható termékek;Lindt Les Grandes fehér csokoládé mandulával 150 g;11,1;42;44;606;2522
+Üzletben kapható termékek;Lindt Les Grandes mogyorós svájci étcsokoládé 150 g;8,0;40;42;573;2382
+Üzletben kapható termékek;Lindt Les Grandes mogyorós svájci tejcsokoládé 150 g;8,3;41;44;587;2442
+Üzletben kapható termékek;Lindt Lindor extra étcsokoládé finom krémes töltelékkel 100 g;5,0;52;34;637;2639
+Üzletben kapható termékek;Lindt Lindor extra keserű csokoládé finom krémes töltelékkel 200 g;5,0;52;34;637;2639
+Üzletben kapható termékek;Lindt Lindor fehércsokoládé praliné lágyan olvadó töltelékkel 200 g;3,8;48;45;633;2628
+Üzletben kapható termékek;Lindt Lindor svájci étcsokoládé lágyan olvadó töltelékkel 100 g;4,9;53;34;645;2673
+Üzletben kapható termékek;Lindt Lindor svájci tejcsokoládé lágyan olvadó töltelékkel 100 g;4,7;46;44;613;2546
+Üzletben kapható termékek;Lindt Lindor svájci tejcsokoládé mogyoródarabokkal és lágyan olvadó töltelékkel 100 g;5,3;46;43;612;2542
+Üzletben kapható termékek;Lindt Lindor tejcsokoládé lágyan olvadó töltelékkel 38 g;5,5;44;46;606;2520
+Üzletben kapható termékek;Lindt Lindor tejcsokoládé praliné finom krémes töltelékkel 100 g;4,9;47;44;623;2589
+Üzletben kapható termékek;Lindt Lindor tejcsokoládé praliné finom krémes töltelékkel 150 g;4,9;47;44;623;2587
+Üzletben kapható termékek;Lindt Lindor tejcsokoládé praliné finom krémes töltelékkel 337 g;4,9;48;43;620;2574
+Üzletben kapható termékek;Lindt Lindor tejcsokoládé praliné lágyan olvadó töltelékkel 200 g;5,0;47;43;622;2584
+Üzletben kapható termékek;Lindt Lindor tejcsokoládé-tejcsokoládé mogyoródarabokkal-fehér- és keserű csokoládé praliné 337 g;4,6;50;40;634;2630
+Üzletben kapható termékek;Lindt Lindor tejcsokoládé-tejcsokoládé mogyoródarabokkal-fehércsokoládé-étcsokoládé pralinék 200 g;4,7;49;41;629;2613
+Üzletben kapható termékek;Lindt Lindor tejcsokoládé, fehér és keserű csokoládé praliné finom krémes töltelékkel 100 g;4,5;50;41;632;2620
+Üzletben kapható termékek;Lindt Nocciolatte töltött tejcsokoládé mogyorós töltelékkel és egész mogyoróbéllel 40 g;7,3;36;51;556;2317
+Üzletben kapható termékek;Lindt Noccionoir töltött keserű csokoládé mogyorós töltelékkel és egész mogyoróbéllel 40 g;5,2;38;47;564;2350
+Üzletben kapható termékek;Lindt Pralinés Classic töltött csokibonbon keverék tejcsokoládéból 200 g;7,7;35;51;557;2322
+Üzletben kapható termékek;Lindt Pralinés Hochfein töltött csokibonbon keverék tejcsokoládéból 200 g;7,8;36;50;565;2358
+Üzletben kapható termékek;Lindt Pralinés Noirs keserű és tejcsokoládéval töltött csokibonbon keverék 200 g;7,0;34;48;539;2246
+Üzletben kapható termékek;Lindt Pralinés Nougat töltött csokibonbon keverék tejcsokoládéból 200 g;9,3;38;50;591;2461
+Üzletben kapható termékek;Lindt svájci tejcsokoládé 300 g;6,5;31;57;537;2242
+Üzletben kapható termékek;Lindt svájci tejcsokoládé pörkölt egész mogyoróval 300 g;7,8;36;50;561;2336
+Üzletben kapható termékek;Lindt Swiss Luxury Selection válogatott svájci csokoládé 145 g;6,5;37;52;575;2394
+Üzletben kapható termékek;Lindt töltött csokibonbon kollekció tejcsokoládéból és keserű csokoládéból 20 db 100 g;7,1;31;53;530;2219
+Üzletben kapható termékek;Lucullus borsos-fokhagymás fűszersó 28 g;5,4;0,8;31;164;692
+Üzletben kapható termékek;Lucullus fasírt fűszerkeverék 34 g;9,7;3,5;31;221;928
+Üzletben kapható termékek;Lucullus flekken gyorspác fűszerkeverék sütéshez, grillezéshez 40 g;4,8;1,9;35;166;700
+Üzletben kapható termékek;Lucullus füstöltsonka ízű sültkrumpli fűszersó 25 g;5,1;1,9;17;115;485
+Üzletben kapható termékek;Lucullus grillcsirke fűszersó 40 g;1,3;2,5;18;113;473
+Üzletben kapható termékek;Lucullus gyros gyorspác fűszerkeverék 30 g;3,8;2,5;19;131;548
+Üzletben kapható termékek;Lucullus magyaros fűszersó 40 g;4,1;1,4;18;108;458
+Üzletben kapható termékek;Lucullus mézes-csípős csirkeszárny fűszersó 48 g;4,7;2,1;45;229;967
+Üzletben kapható termékek;Lucullus négyborsos-mustáros gyorspác fűszerkeverék sütéshez, grillezéhez 37 g;6,1;4,6;24;160;670
+Üzletben kapható termékek;Lucullus ropogós csirkefalatok fűszersó 40 g;4,1;3,3;20;139;583
+Üzletben kapható termékek;Lucullus sertéssült fűszersó 40 g;4,9;1,7;18;117;491
+Üzletben kapható termékek;Lucullus sült oldalas fűszersó 50 g;4,1;2,1;23;146;612
+Üzletben kapható termékek;Lucullus sültcsirke fűszersó 40 g;2,9;0,9;13;78;330
+Üzletben kapható termékek;Lucullus sültkrumpli fűszersó 30 g;5,1;1,1;17;108;456
+Üzletben kapható termékek;Lucullus tejföl ízű sültkrumpli fűszersó 25 g;6,0;1,7;20;131;553
+Üzletben kapható termékek;Lucullus tzatziki salátaöntet por 12 g;4,3;0,2;68,4;238;998
+Üzletben kapható termékek;M and M's földimogyorós drazsé tejcsokoládéban cukorbevonattal 150 g;10,0;26,5;58,2;519;2172
+Üzletben kapható termékek;M and M's földimogyorós drazsé tejcsokoládéban cukorbevonattal 45 g;9,7;25,3;59,2;511;2140
+Üzletben kapható termékek;M and M's földimogyorós drazsé tejcsokoládéban cukorbevonattal 90 g;9,7;25,3;59,2;511;2140
+Üzletben kapható termékek;M and M's tejcsokoládés drazsé cukorbevonattal 150 g;4,9;20,0;70,0;486;2039
+Üzletben kapható termékek;M and M's tejcsokoládés drazsé cukorbevonattal 45 g;5,1;20,7;68,9;489;2050
+Üzletben kapható termékek;M and M's tejcsokoládés drazsé cukorbevonattal 90 g;5,0;19,0;70,7;480;2016
+Üzletben kapható termékek;Maggi Bazsalikomos-fokhagymás szósz 360 g;1,4;6,9;7,6;100;417

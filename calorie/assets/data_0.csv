@@ -1,0 +1,826 @@
+group;name;protein;fat;carb;calorie
+Gabonatermékek;Barna kenyér;8,5;0,8;50,6;249
+Gabonatermékek;Búza (mag, teljes búzaliszt);14,4;1,8;66,2;347
+Gabonatermékek;Búzacsíra;25;8;42;349
+Gabonatermékek;Búzadara;9,4;1;73,4;349
+Gabonatermékek;Búzakorpa;15;5,5;51;322
+Gabonatermékek;Búzapehely;12;2;66;339
+Zöldségek;Burgonya, nyári;2,5;0,2;18,4;88
+Zöldségek;Burgonya, téli;2,5;0,2;20;92
+Zöldségek;Burgonyakocka (fagyasztott);1,9;0,1;14,7;69
+Zöldségek;Burgonyapüré por;8,4;0,7;80;369
+Zöldségek;Ceruzabab (fagyasztott);2,5;0,1;4,8;31
+Zöldségek;Cékla;1,3;0,1;5,9;31
+Zöldségek;Cukorborsó (fagyasztott);3,6;0,1;6,2;41
+Zöldségek;Csemegeuborka;0,6;0,1;2,6;59
+Zöldségek;Csiperkegomba;5,9;0,2;3,3;38,6
+Zöldségek;Csiperkegomba (szeletelt, fagyasztott);2,3;0,1;1,4;16
+Gabonatermékek;Durumtészta;14;2,6;75,1;379
+Gabonatermékek;Fehér kenyér;8,3;0,8;52,3;255
+Gabonatermékek;Félbarna kenyér;9,8;1;47,9;246
+Gabonatermékek;Graham kenyér;10,1;1;54;272
+Gabonatermékek;Kenyér;10;1,8;54,5;262
+Gabonatermékek;Kukoricacsíra;18,8;34,5;19;476
+Gabonatermékek;Kukoricaliszt, -dara;9,6;3,1;70,2;347
+Gabonatermékek;Kukoricapehely;7,7;0,6;83;377
+Gabonatermékek;Liszt;13,5;1;70,4;344
+Gabonatermékek;Penne tészta;14;2,6;75,1;379
+Gabonatermékek;Rizs;8;0,03;77,5;344
+Gabonatermékek;Rizsliszt;6,9;0,6;79,4;359
+Gabonatermékek;Rozskenyér;8,1;0,9;53,6;261
+Gabonatermékek;Rozsliszt RL 125;9,3;1,7;66,6;327
+Gabonatermékek;Rozsliszt RL 60;7,5;0,9;72,8;337
+Gabonatermékek;Rozspehely;9;1,5;66;322
+Gabonatermékek;Spagetti;14;2,6;75,1;379
+Gabonatermékek;Tészta, 2 tojásos;14;2,6;75,1;379
+Gabonatermékek;Tészta, 4 tojásos;15;3,4;72,9;392
+Gabonatermékek;Tészta, 8 tojásos (házi);17;5;69,2;400
+Gabonatermékek;Zabpehely;14,4;6,8;64,3;386
+Gabonatermékek;Zsemlemorzsa;10,2;0,9;73,3;342
+Zöldségek;Bab (fagyasztott);10,8;0,4;29;167
+Zöldségek;Bab (fagyasztott, előfőzött);9,8;0,5;28;160
+Zöldségek;Bab (száraz);22,3;1;57,9;338
+Zöldségek;Babkonzerv;11;0,5;27;156,5
+Zöldségek;Brokkoli;3,3;0,2;2,1;23,4
+Zöldségek;Brokkoli (fagyasztott);4;0,4;2;29
+Zöldségek;Burgonya, nyári;2,5;0,2;18,4;88
+Zöldségek;Burgonya, téli;2,5;0,2;20;92
+Zöldségek;Burgonyakocka (fagyasztott);1,9;0,1;14,7;69
+Zöldségek;Burgonyapüré por;8,4;0,7;80;369
+Zöldségek;Ceruzabab (fagyasztott);2,5;0,1;4,8;31
+Zöldségek;Cékla;1,3;0,1;5,9;31
+Zöldségek;Cukorborsó (fagyasztott);3,6;0,1;6,2;41
+Zöldségek;Csemegeuborka;0,6;0,1;2,6;59
+Zöldségek;Csiperkegomba;5,9;0,2;3,3;38,6
+Zöldségek;Csiperkegomba (szeletelt, fagyasztott);2,3;0,1;1,4;16
+Zöldségek;Cukkini;1,5;0,4;5,3;30
+Zöldségek;Cukkini (fagyasztott);1,3;0,1;1,4;12
+Zöldségek;Fejes saláta;1,4;0,3;2;17
+Zöldségek;Fokhagyma;6,8;0,1;26,3;137
+Zöldségek;Gyöngyhagyma;1,2;0,1;8,3;39
+Zöldségek;Káposzta;1,6;0,2;5,7;31
+Zöldségek;Káposzta (savanyított);1,1;0,2;3,4;20
+Zöldségek;Káposzta (vörös);1,7;0,2;5,7;32
+Zöldségek;Karalábé;2,1;0,2;6,9;39
+Zöldségek;Karalábé (fagyasztott);1,7;0,2;4,6;27
+Zöldségek;Karfiol;2,4;0,4;3,9;29
+Zöldségek;Kelbimbó;4,9;0,6;6,1;51
+Zöldségek;Kelkáposzta;3,6;0,3;4,3;34
+Zöldségek;Kínai kel;1,2;0,3;2;67
+Zöldségek;Kovászos uborka;0,7;0,2;1,9;13
+Zöldségek;Kukorica;4,7;1,6;23,6;131
+Zöldségek;Kukorica (morzsolt, fagyasztott);6,7;0,4;17,1;102
+Zöldségek;Laskagomba;1,9;0,7;6;39
+Zöldségek;Laskagomba (fagyasztott);1,7;0,6;5,8;37
+Zöldségek;Lencse;26;1,9;53;342
+Zöldségek;Lilahagyma;1,2;0,1;8,3;39
+Zöldségek;Olívabogyó;0,2;21,9;6,5;224
+Zöldségek;Padlizsán;1,3;0,2;4,8;27
+Zöldségek;Paprika;1,2;0,3;3;19,5
+Zöldségek;Paprika (csípős, fagyasztott);2,1;0,7;9,3;54
+Zöldségek;Paprika (piros, fagyasztott);1,4;0,2;5,4;30
+Zöldségek;Paprika (sárga, fagyasztott);1,4;0,1;4,7;27
+Zöldségek;Paprika (zöld, fagyasztott);1,4;0,1;4,2;24
+Zöldségek;Paprika, pritamin;3,4;0,8;8,6;57
+Zöldségek;Paradicsom;1;0,2;4;22
+Zöldségek;Paradicsom (fagyasztott);1,1;0,3;3,7;23
+Zöldségek;Paradicsom, sűrített;5;1;20;111
+Zöldségek;Paradicsompüré;5;1;20;109
+Zöldségek;Paraj (spenót);2,3;0,3;1,8;20
+Zöldségek;Paraj (spenót, fagyasztott);2,6;0,2;2,5;97
+Zöldségek;Petrezselyem zöldje;4,4;0,4;9,8;62
+Zöldségek;Petrezselyem gyökér;1,2;0,1;5,9;29
+Zöldségek;Póréhagyma;2,2;0,3;5,9;37
+Zöldségek;Póréhagyma (fagyasztott);2,2;0,3;6,3;38
+Zöldségek;Retek;1,2;0,1;2,2;15
+Zöldségek;Sárgaborsó;21,7;1,5;53,1;321
+Zöldségek;Sárgarépa;1,2;0,2;8,1;39
+Zöldségek;Sárgarépa (fagyasztott);1,7;0,2;10,4;52
+Zöldségek;Snidling;2,2;0,3;6,3;37
+Zöldségek;Sóska;2,4;0,5;2,3;24
+Zöldségek;Sóska (fagyasztott);1,5;0,2;0,4;10
+Zöldségek;Spárga;2;0,1;1,8;17
+Zöldségek;Sütőtök;1,5;0,6;16,5;80
+Zöldségek;Szója (extrudált, teljes őrlemény);41,6;23,5;22,1;480
+Zöldségek;Szója (granulátum, kocka);45;20,6;18,3;451
+Zöldségek;Szójaliszt, (extrahált, zsírtalanított);47,3;0,6;33,4;336
+Zöldségek;Tök;1,1;0,1;6,1;31
+Zöldségek;Tök (gyalult, fagyasztott);0,8;0,1;2,9;16
+Zöldségek;Uborka;1;0,1;1,7;12
+Zöldségek;Újhagyma;2,2;0,3;6,3;37
+Zöldségek;Vargánya;6,4;0,8;1,3;38
+Zöldségek;Vargánya (szárított);38,3;1,8;31,5;303
+Zöldségek;Vegyes savanyúság;0,8;0,1;2,4;14
+Zöldségek;Vöröshagyma;1,2;0,1;8,3;39
+Zöldségek;Vöröshagyma (fagyasztott);1,4;0,1;7,4;37
+Zöldségek;Zellergumó;1,4;0,3;5;28
+Zöldségek;Zöldbab;2,6;0,3;6,8;40,3
+Zöldségek;Zöldbab (konzerv);1,6;0,2;4,3;26
+Zöldségek;Zöldborsó;7;0,4;14;87,6
+Zöldségek;Zöldborsó (fagyasztott);6,5;0,4;15;92
+Zöldségek;Zöldborsó (zsenge, fagyasztott);5,7;0,4;12;77
+Zöldségek;Zöldsaláta;1,4;0,3;2;16
+Halak;Amur;18;7,5;0,2;145
+Halak;Busa;18;1,9;0,6;94
+Halak;Fogas;19;0,8;0,2;86
+Halak;Harcsa;17,5;0,8;0,2;280
+Halak;Heck;20,2;0,9;0;89
+Halak;Herng, olajos;15,9;33,8;0,7;382
+Halak;Hernig, paradicsomos;18,9;14,6;0,8;217
+Halak;Kaviár;26;16;4,6;274
+Halak;Lazac;20;14;0,2;213
+Halak;Pisztráng;21,5;2,9;0,2;116
+Halak;Ponty (nyurga);16;4;0,1;101
+Halak;Ponty (tükör);15,8;8,7;0,1;146
+Halak;Szardínia, olajos;22,5;21,4;0,3;292
+Halak;Tengeri hal;19,4;0,5;1,2;86,9
+Halak;Tőkehal, file;19,4;0,5;1,2;89
+Halak;Tonhal;19,4;0,5;1,2;86
+Magok;Dió;18,6;57;11,7;634
+Magok;Földimogyoró;26,7;47,2;14,7;609
+Magok;Geszteny;4,8;1,5;32,6;167
+Magok;Kesudió;18;42;32;596
+Magok;Kókuszdió, friss;3,9;37;10;401
+Magok;Mák;20,5;38,2;23,9;537
+Magok;Mandula;27,6;52,2;6,8;607
+Magok;Mogyoró;15,6;63,5;8,7;690
+Magok;Napraforgó mag;18,7;47,5;17,4;590
+Magok;Paradió;14;66,9;7,2;709
+Magok;Pisztácia;22,3;54;13,8;650
+Magok;Tökmag;33,9;50,5;3,6;623
+Gyümölcsök;Alma, aszalt;1,4;0;55,4;242
+Gyümölcsök;Alma, befőtt;0,3;0;20,2;85
+Gyümölcsök;Alma, Jonatán;0,4;0;7;33,2
+Gyümölcsök;Ananász, karika;0,4;0;12;55,9
+Gyümölcsök;Ananász, friss;0,4;0;12;53
+Gyümölcsök;Banán;1,3;0;24,2;102,9
+Gyümölcsök;Barack;0,7;0;9;41,5
+Gyümölcsök;Birsalma;0,6;0;9,1;42
+Gyümölcsök;Citrom;0,4;0;2,3;27
+Gyümölcsök;Citromlé;0,4;0;2,3;63
+Gyümölcsök;Cseresznye;0,8;0;14;63
+Gyümölcsök;Csipkebogyó, lekvér;0,5;0;58;242
+Gyümölcsök;Datolya (préselt);1,9;0;72,5;308
+Gyümölcsök;Dinnye (sárga húsú);0,3;0;9,5;40
+Gyümölcsök;Dinnye (zöld húsú);0,3;0;11,1;47
+Gyümölcsök;Füge, szárított;3,5;0;62;262
+Gyümölcsök;Földieper (szamóca);0,9;0;7,2;35
+Gyümölcsök;Gesztenyekrém (gyorsfagyasztott);2,1;0,6;43,6;193
+Gyümölcsök;Gesztenyepüré (gyorsfagyasztott);2;0,6;47,6;209
+Gyümölcsök;Grapefruit;0,5;0;7,2;36
+Gyümölcsök;Gyümölcssaláta;0,7;0;13,4;60
+Gyümölcsök;Görögdinnye;0,5;0;6,5;29
+Gyümölcsök;Kajszibarack;0,9;0;10,2;48
+Gyümölcsök;Kiwi;1;0;11,3;54,6
+Gyümölcsök;Körte;0,4;0;12;52,3
+Gyümölcsök;Körte befőtt;0,3;0;23,7;99
+Gyümölcsök;Málna;1,2;0;5,4;29
+Gyümölcsök;Málna (Fertődi, gyorsfagyasztott);1,1;0;6,2;39
+Gyümölcsök;Málna (Nagymarosi gyorsfagyasztott);1,4;0;13;62
+Gyümölcsök;Málna dzsem, üveges;1,5;0;63,3;263
+Gyümölcsök;Mandarin;1,7;0;10,8;50,2
+Gyümölcsök;Mazsola;3,5;0;62;273,7
+Gyümölcsök;Meggy;0,8;0;11;52
+Gyümölcsök;Meggy befőtt;0,6;0;20,8;90
+Gyümölcsök;Meggy dzsem, üveges;0,4;0;70,3;292
+Gyümölcsök;Meggy (gyorsfagyasztott);0,5;0;10,8;48
+Gyümölcsök;Narancs;0,6;0;8,5;41
+Gyümölcsök;Narancslé;1,6;0;8,5;49,9
+Gyümölcsök;Nektarin;0,4;0;11,4;49
+Gyümölcsök;Őszibarack;0,7;0;9;41
+Gyümölcsök;Őszibarack (gyorsfagyasztott);1;0;10,3;51
+Gyümölcsök;Őszibarack (befőtt);0,5;0;21,2;90
+Gyümölcsök;Őszibarack dzsem, üveges;0,5;0;71,3;295
+Gyümölcsök;Őszibarack hámozaott, gyorsfagyasztott;1,1;0;10,1;50
+Gyümölcsök;Ribizke, fekete;0,9;0;9,5;48
+Gyümölcsök;Ribizke, fekete (gyorsfagyasztott);1,9;0;9,3;56
+Gyümölcsök;Ribizke, vörös;0,6;0;7;34
+Gyümölcsök;Ribizke , vörös (gyorsfagyasztott);1,2;0;5,3;33
+Gyümölcsök;Sárgabarack dzsem, üveges;0,4;0;64,5;267
+Gyümölcsök;Szeder;0,8;0;6;33
+Gyümölcsök;Szeder (gyorsfagyasztott);1,6;0;6,4;37
+Gyümölcsök;Szilva;0,7;0;13,1;59,7
+Gyümölcsök;Szilva, aszalt;2,3;0;61,8;268
+Gyümölcsök;Szilva befőtt;0,4;0;21,9;92
+Gyümölcsök;Szilva, Besztercei;0,7;0;13,1;58
+Gyümölcsök;Szilva, vörös;0,8;0;10,2;47
+Gyümölcsök;Szilva, Zöldringló;0,8;0;13,5;61
+Gyümölcsök;Szilvaíz, natúr;1,3;0;54;231
+Gyümölcsök;Szőlő;0,6;0;18,1;79,3
+Gyümölcsök;Vegyes gyümölcs;0,7;0;10;50
+Gyümölcsök;Vegyes íz;1;0;60;252
+Tojásfélék;Fürjtojás;12,5;10,8;0,7;154
+Tojásfélék;Tojás;13,5;12;0,6;164
+Tojásfélék;Tojásfehérje;12,5;0,4;0,8;57,1
+Tojásfélék;Tojásfehérje, szárított;73,4;0,3;4;320
+Tojásfélék;Tojáspor;44,7;40,1;5,2;578
+Tojásfélék;Tojássárgája;15;30,6;0,6;338
+Sajtok;Anikó;24,2;26;1,8;349
+Sajtok;Boci, ízesített;11,5;24,9;1,5;285
+Sajtok;Camembert "Bakony";21,5;23;1,5;308
+Sajtok;Camembert "Tihany";18,2;33,4;1,4;391
+Sajtok;Camping;16,5;26,4;1,7;321
+Sajtok;Derby;16,7;23,4;1,6;285
+Sajtok;Edámi;26,2;26,6;1,7;362
+Sajtok;Ementáli (Pannónia);27,8;29,4;1,5;394
+Sajtok;Göcseji;22,2;23,3;1,4;314
+Sajtok;Karaván, füstölt tömbsajt;22,3;27,3;1,9;353
+Sajtok;Krém fehérsajt;13,4;20,6;1,4;252
+Sajtok;Mackó, kenhető;16,7;25;2;310
+Sajtok;Márvány;20;29,7;2;366
+Sajtok;Parenyica;26;30,4;1,5;396
+Sajtok;Parmezán;26,8;28,9;1,6;385
+Sajtok;Sovány sajt;29,6;18,5;1,7;291
+Sajtok;Trappista;27,7;28,1;1,6;381
+Tejkészítmények;Bivalytej;5,8;26;1,8;349
+Tejkészítmények;Joghurt 0%;3,4;0,1;4,6;32,9
+Tejkészítmények;Joghurt, gyümölcsös;3,5;2;10,3;74
+Tejkészítmények;Juhtej;6,1;7,2;5;113
+Tejkészítmények;Kancatej;2,1;0,6;6,7;42
+Tejkészítmények;Kecsketej;3,6;3,9;4,7;70
+Tejkészítmények;Kefír (sovány);3,4;0,1;4,6;34
+Tejkészítmények;Krémjoghurt;3,4;5;4,6;80
+Tejkészítmények;Sovány túró;14,1;0,5;3,8;76,1
+Tejkészítmények;Sűrített tej, cukrozatlan;7;7,5;9,8;139
+Tejkészítmények;Sűrített tej, cukrozott;8,5;7;54,9;325
+Tejkészítmények;Tehéntej 0,1%;3,4;0,1;5,3;35,7
+Tejkészítmények;Tehéntej 1,5%;3,4;1,5;5,3;50
+Tejkészítmények;Tehéntej 2,8%;3,4;2,8;5,3;62
+Tejkészítmények;Tehéntej, homogénezett, pasztőrözött;3,4;3,6;5,3;69
+Tejkészítmények;Tehéntúró, félzsíros;16,2;7;3,7;147
+Tejkészítmények;Tehéntúró, sovány;14,1;0,5;3,8;78
+Tejkészítmények;Tehéntúró, zsíros;17,9;12,2;3,5;201
+Tejkészítmények;Tej, csokoládés;3,2;1,5;11;72
+Tejkészítmények;Tej, kakaós (sovány);3,5;0,5;11,4;66
+Tejkészítmények;Tej, kávés (Ice coffe);3,5;1,5;13;82
+Tejkészítmények;Tejföl 12%;3,4;12;4;137,6
+Tejkészítmények;Tejföl 20%;3,3;20;3,9;216
+Tejkészítmények;Tejkrém (cukrozott, sűrített);8,5;7;55,5;327
+Tejkészítmények;Tejpor, sovány;36;2;50,3;373
+Tejkészítmények;Tejpor, zsíros;25,5;27;37;507
+Tejkészítmények;Tejszín;3,3;20;3,9;208,8
+Tejkészítmények;Tejszínhab;2,6;30;3;302
+Tejkészítmények;Tejszínhab, ízesített;2,3;26;11;297
+Húsok;Bárány, juhhús (sovány);19,7;12,7;0,3;200
+Húsok;Békacomb;24,2;0,9;2,9;119
+Húsok;Birka (közepes);16,9;26,4;0,3;316
+Húsok;Borjú;19,5;4,5;0,3;123
+Húsok;Csiga, éti;17,6;1;0,2;82
+Húsok;Csirke, comb;20,9;5,2;0,5;136
+Húsok;Csirkemell filé;24,7;1;0,5;109
+Húsok;Fácán;22,3;1,9;0,5;111
+Húsok;Fogoly;20,5;1,2;0,4;97
+Húsok;Fürj, comb (japán);19,6;5;1,2;132
+Húsok;Fürj, mell (japán);22,8;2,3;1,1;119
+Húsok;Galamb;19,6;5;1,2;130
+Húsok;Kacsa, pecsenye;19;12;0,4;191
+Húsok;Kagyló;9;2;6,5;82
+Húsok;Kappan;19,3;9,3;0,4;167
+Húsok;Liba, hízott;16;35;0,2;392
+Húsok;Liba, pecseny;18,5;13,6;0,3;203
+Húsok;Marha, bélszín;19;4,4;0,6;121
+Húsok;Marha, felsál;17;19;0,6;249
+Húsok;Marha, hátszín, lapos;15;18;0,6;231
+Húsok;Marha, hátszín, magas;19;17,2;0,6;240
+Húsok;Marha, hátszín, puha;19,7;17,8;0,6;249
+Húsok;Marha lapocka;21;6,2;0,6;147
+Húsok;Marha szegy;16;21;0,5;263
+Húsok;Marha tarja;20;6;0,6;140
+Húsok;Nutria;20,8;10,5;0,5;185
+Húsok;Nyúl, házi;21;8;0,4;162
+Húsok;Nyúl, vad;23;1,1;0,5;106
+Húsok;Őz;20,8;1,9;0,4;105
+Húsok;Pulyka;20,5;9,5;0,4;174
+Húsok;Rák;14,9;0,8;2,2;77
+Húsok;Sertéscomb, karaj;21;8,1;0,4;163
+Húsok;Sertés csülök;16;29;0,3;337
+Húsok;Sertés dagadó;12;42;0,3;441
+Húsok;Sertés lapocka;17,5;23,9;0,3;295
+Húsok;Szarvas;20,7;3,9;0,6;123
+Húsok;Tyúk;19;6,5;0,4;140
+Húsok;Vaddisznó, színhús;21,6;2,4;0,4;112
+Húsok;Vadkacsa;22,7;3,1;0,5;124
+Zsiradékok;Angolszalonna;16,8;46,5;0;501
+Zsiradékok;Margarin;0,3;79;0,2;737
+Zsiradékok;Margarin, sütő;0,5;84;0,4;781
+Zsiradékok;Olaj (napraforgó, szója, tökmag);0;99,8;0;928
+Zsiradékok;Olívaolaj;0;100;0;900
+Zsiradékok;Vaj, szendvics;0,3;70;0,3;653
+Zsiradékok;Vaj, tea;0,4;80;0,5;748
+Zsiradékok;Vajkrém;2,5;40;2;390
+Zsiradékok;Zsír, ami kisül;0;100;0;900
+#Egyéb;Coca-cola 1 dl;0;0;11;46
+#Egyéb;Csokoládé főző;1,9;32;64,3;569
+#Egyéb;Fehér bor félédes 1 dl;0,1;0;2;70
+#Egyéb;Gyümölcsfagyi;0;0;32,6;134
+#Egyéb;Jégkrém;2,2;4,5;27,8;164
+#Egyéb;Kakaópor;21,4;19;32,4;386
+#Egyéb;Keményítő;9,6;3,1;70,2;347
+#Egyéb;Ketchup;2;0,3;24;109
+#Egyéb;Kristálycukor;0;0;99,9;400
+#Egyéb;Majonéz;1,5;80;3;774
+#Egyéb;Méz;0,4;0;81;325,6
+#Egyéb;Mustár;6;6;6;105
+#Egyéb;Pudingpor;2,5;8,7;75;388,3
+#Egyéb;Rágógumi gyümölcsös;0,1;0;78,5;310
+#Egyéb;Sör világos 1dl;0,5;0;2,9;43
+#Egyéb;Tyúkleves kocka;29,5;26,8;0;359,5
+#Egyéb;Vörösbor száraz 1dl;0,1;0;0,3;65
+Gabonafélék, kenyerek, pékáruk;árpagyöngy;9,0;1,4;75,0;350
+Gabonafélék, kenyerek, pékáruk;árpapehely;12,0;2,0;75,0;368
+Gabonafélék, kenyerek, pékáruk;barnarizs;6,7;2,8;81,3;379
+Gabonafélék, kenyerek, pékáruk;burgonyakeményítő;0,6;0,1;83,1;337
+Gabonafélék, kenyerek, pékáruk;búzacsíra;25,0;8,0;42,0;342
+Gabonafélék, kenyerek, pékáruk;búzadara;9,4;1,0;73,4;342
+Gabonafélék, kenyerek, pékáruk;búzakeményítő;0,4;0,1;82,5;334
+Gabonafélék, kenyerek, pékáruk;búzakorpa;14,9;4,7;16,7;169
+Gabonafélék, kenyerek, pékáruk;búzaliszt;12,3;1,3;76,3;350
+Gabonafélék, kenyerek, pékáruk;búzapehely;12,5;1,5;64,0;321
+Gabonafélék, kenyerek, pékáruk;durum liszt;12,5;1,5;73,0;357
+Gabonafélék, kenyerek, pékáruk;grahamliszt;14,4;1,8;64,4;333
+Gabonafélék, kenyerek, pékáruk;hajdina;9,8;1,7;71,3;341
+Gabonafélék, kenyerek, pékáruk;köles;9,5;3,9;68,8;350
+Gabonafélék, kenyerek, pékáruk;kukoricadara;9,6;3,1;70,2;349
+Gabonafélék, kenyerek, pékáruk;kukoricaliszt;9,6;3,1;70,2;349
+Gabonafélék, kenyerek, pékáruk;kukoricapehely;7,7;0,6;83,0;370
+Gabonafélék, kenyerek, pékáruk;natúr müzli;8,5;2,7;70,0;340
+Gabonafélék, kenyerek, pékáruk;puffasztott búzaszelet;13,9;2,6;64,8;340
+Gabonafélék, kenyerek, pékáruk;rizs;8,0;0,3;77,5;352
+Gabonafélék, kenyerek, pékáruk;rozsliszt;10,0;1,1;73,6;346
+Gabonafélék, kenyerek, pékáruk;rozspehely;8,8;1,7;60,7;295
+Gabonafélék, kenyerek, pékáruk;zabkorpa;15,3;5,5;57,0;340
+Gabonafélék, kenyerek, pékáruk;zabpehely;14,4;6,8;64,3;378
+Gabonafélék, kenyerek, pékáruk;zsemlemorzsa;10,2;0,9;73,3;344
+Gabonafélék, kenyerek, pékáruk;zsírtalan szójaliszt;47,0;2,0;31,0;332
+Gabonafélék, kenyerek, pékáruk;burgonyás kenyér;10,8;1,7;49,7;259
+Gabonafélék, kenyerek, pékáruk;félbarna kenyér;9,8;1,0;52,3;259
+Gabonafélék, kenyerek, pékáruk;kenyér;10,0;0,8;53,5;251
+Gabonafélék, kenyerek, pékáruk;bakonyi barna kenyér;8,5;0,8;50,6;245
+Gabonafélék, kenyerek, pékáruk;dabasi rozsos kenyér;10,1;1,8;49,9;257
+Gabonafélék, kenyerek, pékáruk;graham kenyér;10,1;1,0;54,0;267
+Gabonafélék, kenyerek, pékáruk;lenmagos barnakenyér;14,4;5,7;54,8;330
+Gabonafélék, kenyerek, pékáruk;magvas barnakenyér;10,9;8,5;44,6;300
+Gabonafélék, kenyerek, pékáruk;rozskenyér;8,1;0,9;53,6;256
+Gabonafélék, kenyerek, pékáruk;korpás zsemle, kifli;10,5;1,5;48,9;252
+Gabonafélék, kenyerek, pékáruk;zsemle, kifli;9,4;0,7;57,0;273
+Gabonafélék, kenyerek, pékáruk;kuglóf;10,0;8,7;58,0;352
+Gabonafélék, kenyerek, pékáruk;abonett;14,7;1,5;81,7;401
+Gabonafélék, kenyerek, pékáruk;kalács;11,8;10,5;64,9;403
+Gabonafélék, kenyerek, pékáruk;kétszersült;11,3;4,1;80,4;406
+Gabonafélék, kenyerek, pékáruk;pászka;12,3;1,3;76,3;368
+Gabonafélék, kenyerek, pékáruk;2 tojásos száraztészta;12,4;2,2;70,2;352
+Gabonafélék, kenyerek, pékáruk;4 tojásos száraztészta;15,0;3,4;72,9;384
+Gabonafélék, kenyerek, pékáruk;8 tojásos száraztészta;17,0;5,0;69,3;392
+Gabonafélék, kenyerek, pékáruk;durum tészta;12,5;1,5;73,0;357
+Zöldség-, főzelékfélék és készítményeik;céklakonzerv;1,3;0,1;13,9;63
+Zöldség-, főzelékfélék és készítményeik;csalamádékonzerv;1,3;0,2;9,4;45
+Zöldség-, főzelékfélék és készítményeik;csemege pirosarany;9,0;0,1;0;37
+Zöldség-, főzelékfélék és készítményeik;ecetes paprika;1,1;0,3;3,8;22
+Zöldség-, főzelékfélék és készítményeik;ketchup;2,1;0,4;24,0;109
+Zöldség-, főzelékfélék és készítményeik;konzerv kukorica;4,6;1,6;23,1;126
+Zöldség-, főzelékfélék és készítményeik;lecsókonzerv;1,3;0,3;4,2;25
+Zöldség-, főzelékfélék és készítményeik;olivabogyó;1,4;13,9;1,8;138
+Zöldség-, főzelékfélék és készítményeik;paradicsom püre;5,0;1,0;20,0;110
+Zöldség-, főzelékfélék és készítményeik;reszelt ecetestorma;1,9;0,3;31,2;136
+Zöldség-, főzelékfélék és készítményeik;savanyú uborka;0,6;0,1;2,6;14
+Zöldség-, főzelékfélék és készítményeik;savanyúkáposzta;1,1;0,2;3,4;20
+Zöldség-, főzelékfélék és készítményeik;zöldbab konzerv;1,6;0,2;4,3;26
+Zöldség-, főzelékfélék és készítményeik;zöldborsó konzerv;4,2;0,2;10,1;59
+Zöldség-, főzelékfélék és készítményeik;articsóka;2,4;0,1;9,5;50
+Zöldség-, főzelékfélék és készítményeik;brokkoli;3,3;0,2;2,1;24
+Zöldség-, főzelékfélék és készítményeik;cékla;1,3;0,1;5,9;31
+Zöldség-, főzelékfélék és készítményeik;cikória;1,3;0,2;2,3;16
+Zöldség-, főzelékfélék és készítményeik;csemegekukorica;4,7;1,6;23,6;128
+Zöldség-, főzelékfélék és készítményeik;csicsóka;2,4;0,4;4,0;31
+Zöldség-, főzelékfélék és készítményeik;cukkini;1,5;0,4;5,3;31
+Zöldség-, főzelékfélék és készítményeik;endivia saláta;1,8;0,2;0,9;13
+Zöldség-, főzelékfélék és készítményeik;fejes saláta;1,4;0,3;2,0;17
+Zöldség-, főzelékfélék és készítményeik;fekete retek;1,1;0,2;1,0;10
+Zöldség-, főzelékfélék és készítményeik;fokhagyma;6,8;0,1;26,3;134
+Zöldség-, főzelékfélék és készítményeik;főzőtök;1,1;0,1;6,1;30
+Zöldség-, főzelékfélék és készítményeik;kapor;3,7;0,8;10,2;63
+Zöldség-, főzelékfélék és készítményeik;karalábé;2,1;0,2;6,9;38
+Zöldség-, főzelékfélék és készítményeik;karfiol;2,4;0,4;3,9;29
+Zöldség-, főzelékfélék és készítményeik;kelbimbó;4,9;0,6;6,1;50
+Zöldség-, főzelékfélék és készítményeik;kelkáposzta;3,6;0,3;4,3;34
+Zöldség-, főzelékfélék és készítményeik;kígyóuborka;1,0;0,1;1,7;12
+Zöldség-, főzelékfélék és készítményeik;kínaikel;1,2;0,3;2,0;16
+Zöldség-, főzelékfélék és készítményeik;lilakáposzta;1,7;0,2;5,7;32
+Zöldség-, főzelékfélék és készítményeik;mirelit brokkoli;3,3;0,2;2,1;24
+Zöldség-, főzelékfélék és készítményeik;mirelit karfiol;2,4;0,4;3,9;29
+Zöldség-, főzelékfélék és készítményeik;mirelit kelbimbó;4,9;0,6;6,1;50
+Zöldség-, főzelékfélék és készítményeik;mirelit kukorica;4,7;1,6;23,6;128
+Zöldség-, főzelékfélék és készítményeik;mirelit lecsó;1,1;0,3;3,3;20
+Zöldség-, főzelékfélék és készítményeik;mirelit mexikói vegyesfőzelék;4,2;0,6;13,3;76
+Zöldség-, főzelékfélék és készítményeik;mirelit sárgarépa;1,2;0,2;8,1;40
+Zöldség-, főzelékfélék és készítményeik;mirelit sóska;2,4;0,5;2,3;27
+Zöldség-, főzelékfélék és készítményeik;mirelit spenót;2,3;0,3;1,8;19
+Zöldség-, főzelékfélék és készítményeik;mirelit tök;1,1;0,1;6,1;30
+Zöldség-, főzelékfélék és készítményeik;mirelit vegyesfőzelék (finom);3,8;0,3;10,0;59
+Zöldség-, főzelékfélék és készítményeik;mirelit zöldbab;2,6;0,3;6,8;41
+Zöldség-, főzelékfélék és készítményeik;mirelit zöldborsó;7,0;0,4;14,0;89
+Zöldség-, főzelékfélék és készítményeik;padlizsán;1,3;0,2;4,8;26
+Zöldség-, főzelékfélék és készítményeik;paradicsom;1,0;0,2;4,0;22
+Zöldség-, főzelékfélék és készítményeik;paradicsompaprika;0,9;0,2;6,4;31
+Zöldség-, főzelékfélék és készítményeik;patisszon;1,2;0,1;6,2;31
+Zöldség-, főzelékfélék és készítményeik;petrezselyemgyökér;1,2;0,1;5,9;29
+Zöldség-, főzelékfélék és készítményeik;petrezselyemzöld;4,4;0,4;9,8;61
+Zöldség-, főzelékfélék és készítményeik;póréhagyma;2,2;0,3;6,3;37
+Zöldség-, főzelékfélék és készítményeik;retek;1,2;0,1;2,2;15
+Zöldség-, főzelékfélék és készítményeik;sárgarépa;1,2;0,2;8,1;40
+Zöldség-, főzelékfélék és készítményeik;snidling;3,6;0,7;1,6;27
+Zöldség-, főzelékfélék és készítményeik;sóska;2,4;0,5;2,3;27
+Zöldség-, főzelékfélék és készítményeik;spárga;2,0;0,1;1,8;16
+Zöldség-, főzelékfélék és készítményeik;spenót;2,3;0,3;1,8;19
+Zöldség-, főzelékfélék és készítményeik;sütőtök;1,5;0,6;16,5;78
+Zöldség-, főzelékfélék és készítményeik;fejeskáposzta;1,6;0,2;5,7;32
+Zöldség-, főzelékfélék és készítményeik;torma;2,7;0,4;15,9;78
+Zöldség-, főzelékfélék és készítményeik;uborka;1,0;0,1;1,7;12
+Zöldség-, főzelékfélék és készítményeik;vöröshagyma;1,2;0,1;8,3;40
+Zöldség-, főzelékfélék és készítményeik;zeller;1,4;0,3;5,0;31
+Zöldség-, főzelékfélék és készítményeik;zöldbab;2,6;0,3;6,8;41
+Zöldség-, főzelékfélék és készítményeik;zöldborsó;7,0;0,4;14,0;89
+Zöldség-, főzelékfélék és készítményeik;zöldpaprika;1,2;0,3;3,0;20
+Zöldség-, főzelékfélék és készítményeik;csiperke;5,9;0,2;3,3;39
+Zöldség-, főzelékfélék és készítményeik;csiperke konzerv;2,3;0,5;3,0;26
+Zöldség-, főzelékfélék és készítményeik;laskagomba;1,9;0,7;6,0;38
+Zöldség-, főzelékfélék és készítményeik;vargánya;5,7;0,2;3,8;40
+Zöldség-, főzelékfélék és készítményeik;burgonya;2,5;0,2;20,0;94
+Zöldség-, főzelékfélék és készítményeik;burgonyapehely;8,6;0,6;71,0;325
+Gyümölcsök, gyümölcskészítmények;alma;0,4;0,4;7,0;35
+Gyümölcsök, gyümölcskészítmények;ananász;0,4;0,1;12,0;53
+Gyümölcsök, gyümölcskészítmények;avokádó;2,0;15,3;7,4;176
+Gyümölcsök, gyümölcskészítmények;banán;1,3;0,1;24,2;105
+Gyümölcsök, gyümölcskészítmények;besztercei szilva;0,7;0,2;13,1;60
+Gyümölcsök, gyümölcskészítmények;birsalma;0,6;0,9;9,1;49
+Gyümölcsök, gyümölcskészítmények;citrom;0,4;0,6;2,3;31
+Gyümölcsök, gyümölcskészítmények;cseresznye;0,8;0,3;14,0;65
+Gyümölcsök, gyümölcskészítmények;csipkebogyó;3,6;1,3;8,0;66
+Gyümölcsök, gyümölcskészítmények;cukordinnye;0,3;0,1;11,1;47
+Gyümölcsök, gyümölcskészítmények;egres;0,6;0,2;8,0;40
+Gyümölcsök, gyümölcskészítmények;eper;0,9;0,4;7,2;39
+Gyümölcsök, gyümölcskészítmények;fekete áfonya;0,6;0,6;19,6;90
+Gyümölcsök, gyümölcskészítmények;fekete ribizli;0,9;0,2;9,5;49
+Gyümölcsök, gyümölcskészítmények;görögdinnye;0,5;0,2;6,5;31
+Gyümölcsök, gyümölcskészítmények;gránátalma;0,7;0,6;16,7;77
+Gyümölcsök, gyümölcskészítmények;grapefruit;0,5;0,2;7,2;36
+Gyümölcsök, gyümölcskészítmények;kiwi;1,0;0,6;11,3;61
+Gyümölcsök, gyümölcskészítmények;körte;0,4;0,3;12,0;53
+Gyümölcsök, gyümölcskészítmények;málna;1,2;0,3;5,4;35
+Gyümölcsök, gyümölcskészítmények;mandarin;0,7;0,3;9,8;47
+Gyümölcsök, gyümölcskészítmények;mangó;0,5;0,3;17,0;73
+Gyümölcsök, gyümölcskészítmények;meggy;0,8;0,5;11,0;56
+Gyümölcsök, gyümölcskészítmények;mirelit cseresznye;0,8;0,3;14,0;65
+Gyümölcsök, gyümölcskészítmények;mirelit egres;0,6;0,2;8,0;40
+Gyümölcsök, gyümölcskészítmények;mirelit földieper;0,9;0,4;7,2;39
+Gyümölcsök, gyümölcskészítmények;mirelit málna;1,2;0,3;5,4;35
+Gyümölcsök, gyümölcskészítmények;mirelit meggy;0,8;0,5;11,0;56
+Gyümölcsök, gyümölcskészítmények;mirelit ribizli;0,6;0,2;7,0;38
+Gyümölcsök, gyümölcskészítmények;mirelit szilva;0,8;0;10,2;47
+Gyümölcsök, gyümölcskészítmények;narancs;0,6;0,2;8,5;41
+Gyümölcsök, gyümölcskészítmények;naspolya;0,6;0;12,0;53
+Gyümölcsök, gyümölcskészítmények;nektarin;0,9;0,5;11,8;55
+Gyümölcsök, gyümölcskészítmények;őszibarack;0,7;0,1;9,0;41
+Gyümölcsök, gyümölcskészítmények;papaya;0,6;0,1;9,8;43
+Gyümölcsök, gyümölcskészítmények;piros ribizli;0,6;0,2;7,0;38
+Gyümölcsök, gyümölcskészítmények;ringló szilva;0,8;0;13,5;61
+Gyümölcsök, gyümölcskészítmények;sárgabarack;0,9;0,1;10,2;49
+Gyümölcsök, gyümölcskészítmények;sárgadinnye;0,3;0,1;9,5;40
+Gyümölcsök, gyümölcskészítmények;szeder;0,8;1,0;6,0;39
+Gyümölcsök, gyümölcskészítmények;szilva;0,8;0;10,2;47
+Gyümölcsök, gyümölcskészítmények;szőlő;0,6;0,3;18,1;81
+Gyümölcsök, gyümölcskészítmények;alma befőtt;0,3;0,3;20,2;86
+Gyümölcsök, gyümölcskészítmények;ananász befőtt;0,4;0,2;20,2;88
+Gyümölcsök, gyümölcskészítmények;aszalt alma;1,4;1,6;55,4;252
+Gyümölcsök, gyümölcskészítmények;aszalt füge;3,5;1,3;54,0;246
+Gyümölcsök, gyümölcskészítmények;aszalt őszibarack;4,9;1,0;65,9;302
+Gyümölcsök, gyümölcskészítmények;aszalt sárgabarack;5,0;0,5;70,2;307
+Gyümölcsök, gyümölcskészítmények;aszalt szilva;2,3;0,6;47,4;219
+Gyümölcsök, gyümölcskészítmények;banánchips;3,4;20,2;62,9;453
+Gyümölcsök, gyümölcskészítmények;birsalmabefőtt;0,4;0,5;20,4;90
+Gyümölcsök, gyümölcskészítmények;cseresznyebefőtt;0,6;0,2;19,8;85
+Gyümölcsök, gyümölcskészítmények;datolya;1,9;0,5;66,3;282
+Gyümölcsök, gyümölcskészítmények;eper befőtt;0,6;0,2;18,1;77
+Gyümölcsök, gyümölcskészítmények;kókuszreszelék;5,6;62,0;6,4;609
+Gyümölcsök, gyümölcskészítmények;körte befőtt;0,3;0;23,7;97
+Gyümölcsök, gyümölcskészítmények;mazsola;2,4;0;65,0;287
+Gyümölcsök, gyümölcskészítmények;meggy befőtt;0,6;0,2;20,8;90
+Gyümölcsök, gyümölcskészítmények;mirelit gesztenyemassza;2,9;0,9;49,5;219
+Gyümölcsök, gyümölcskészítmények;őszibarack befőtt;0,5;0;21,2;88
+Gyümölcsök, gyümölcskészítmények;sárgabarack befőtt;0,5;0,1;17,0;75
+Gyümölcsök, gyümölcskészítmények;szilva befőtt;0,4;0;21,9;90
+Gyümölcsök, gyümölcskészítmények;áfonya lekvár;0,3;0;59,7;243
+Gyümölcsök, gyümölcskészítmények;birsalma lekvár;0,2;0;58,8;238
+Gyümölcsök, gyümölcskészítmények;csipkebogyó lekvár;0,5;0;58,0;237
+Gyümölcsök, gyümölcskészítmények;eper lekvár;0,4;0;58,2;237
+Gyümölcsök, gyümölcskészítmények;málna lekvár;0,5;0;63,3;259
+Gyümölcsök, gyümölcskészítmények;meggy lekvár;0,4;0;70,3;288
+Gyümölcsök, gyümölcskészítmények;ribizli lekvár;0,2;0;61,6;251
+Gyümölcsök, gyümölcskészítmények;sárgabarack lekvár;0,4;0;64,5;263
+Gyümölcsök, gyümölcskészítmények;szeder lekvár;0,5;0,4;58,7;243
+Gyümölcsök, gyümölcskészítmények;szilva lekvár;1,3;0;54,0;227
+Gyümölcsök, gyümölcskészítmények;vegyesíz;1,0;0;60,0;247
+Gyümölcslevek, zöldséglevek, üdítőitalok;citromlé;0,2;0,0;3,1;18
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss almalé;0,1;0;14,0;58
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss citromlé;0,4;0,1;7,7;45
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss grapefruitlé;0,6;0,1;8,6;41
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss paradicsomlé;0,8;0,0;3,1;16
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss sárgarépalé;0,6;0;4,8;23
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss narancslé;0,7;0,2;10,9;214
+Gyümölcslevek, zöldséglevek, üdítőitalok;friss szőlőlé;0,2;0;12,2;55
+Gyümölcslevek, zöldséglevek, üdítőitalok;kókusztej;0,3;0,4;1,4;10
+Gyümölcslevek, zöldséglevek, üdítőitalok;light rostos őszibaracklé;0;0;5,1;20
+Gyümölcslevek, zöldséglevek, üdítőitalok;light rostos sárgabaracklé;0;0;4,6;19
+Gyümölcslevek, zöldséglevek, üdítőitalok;light szőrt almalé;0,0;0;2,8;12
+Gyümölcslevek, zöldséglevek, üdítőitalok;narancslé light;0,7;0,2;10,1;48
+Gyümölcslevek, zöldséglevek, üdítőitalok;rostos körtelé 40%-os;0,2;0,1;14,8;61
+Gyümölcslevek, zöldséglevek, üdítőitalok;rostos őszibaracklé 40%-os;0,3;0,0;13,6;57
+Gyümölcslevek, zöldséglevek, üdítőitalok;rostos sárgabaracklé 40 %-os;0,4;0,1;14,1;60
+Gyümölcslevek, zöldséglevek, üdítőitalok;szőrt almalé 12%-os;0,0;0;14,7;59
+Gyümölcslevek, zöldséglevek, üdítőitalok;szőrt narancslé 40%-os;0,3;0,1;14,4;61
+Gyümölcslevek, zöldséglevek, üdítőitalok;szőrt szőlőlé 12%-os;0,0;0;14,5;59
+Gyümölcslevek, zöldséglevek, üdítőitalok;cola light üdítő;0;0;0,1;0
+Gyümölcslevek, zöldséglevek, üdítőitalok;cola üdítő;0;0;10,5;42
+Gyümölcslevek, zöldséglevek, üdítőitalok;csipkeszörp;0;0;61,9;249
+Gyümölcslevek, zöldséglevek, üdítőitalok;gyömbér üdítő;0;0;8,7;35
+Gyümölcslevek, zöldséglevek, üdítőitalok;málnaszörp;0;0;65,8;264
+Gyümölcslevek, zöldséglevek, üdítőitalok;narancs szörp;2,4;1,5;53,2;252
+Gyümölcslevek, zöldséglevek, üdítőitalok;narancs üdítő;0;0;12,0;48
+Gyümölcslevek, zöldséglevek, üdítőitalok;tonic üdítő;0;0;8,8;35
+Alkoholos italok;barnasör;0;0;5,9;51
+Alkoholos italok;világos sör;0;0;4,6;38
+Alkoholos italok;fehérbor;0;0;3,0;75
+Alkoholos italok;félédes pezsgő;0;0;4,0;79
+Alkoholos italok;vermouth;0;0;12,5;149
+Alkoholos italok;vörösbor;0;0;0,3;56
+Alkoholos italok;konyak;0;0;1,7;246
+Alkoholos italok;likőr;0;0;32,5;306
+Alkoholos italok;pálinka;0;0;0;260
+Alkoholos italok;unicum;0;0;19,0;323
+Alkoholos italok;whisky;0;0;0,1;248
+Húsfélék;csirkecomb;20,9;5,2;0,5;133
+Húsfélék;csirkehús;21,5;2,5;0,4;111
+Húsfélék;csirkehús bőrrel;17,6;17,7;0;231
+Húsfélék;csirkemell;24,7;1,0;0,5;110
+Húsfélék;kacsahús;19,0;12,0;0,4;186
+Húsfélék;pecsenyeliba;18,5;13,6;0,3;199
+Húsfélék;pulykacomb;20,5;3,6;0;115
+Húsfélék;pulykahús;20,5;9,5;0,4;170
+Húsfélék;pulykamell;24,1;1,0;0;106
+Húsfélék;tyúkhús;19,0;6,5;0,4;137
+Húsfélék;birkahús;16,9;26,4;0,3;308
+Húsfélék;borjúhús;19,5;4,5;0,3;120
+Húsfélék;fácánhús;22,3;1,9;0,5;109
+Húsfélék;házinyúlhús;21,0;8,0;0,4;158
+Húsfélék;őzhús;20,8;1,9;0,4;102
+Húsfélék;sovány bárányhús;19,7;12,7;0,3;195
+Húsfélék;szarvashús;20,7;3,9;0,6;121
+Húsfélék;vaddisznóhús;21,6;2,4;0,4;110
+Húsfélék;vadkacsa;22,7;3,1;0,5;121
+Húsfélék;bélszín;19,0;4,4;0,6;119
+Húsfélék;közepes zsírtartalmú marhahús;19,0;14,0;0,6;205
+Húsfélék;marhafelsál;17,0;19,0;0,6;243
+Húsfélék;lapos marhahátszín;16,0;19,0;0,6;246
+Húsfélék;puha marhahátszín;20,0;18,0;0,6;239
+Húsfélék;marhatarja;19,0;6,2;0,6;135
+Húsfélék;sovány marhahús;21,0;6,2;0,6;143
+Húsfélék;zsíros marhahús;16,0;21,0;0,5;256
+Húsfélék;csülök;16,0;29,0;0,3;328
+Húsfélék;közepes zsírtartalmú sertéshús;17,5;23,9;0,3;288
+Húsfélék;oldalas;12,0;42,0;0,3;429
+Húsfélék;sovány sertéshús, comb, karaj;21,0;8,1;0,4;159
+Húsfélék;zsíros sertéshús;12,0;42,0;0,3;429
+Húskészítmények, belsőségek;angolszalonna;16,8;46,5;0;488
+Húskészítmények, belsőségek;aszpikos uborkás sonka;11,0;2,9;0,6;72
+Húskészítmények, belsőségek;baromfipárizsi;14,7;15,6;2,7;211
+Húskészítmények, belsőségek;baromfivirsli;14,7;15,6;2,7;211
+Húskészítmények, belsőségek;csabai csípőskolbász;19,8;41,9;0,3;460
+Húskészítmények, belsőségek;császárszalonna;10,0;45,0;0;447
+Húskészítmények, belsőségek;cserkészkolbász;16,3;29,8;0,3;336
+Húskészítmények, belsőségek;csirkesonka;22,2;1,4;7,0;130
+Húskészítmények, belsőségek;debreceni;15,7;27,0;0,2;308
+Húskészítmények, belsőségek;disznósajt;14,5;28,3;0,2;315
+Húskészítmények, belsőségek;főzőkolbász;17,8;35,5;0,3;394
+Húskészítmények, belsőségek;füstölt főtt tarja;15,0;15,0;0,3;197
+Húskészítmények, belsőségek;füstöltkolbász;15,5;25,4;0,3;293
+Húskészítmények, belsőségek;füstölt sertés sonka;17,2;33,0;0,1;368
+Húskészítmények, belsőségek;gépsonka;22,6;7,1;0,4;157
+Húskészítmények, belsőségek;hamburgerpogácsa;15,1;11,2;2,3;171
+Húskészítmények, belsőségek;krinolin;11,9;18,2;0,2;213
+Húskészítmények, belsőségek;lecsókolbász;16,3;22,9;0,3;274
+Húskészítmények, belsőségek;löncshús;13,8;22,0;2,0;262
+Húskészítmények, belsőségek;marhapárizsi;11,2;18,2;2,0;218
+Húskészítmények, belsőségek;mortadella;13,7;30,8;0,3;335
+Húskészítmények, belsőségek;olasz felvágott;13,7;30,8;0,3;335
+Húskészítmények, belsőségek;paprikás szalámi;19,6;45,8;0,3;494
+Húskészítmények, belsőségek;sertéspárizsi;11,9;18,2;0,2;213
+Húskészítmények, belsőségek;pulykakolbász;22,8;42,0;0;471
+Húskészítmények, belsőségek;pulykasonka;17,0;2,8;4,2;111
+Húskészítmények, belsőségek;rakott nyelv;18,5;19,1;3,5;261
+Húskészítmények, belsőségek;sajtos baromfipárizsi;13,0;19,0;3,9;240
+Húskészítmények, belsőségek;sonkaszalámi;21,2;8,2;0,2;160
+Húskészítmények, belsőségek;sütnivaló kolbász;22,7;42,0;0;471
+Húskészítmények, belsőségek;szárazkolbász;20,0;32,1;0,3;372
+Húskészítmények, belsőségek;tavaszi felvágott;10,3;14,6;2,4;183
+Húskészítmények, belsőségek;téliszalámi;25,1;46,1;0,3;519
+Húskészítmények, belsőségek;túristaszalámi;17,5;41,0;0,3;442
+Húskészítmények, belsőségek;sertés virsli;12,5;20,0;0,2;232
+Húskészítmények, belsőségek;zalai felvágott;15,6;19,9;0,6;245
+Húskészítmények, belsőségek;borjúmáj;19,2;4,1;3,6;129
+Húskészítmények, belsőségek;csirkemáj;20,0;3,7;3,0;126
+Húskészítmények, belsőségek;csirkeszív;17,3;5,8;0,7;125
+Húskészítmények, belsőségek;csirkezúza;16,6;2,4;0,3;90
+Húskészítmények, belsőségek;kenőmájas;15,9;27,7;0,3;316
+Húskészítmények, belsőségek;libamáj;16,4;4,3;6,3;130
+Húskészítmények, belsőségek;májashurka;14,6;11,4;10,1;202
+Húskészítmények, belsőségek;marhamáj;20,9;3,1;3,6;127
+Húskészítmények, belsőségek;sertéspacal;15,9;11,2;0;165
+Húskészítmények, belsőségek;sertés agyvelő;10,6;9,0;0;124
+Húskészítmények, belsőségek;sertésmáj;19,5;5,3;2,5;136
+Húskészítmények, belsőségek;sertésmájkrém;13,4;21,0;5,9;267
+Húskészítmények, belsőségek;sertésnyelv;16,8;16,0;0,5;214
+Húskészítmények, belsőségek;sertéstüdő;20,1;2,9;0,6;109
+Húskészítmények, belsőségek;sertésvér;18,5;0,1;0,1;76
+Húskészítmények, belsőségek;sertésvese;17,0;5,0;0,3;115
+Húskészítmények, belsőségek;véreshurka;12,2;19,4;6,4;250
+Halak, halkonzervek;angolna;15,0;24,5;0;282
+Halak, halkonzervek;balin;17,8;5,5;0;121
+Halak, halkonzervek;busa;18,0;1,9;0,6;92
+Halak, halkonzervek;csuka;18,4;0,9;0;82
+Halak, halkonzervek;fogassüllő;19,0;0,8;0,2;84
+Halak, halkonzervek;harcsa;15,8;2,0;0,2;82
+Halak, halkonzervek;hering;18,2;17,8;0;234
+Halak, halkonzervek;keszeg;16,6;5,5;0,2;117
+Halak, halkonzervek;lazac;20,0;14,0;0,2;208
+Halak, halkonzervek;makrela;18,7;11,9;0;183
+Halak, halkonzervek;pisztráng;21,5;2,9;0;113
+Halak, halkonzervek;ponty;15,8;8,7;0,1;143
+Halak, halkonzervek;szardínia;19,4;4,5;0;119
+Halak, halkonzervek;tintahal;12,7;0,7;0,8;61
+Halak, halkonzervek;tonhal filé;21,5;15,5;0;227
+Halak, halkonzervek;tőkehal filé;17,7;0,6;1,2;82
+Halak, halkonzervek;kagyló;14,4;2,2;0;78
+Halak, halkonzervek;kagylókonzerv;19,5;2,0;2,0;104
+Halak, halkonzervek;kaviár;26,0;16,0;4,6;268
+Halak, halkonzervek;makrela konzerv;18,9;28,0;0;329
+Halak, halkonzervek;olajos szardínia;22,5;21,4;0;284
+Halak, halkonzervek;olajos tonhal;23,8;21,5;0;290
+Halak, halkonzervek;olajoshal konzerv;15,9;33,8;0;370
+Halak, halkonzervek;pácolt hering;11,1;11,0;0;144
+Halak, halkonzervek;paradicsomos halkonzerv;14,8;15,0;0;195
+Halak, halkonzervek;rák;20,5;1,1;2,2;101
+Halak, halkonzervek;rákkonzerv;22,9;1,8;1,1;113
+Hüvelyesek és termékeik;csicseriborsó;19,8;3,4;48,8;307
+Hüvelyesek és termékeik;fejtettbab;10,8;0,4;29,0;164
+Hüvelyesek és termékeik;lencse;26,0;1,9;53,0;335
+Hüvelyesek és termékeik;sárgaborsó;21,7;1,5;53,1;314
+Hüvelyesek és termékeik;sárgaborsóliszt;27,2;1,3;60,5;364
+Hüvelyesek és termékeik;szárazbab;21,9;1,0;54,1;314
+Hüvelyesek és termékeik;szójabab;37,0;18,1;27,0;421
+Hüvelyesek és termékeik;szójacsíra;5,5;1,0;4,7;50
+Hüvelyesek és termékeik;szójagranulátum;47,0;2,0;31,0;332
+Hüvelyesek és termékeik;szójakocka;47,0;2,0;31,0;332
+Hüvelyesek és termékeik;szójaliszt;41,6;28,5;22,1;514
+Hüvelyesek és termékeik;szójapárizsi;12,3;15,5;14,1;246
+Hüvelyesek és termékeik;szójapehely;42,0;25,0;20,0;475
+Hüvelyesek és termékeik;szójás fasírtpor;35,3;12,9;32,6;390
+Hüvelyesek és termékeik;szójaszósz;10,5;0,1;5,6;66
+Hüvelyesek és termékeik;szójatej;2,8;1,9;1,8;36
+Hüvelyesek és termékeik;tofu (szójatúró);8,1;4,2;0,6;73
+Tejtermékek;kakaós tej;3,5;0,5;11,4;64
+Tejtermékek;karamellás tej;3,2;1,5;12,5;77
+Tejtermékek;kecsketej;3,6;3,9;4,7;69
+Tejtermékek;tej, 0%-os;3,5;0,1;4,8;34
+Tejtermékek;tej, 1,5%-os;3,4;1,5;5,3;49
+Tejtermékek;tej, 2,8%-os;3,4;2,8;5,3;60
+Tejtermékek;tej, 3,6%-os;3,4;3,6;5,3;68
+Tejtermékek;félzsíros tehéntúró;16,2;7,0;3,7;143
+Tejtermékek;gomolyatúró;18,2;21,1;3,0;276
+Tejtermékek;juhtúró;14,7;22,5;2,8;274
+Tejtermékek;sovány tehéntúró;14,1;0,5;3,8;76
+Tejtermékek;vaniliás túrókrém;13,8;11,3;18,0;230
+Tejtermékek;0%-os joghurt;3,4;0,1;4,6;34
+Tejtermékek;cukormentes gyümölcsjoghurt;2,9;3,0;5,1;60
+Tejtermékek;gyümölcsjoghurt;2,8;2,9;11,2;83
+Tejtermékek;joghurt;3,4;3,6;4,6;65
+Tejtermékek;kefir;3,4;3,6;4,6;65
+Tejtermékek;cukrozott tejszínhab;2,3;26,0;11,0;289
+Tejtermékek;habtejszín;2,6;30,0;3,0;294
+Tejtermékek;joghurthab;2,8;1,6;18,0;98
+Tejtermékek;kávétejszín;3,3;16,0;3,9;174
+Tejtermékek;sovány tejpor;36,0;2,0;50,3;365
+Tejtermékek;sőrített tej;8,5;7,0;54,9;318
+Tejtermékek;tejföl 12%-os;2,8;11,0;4,3;128
+Tejtermékek;tejföl 20%-os;3,3;20,0;3,8;209
+Tejtermékek;zsíros tejpor;25,5;27,0;37,0;495
+Sajtok;anikó sajt;24,2;26,0;1,8;340
+Sajtok;bakony camembert sajt;21,5;23,0;1,5;300
+Sajtok;boci krémsajt;11,5;24,9;1,5;277
+Sajtok;camping krémsajt;16,5;26,4;1,7;312
+Sajtok;chester cheddar sajt;26,8;29,1;1,5;377
+Sajtok;edámi sajt;26,2;26,6;1,7;353
+Sajtok;ementáli sajt;27,8;29,4;1,5;384
+Sajtok;fetasajt;14,2;21,3;4,1;266
+Sajtok;zalai füstölt sajt;25,2;26,6;1,7;349
+Sajtok;goudasajt;24,9;27,4;2,2;357
+Sajtok;göcseji sajt;22,2;23,3;1,4;306
+Sajtok;hóvirág sajt;21,0;23,4;2,0;304
+Sajtok;ízesített kenhető sajt;15,5;23,7;1,9;284
+Sajtok;karaván füstölt sajt;22,3;27,3;1,9;344
+Sajtok;kaskavál juhsajt;23,6;28,7;1,4;360
+Sajtok;kecskesajt;21,6;29,8;2,5;367
+Sajtok;köményes sajt;30,5;10,0;1,6;219
+Sajtok;márványsajt;20,0;29,7;2,0;357
+Sajtok;mozarella sajt;19,4;21,6;2,2;282
+Sajtok;óvári sajt;29,6;18,5;1,7;293
+Sajtok;parmezán sajt;26,8;28,9;1,6;375
+Sajtok;rokfort sajt;21,5;30,6;2,0;372
+Sajtok;tejszínkrémsajt;2,8;26,2;3,1;261
+Sajtok;tenkes sajt;27,8;16,3;1,9;267
+Sajtok;tihany séd brie sajt;18,2;33,4;1,4;381
+Sajtok;trappista sajt;27,7;28,1;1,6;372
+Sajtok;túra sajt;25,7;8,4;2,0;187
+Sajtok;zsíros kockasajt;16,7;25,0;2,0;301
+Diófélék, olajos magvak;bokormogyoró;15,6;63,5;8,7;672
+Diófélék, olajos magvak;dejó;18,7;26,9;23,8;414
+Diófélék, olajos magvak;dió;18,6;57,0;11,7;637
+Diófélék, olajos magvak;lenmag;24,4;30,9;0;377
+Diófélék, olajos magvak;mák;20,5;38,2;23,9;524
+Diófélék, olajos magvak;mandula;27,6;52,2;6,8;610
+Diófélék, olajos magvak;napraforgó;22,5;49,0;12,3;583
+Diófélék, olajos magvak;olajos pörkölt kesudió;16,2;48,2;28,5;616
+Diófélék, olajos magvak;pisztácia;20,8;51,6;12,5;600
+Diófélék, olajos magvak;pörkölt földimogyoró;26,4;49,4;8,9;589
+Diófélék, olajos magvak;sós földimogyoró;24,6;45,9;8,3;547
+Diófélék, olajos magvak;szezámmag;26,3;54,8;9,4;639
+Diófélék, olajos magvak;szezámpehely;26,3;54,8;9,4;639
+Diófélék, olajos magvak;szelídgesztenye;4,8;1,5;32,6;164
+Diófélék, olajos magvak;tökmag;33,9;51,5;3,6;616
+Tojás;tojás;13,5;12,0;0,6;165
+Tojás;tojásfehérje;12,8;0,3;0,7;57
+Tojás;tojássárga;16,1;31,7;0,3;353
+Sütő-, édesipari termékek;fagylalt, jégkrém;2,2;4,5;27,8;161
+Sütő-, édesipari termékek;mézespuszedli;7,2;4,5;71,5;357
+Sütő-, édesipari termékek;citromos nápolyi;5,6;27,3;53,7;486
+Sütő-, édesipari termékek;édes keksz;8,2;11,0;78,8;449
+Sütő-, édesipari termékek;étcsokoládé;5,8;29,2;62,0;537
+Sütő-, édesipari termékek;félkész réteslap;11,6;1,2;72,1;348
+Sütő-, édesipari termékek;háztartási keksz;9,8;6,8;78,0;414
+Sütő-, édesipari termékek;kakaós nápolyi;6,6;28,3;54,1;500
+Sütő-, édesipari termékek;korpáskeksz;14,4;13,8;59,8;423
+Sütő-, édesipari termékek;marcipán;8,0;24,9;57,4;488
+Sütő-, édesipari termékek;mogyorókrém;6,5;31,0;57,0;536
+Sütő-, édesipari termékek;ropi;9,7;0,5;75,0;345
+Sütő-, édesipari termékek;sajtos tallér;10,2;24,9;39,1;423
+Sütő-, édesipari termékek;sóskeksz;8,0;18,8;58,3;436
+Sütő-, édesipari termékek;tejcsokoládé;8,4;30,3;56,8;536
+Sütő-, édesipari termékek;barnacukor;0;0;97,4;391
+Sütő-, édesipari termékek;cukor;0;0;99,9;402
+Sütő-, édesipari termékek;méz;0,4;0;81,0;327
+Sütő-, édesipari termékek;pudingpor;0,4;0,1;84,2;341
+Zsiradékok;füstölt szalonna;9,0;73,0;0;696
+Zsiradékok;libazsír;0,5;99,0;0;897
+Zsiradékok;sertészsír;0,1;99,7;0;902
+Zsiradékok;tepertő;12,1;83,2;0;801
+Zsiradékok;tőkehalmáj olaj;0;99,8;0;902
+Zsiradékok;tyúkzsír;0;99,5;0;900
+Zsiradékok;vaj;0,4;80,0;0,5;727
+Zsiradékok;vajkrém;2,5;40,0;2,0;380
+Zsiradékok;búzacsíraolaj;0;99,5;0;900
+Zsiradékok;margarin, 35% zsírtartalmú;1,6;35,0;0,4;325
+Zsiradékok;margarin, 55% zsírtartalmú;0,2;55,0;0,4;500
+Zsiradékok;dióolaj;0;99,5;0;900
+Zsiradékok;főzőmargarin;0,2;80,0;0,4;726
+Zsiradékok;kókuszzsír;0;99,0;0,0;895
+Zsiradékok;kukoricaolaj;0;100,0;0;904
+Zsiradékok;lenmagolaj;0;99,5;0;900
+Zsiradékok;margarin 70 % zsírtartalmú;0,2;70,0;0,4;635
+Zsiradékok;napraforgó olaj;0;99,8;0;902
+Zsiradékok;olivaolaj;0;99,6;0;901
+Zsiradékok;repceolaj;0;99,8;0;902
+Zsiradékok;szezámolaj;0;99,5;0;900
+Zsiradékok;szójaolaj;0;99,8;0;902
+Zsiradékok;tökmagolaj;0;99,8;0;902
+Ételízesítők, egyéb nyersanyagok;cukormentes neskakaó;2,0;0,2;4,4;28
+Ételízesítők, egyéb nyersanyagok;élesztő;16,7;1,2;0;78
+Ételízesítők, egyéb nyersanyagok;gabonakolbász;4,4;30,7;25,6;399
+Ételízesítők, egyéb nyersanyagok;kakaópor;18,5;21,7;10,5;313
+Ételízesítők, egyéb nyersanyagok;marhahúsleves kocka;17,3;4,0;16,1;170
+Ételízesítők, egyéb nyersanyagok;nescafe;11,2;0;8,2;78
+Ételízesítők, egyéb nyersanyagok;neskakaó;10,8;4,0;79,1;397
+Ételízesítők, egyéb nyersanyagok;pattogatott kukorica (olaj nélkül);12,0;4,2;77,9;399
+Ételízesítők, egyéb nyersanyagok;pattogatott kukorica (olajjal);9,0;28,1;57,2;520
+Ételízesítők, egyéb nyersanyagok;pótkávé;5,5;3,4;81,0;378
+Ételízesítők, egyéb nyersanyagok;teafő;26,0;5,1;0,8;121
+Ételízesítők, egyéb nyersanyagok;tejszínpótló por;4,8;35,5;54,9;561
+Ételízesítők, egyéb nyersanyagok;ecet 20%-os;0,4;0;0,6;4
+Ételízesítők, egyéb nyersanyagok;ételízesítő;3,3;1,0;9,3;60
+Ételízesítők, egyéb nyersanyagok;főszerpaprika;13,0;4,0;63,0;342
+Ételízesítők, egyéb nyersanyagok;halászlékocka;5,8;10,8;26,0;225
+Ételízesítők, egyéb nyersanyagok;mustár;5,7;6,4;22,0;169
+Ételízesítők, egyéb nyersanyagok;spagettikrém;3,6;13,1;23,3;226
+Ételízesítők, egyéb nyersanyagok;tormás majonéz;1,7;25,1;0;234
+Ételízesítők, egyéb nyersanyagok;ezer sziget salátaöntet;1,7;28,2;12,4;311
+Ételízesítők, egyéb nyersanyagok;jogonéz;0,9;30,9;4,6;301
+Ételízesítők, egyéb nyersanyagok;majonéz;1,3;93,2;0,0;848
+Ételízesítők, egyéb nyersanyagok;gulyáskrém;2,2;7,7;0;78
