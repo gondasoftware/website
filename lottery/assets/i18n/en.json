@@ -1,0 +1,31 @@
+{
+    "languageSelector": "Change the language.",
+    "description": "Application description.",
+    "goToHelpPage": "Go to the help page.",
+    "generateImage": "Generate image from the current view.",
+    "selectTheQualityOfTheGenImage": "Select the quality of the generated image. The higher number means better quality.",
+    "openEditElementWindow": "Open the edit window.",
+    "tooltipOnOff": "SShow / hide tooltips.",
+    "goToDrawPage": "Go to the draw page",
+    "closeTheWindow": "Cloase the window.",
+    "acceptTheLicense": "I accept the software license agreement and I have read and understand the cookie policy.",
+    "hideAll": "Hide all.",
+    "showAll": "Show all.",
+    "showHideSwitch": "Show / hide switch.",
+    "numberBackgroundColorPicker": "Number background color picker.",
+    "numberBackgroundOpacity": "Number background color transparency.",
+    "numberPairOccurrences" : "Show / hide number pair occurrences window.",
+    "dragTheWindow": "Drag the window.",
+    "deleteTheSelectedPahtLines": "Delete the selected path lines.",
+    "pathLineColor": "Change the path line color.",
+    "pathLineOpacity": "Change the path line transparency.",
+    "load": "Load csv file. Otos, hatos, skandinav, eurojackpot.",
+    "otosCsvDownload": "Download the otos lottery csv file." ,
+    "hatosCsvDownload" : "Download the hatos lottery csv file." ,
+    "skandiCsvDownload" : "Download the skandinav lottery csv file." ,
+    "eurojackpotCsvDownload": "Download the eurojackpot lottery csv file." 
+
+    
+
+
+}
