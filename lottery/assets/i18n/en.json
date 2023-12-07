@@ -23,9 +23,9 @@
     "otosCsvDownload": "Download the otos lottery csv file." ,
     "hatosCsvDownload" : "Download the hatos lottery csv file." ,
     "skandiCsvDownload" : "Download the skandinav lottery csv file." ,
-    "eurojackpotCsvDownload": "Download the eurojackpot lottery csv file." 
-
-    
-
-
+    "eurojackpotCsvDownload": "Download the eurojackpot lottery csv file.",
+    "selectANumber": "Select a number",
+    "calculateNumberCombinationResult": "Calculate number combination result.",
+    "calculateNumberCombination": "Calculate number combination.",
+    "calculateNumberCombinationWindow": "Show / hide number combination window."
 }
