@@ -172,10 +172,29 @@
     "takeoff.selectPlanImageForExport": "Mark the image as selected for export.",
     "takeoff.selectPdfQualityOnLoad": "Change the quality of the pdf which you are about to load. The higher number means better quality but bigger data.",
     "takeoff.selectPdfQualityandReload": "Rescale the loaded pdf. The higher number means better quality but bigger data.",
-    
-    
-
-
     "takeoff.generateImage": "Generate image from the current view.",
-    "takeoff.selectTheQualityOfTheGenImage": "Select the quality of the generated image. 10 is the best quality."
+    "takeoff.selectTheQualityOfTheGenImage": "Select the quality of the generated image. 10 is the best quality.",
+    "calculateThis": "expression",
+    "calculator": "Calculator. Type the expression here.",
+    "calculateTheExpressionResult": "Calculate the result",
+    "takeoff.openCloseQuantityGroupWindow": "Open / close the quantity grouping manager window.",
+    "takeoff.quantityGroupCreate": "Create a new quantity group.",
+    "takeoff.quantityGroupQuantity": "Set the quantity group measurement type to volume.",
+    "takeoff.quantityGroupMeasurementUnitSelect": "Select the measurement unit for this quantity group.",
+    "takeoff.quantityGroupLength": "Set the quantity group measurement type to length.",
+    "takeoff.quantityGroupArea": "Set the quantity group measurement type to area.",
+    "takeoff.quantityGroupVolume": "Set the quantity group measurement type to volume.",
+    "takeoff.quantityGroupDrag": "Drag and drop to rearrange quantity groups.",
+    "takeoff.quantityGroupMeasurementUnit": "The selected measurement unit for this quantity group (quantity / length / area / volume).",
+    "takeoff.quantityGroupNameChange": "Change the name of the quantity group.",
+    "takeoff.quantityGroupCategoryDelete": "Delete the quantity group.",
+    "takeoff.quantityGroupPageDecimalsChange": "Change the number of decimal places for measurements on this page.",
+    "takeoff.quantityGroupPageImperialStyle": "Change the style of the imperial measurement system on this page.",
+    "takeoff.quantityGroupResult": "The results of the takeoff elements in this quantity group.",
+    "takeoff.addQuantityGroupsToShape": "Add the new measurement to the selected quantity group(s).",
+    "takeoff.changeQuantityGroupsToShape": "Add this measurement to the selected quantity group(s).",
+    "additionalInformation": "Additional information:",
+    "takeoff.quantityGroups": "Quantity group(s):",
+    "takeoff.quantityGroupDeletion": "Quantity group deletion",
+    "takeoff.quantityGroupDeletionQuestion": "Do you really want to delete this quantity group ?"
 }
