@@ -196,5 +196,12 @@
     "additionalInformation": "Additional information:",
     "takeoff.quantityGroups": "Quantity group(s):",
     "takeoff.quantityGroupDeletion": "Quantity group deletion",
-    "takeoff.quantityGroupDeletionQuestion": "Do you really want to delete this quantity group ?"
+    "takeoff.quantityGroupDeletionQuestion": "Do you really want to delete this quantity group ?",
+    "takeoff.openQuantityGroupInNewTab" : "Open the quantity group detaild result in new tab.",
+    "takeoff.openQuantityGroupsInNewTab" : "Open the quantity groups detailed results in new tab.",
+    "takeoff.quantityGroupName": "Quantity Group Name",
+    "takeoff.takeoffName02": "Takeoff Name",
+    "takeoff.takeoffPageName02": "Takeoff Page Name",
+    "takeoff.MeasurementResult": "Measurement Result",
+    "takeoff.measurementUnit": "MeasurementUnit"
 }
