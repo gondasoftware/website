@@ -100,7 +100,7 @@
     "takeoff.takeoffMeasurementUnit": "The selected measurement unit for this takeoff (quantity / length / area / volume).",
     "takeoff.takeoffDecimalsChange": "Change the number of decimal places for measurements.",
     "takeoff.takeoffImperialStyle": "Change the style of the imperial measurement system.",
-    "takeoff.takeoffResult": "Tthe results of the takeoff elements in this takeoff.",
+    "takeoff.takeoffResult": "The results of the takeoff elements in this takeoff.",
     "takeoff.takeoffPageName": "Specify the name of the new takeoff page.",
     "takeoff.takeoffPageCreate": "Create a new takeoff page.",
     "takeoff.takeoffPageDrag": "Drag and drop to rearrange pages.",
