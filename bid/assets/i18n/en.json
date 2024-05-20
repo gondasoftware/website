@@ -203,5 +203,10 @@
     "takeoff.takeoffName02": "Takeoff Name",
     "takeoff.takeoffPageName02": "Takeoff Page Name",
     "takeoff.MeasurementResult": "Measurement Result",
-    "takeoff.measurementUnit": "MeasurementUnit"
+    "takeoff.measurementUnit": "MeasurementUnit",
+    "takeoff.lineLineWidthDepth": "Activate line takeoff drawing element to specify a volume.",
+    "takeoff.volumeLineWidth": "Specify the width of the volume.",
+    "takeoff.volumeLineDepth": "Specify the depth of the volume.",
+    "takeoff.volumeLineRectangleWidthDepthDraw": "Activate line rectangle takeoff drawing element to specify a volume.",
+    "takeoff.volumeWidthChange": "Change the width of the volume."
 }

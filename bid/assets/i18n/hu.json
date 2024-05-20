@@ -203,5 +203,10 @@
     "takeoff.takeoffName02": "Felmérés neve",
     "takeoff.takeoffPageName02": "Felmérési oldal neve",
     "takeoff.MeasurementResult": "A mérés eredménye",
-    "takeoff.measurementUnit": "A mérés egysége"
+    "takeoff.measurementUnit": "A mérés egysége",
+    "takeoff.lineLineWidthDepth": "Aktiválja a vonal felmérési elemet a térfogatot megadásához.",
+    "takeoff.volumeLineWidth": "Adja meg a szélességét a térfogatnak.",
+    "takeoff.volumeLineDepth": "Adja meg a mélységét a térfogatnak.",
+    "takeoff.volumeLineRectangleWidthDepthDraw": "Activálja a negyszög rajzolási módot a térfogat megadásához.",
+    "takeoff.volumeWidthChange": "Változtassa meg a szélességét a térfogatnak."
 }
