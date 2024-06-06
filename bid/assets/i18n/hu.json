@@ -120,7 +120,7 @@
     "takeoff.fontSizeOnTakeoffPage": "Változtassa meg a betűméretet ezen a felmérési oldalon.",
     "takeoff.lineWidthOnTakeoffPage": "Változtassa meg a vonalvastagságot ezen a felmérési oldalon.",
     "takeoff.resultBoxOnTakeoffPage": "Váltson az eredménydoboz láthatóságán ezen a felmérési oldalon.",
-    "takeoff.planDropPlan": "Húzza és dobja be a BMP, GIF, ICO, SVG, PDF, JPG, PNG és WEBP fájlokat ide.",
+    "takeoff.planDropPlan": "Húzza és dobja be a JPG, PNG és PDF fájlokat ide.",
     "takeoff.planDrag": "Húzza és dobja át a terveket a rendezéshez.",
     "takeoff.planFile": "Terv.",
     "takeoff.planPage": "Tervoldal.",
