@@ -136,7 +136,7 @@
     "takeoff.languageSelector": "Nyelvválasztó",
     "bidDescription": "Az BID alkalmazással könnyedén készíthet tervek felmérését.",
     "acceptTheLicense": "Elolvastam, megértettem, elfogadom a felhasználási feltételeket és a cookie-szabályzatot.",
-    "thisCouldBeYourAdvertisement": "Lehetősége van az reklám elhelyezésére itt. Ha érdekli, kérjük, lépjen kapcsolatba velünk a gondasoftware+ad@gmail.com címen.",
+    "thisCouldBeYourAdvertisement": "Lehetősége van reklám elhelyezésére itt. Ha érdekli, kérjük, lépjen kapcsolatba velünk a gondasoftware+ad@gmail.com címen.",
     "takeoff.goToTakeoffPage": "Ugrás a felmérési oldalra.",
     "takeoff.goToHelpPage": "Ugrás a súgó oldalra.",
     "error": "Hiba",
@@ -208,5 +208,6 @@
     "takeoff.volumeLineWidth": "Adja meg a szélességét a térfogatnak.",
     "takeoff.volumeLineDepth": "Adja meg a mélységét a térfogatnak.",
     "takeoff.volumeLineRectangleWidthDepthDraw": "Activálja a negyszög rajzolási módot a térfogat megadásához.",
-    "takeoff.volumeWidthChange": "Változtassa meg a szélességét a térfogatnak."
+    "takeoff.volumeWidthChange": "Változtassa meg a szélességét a térfogatnak.",
+    "takeoff.copyExistingPlanScalerLine": "Másolja át a méretezési vonalat egy másik felmérési oldalról."
 }

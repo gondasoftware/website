@@ -208,5 +208,6 @@
     "takeoff.volumeLineWidth": "Specify the width of the volume.",
     "takeoff.volumeLineDepth": "Specify the depth of the volume.",
     "takeoff.volumeLineRectangleWidthDepthDraw": "Activate line rectangle takeoff drawing element to specify a volume.",
-    "takeoff.volumeWidthChange": "Change the width of the volume."
+    "takeoff.volumeWidthChange": "Change the width of the volume.",
+    "takeoff.copyExistingPlanScalerLine": "Copy the scaler line from an another takeoff page."
 }
