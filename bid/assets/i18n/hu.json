@@ -209,5 +209,6 @@
     "takeoff.volumeLineDepth": "Adja meg a mélységét a térfogatnak.",
     "takeoff.volumeLineRectangleWidthDepthDraw": "Activálja a negyszög rajzolási módot a térfogat megadásához.",
     "takeoff.volumeWidthChange": "Változtassa meg a szélességét a térfogatnak.",
-    "takeoff.copyExistingPlanScalerLine": "Másolja át a méretezési vonalat egy másik felmérési oldalról."
+    "takeoff.copyExistingPlanScalerLine": "Másolja át a méretezési vonalat egy másik felmérési oldalról.",
+    "takeoff.shapeCopy": "Készítsen egy másolatot a kiválasztott felmérés elemről."
 }
