@@ -210,5 +210,6 @@
     "takeoff.volumeLineRectangleWidthDepthDraw": "Négyszög rajzolási mód aktiválása térfogat megadásához.",
     "takeoff.volumeWidthChange": "Térfogat szélességének megváltoztatása.",
     "takeoff.copyExistingPlanScalerLine": "Méretezési vonal másolása egy másik felmérési oldalról.",
-    "takeoff.shapeCopy": "Felmérési elem másolása."
+    "takeoff.shapeCopy": "Felmérési elem másolása.",
+    "letsGetStarted": "GYERÜNK AZ APPLIKÁCIÓ OLDALÁRA "
 }
