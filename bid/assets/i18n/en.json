@@ -211,5 +211,6 @@
     "takeoff.volumeWidthChange": "Change the width of the volume.",
     "takeoff.copyExistingPlanScalerLine": "Copy the scaler line from an another takeoff page.",
     "takeoff.shapeCopy": "Create a copy of this measurement",
-    "letsGetStarted": "GO TO THE APPLICATION "
+    "letsGetStarted": "GO TO THE APPLICATION ",
+    "takeoff.showMeasurementDetailsAfterGotFullySetup": "Show the measurement details."
 }

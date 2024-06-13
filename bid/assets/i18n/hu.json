@@ -211,5 +211,6 @@
     "takeoff.volumeWidthChange": "Térfogat szélességének megváltoztatása.",
     "takeoff.copyExistingPlanScalerLine": "Méretezési vonal másolása egy másik felmérési oldalról.",
     "takeoff.shapeCopy": "Felmérési elem másolása.",
-    "letsGetStarted": "UGRÁS AZ APPLIKÁCIÓ OLDALÁRA "
+    "letsGetStarted": "UGRÁS AZ APPLIKÁCIÓ OLDALÁRA ",
+    "takeoff.showMeasurementDetailsAfterGotFullySetup": "Méretrészletek mutatása vagy elrejtése."
 }
