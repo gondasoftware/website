@@ -212,5 +212,10 @@
     "takeoff.copyExistingPlanScalerLine": "Méretezési vonal másolása egy másik felmérési oldalról.",
     "takeoff.shapeCopy": "Felmérési elem másolása.",
     "letsGetStarted": "UGRÁS AZ APPLIKÁCIÓ OLDALÁRA ",
-    "takeoff.showMeasurementDetailsAfterGotFullySetup": "Méretrészletek mutatása vagy elrejtése."
+    "takeoff.showMeasurementDetailsAfterGotFullySetup": "Méretrészletek mutatása vagy elrejtése.",
+    "takeoff.openTakeoffInNewTab": "A felmérés részleteinek megnyitása új lapon.",
+    "takeoff.openTakeoffPageInNewTab": "A felmérési oldal részleteinek megnyitása új lapon.",
+    "takeoff.openTakeoffContainerInNewTab": "A felmérési kategória részleteinek megnyitása új lapon.",
+    "takeoff.takeoffContainerName02": "Felmérés kategória neve.",
+    "takeoff.openTakeoffAllInNewTab": "A felmérés részleteinek megnyitása új lapon."
 }
