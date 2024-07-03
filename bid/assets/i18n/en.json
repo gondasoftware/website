@@ -217,5 +217,7 @@
     "takeoff.openTakeoffPageInNewTab" : "Open the takeoff page detailed results in new tab.",
     "takeoff.openTakeoffContainerInNewTab" : "Open the takeoff container detailed results in new tab.",
     "takeoff.takeoffContainerName02": "Takeoff Container Name",
-    "takeoff.openTakeoffAllInNewTab" : "Open the detailed results in new tab."
+    "takeoff.openTakeoffAllInNewTab" : "Open the detailed results in new tab.",
+    "takeoff.downloadXlsx": "Download result in xlsx format.",
+    "takeoff.opeResultInNewTab": "Open result in a new tab."
 }

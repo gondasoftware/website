@@ -217,5 +217,7 @@
     "takeoff.openTakeoffPageInNewTab": "A felmérési oldal részleteinek megnyitása új lapon.",
     "takeoff.openTakeoffContainerInNewTab": "A felmérési kategória részleteinek megnyitása új lapon.",
     "takeoff.takeoffContainerName02": "Felmérés kategória neve.",
-    "takeoff.openTakeoffAllInNewTab": "A felmérés részleteinek megnyitása új lapon."
+    "takeoff.openTakeoffAllInNewTab": "A felmérés részleteinek megnyitása új lapon.",
+    "takeoff.downloadXlsx": "A végeredmény letöltése xlsx formátumban.",
+    "takeoff.opeResultInNewTab": "A végeredmény megnyitása új lapon."
 }
