@@ -219,5 +219,6 @@
     "takeoff.takeoffContainerName02": "Felmérés kategória neve.",
     "takeoff.openTakeoffAllInNewTab": "A felmérés részleteinek megnyitása új lapon.",
     "takeoff.downloadXlsx": "A végeredmény letöltése xlsx formátumban.",
-    "takeoff.opeResultInNewTab": "A végeredmény megnyitása új lapon."
+    "takeoff.opeResultInNewTab": "A végeredmény megnyitása új lapon.",
+    "takeoff.theCircleIsTooBig" : "A kör túl nagy!"
 }
