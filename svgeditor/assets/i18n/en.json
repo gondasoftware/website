@@ -40,7 +40,17 @@
    "textOfTheTextElement": "Text.",
    "shapeCopy": "Copy the selected shape(s).",
    "deleteShape": "Delete the selected shape(s).",
-   "showHideMarkerModification": "Show/hide marker modification tools."
-
-
+   "showHideMarkerModification": "Show/hide marker modification tools.",
+   "L": "Line.",
+   "H": "Horizontal line.",
+   "V": "Vertical line.",
+   "C": "Curve.",
+   "Q": "Quadratic Bézier curve.",
+   "S": "Smooth curve.",
+   "T": "Smooth quadratic Bézier curve",
+   "A": "Arc.",
+   "A2": "Arc.",
+   "M": "Move to.",
+   "CS": "Curve and Smooth curve together.",
+   "QT": "Quadratic Bézier curve and Smooth quadratic Bézier curve together."
 }

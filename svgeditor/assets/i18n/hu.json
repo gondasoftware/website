@@ -40,5 +40,17 @@
     "textOfTheTextElement": "Szöveg.",
     "shapeCopy": "Másolja a kijelölt alakzatot/alakzatokat.",
     "deleteShape": "Törölje a kijelölt alakzatot/alakzatokat.",
-    "showHideMarkerModification": "Jelölő módosító eszközök megjelenítése/elrejtése."
+    "showHideMarkerModification": "Jelölő módosító eszközök megjelenítése/elrejtése.",
+    "L": "Vonal.",
+   "H": "Vízszintes vonal.",
+   "V": "Függőleges vonal.",
+   "C": "Görbe.",
+   "Q": "Kvadratikus Bézier-görbe.",
+   "S": "Sima görbe.",
+   "T": "Sima kvadratikus Bézier-görbe.",
+   "A": "Körív.",
+   "A2": "Körív.",
+   "M": "Mozgás ide.",
+   "CS": "Görbe és sima görbe együtt.",
+   "QT": "Kvadratikus Bézier-görbe és sima kvadratikus Bézier-görbe együtt."
  }
