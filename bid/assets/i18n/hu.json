@@ -35,7 +35,7 @@
     "takeoff.areaLineHeightActualHeight": "A rajzolt terület magasságának megadása. Használja ezt az eszközt egy terület létrehozásához nézetiránnyal párhuzamosan.",
     "takeoff.areaArcAndLineChainDraw": "A körív és vonallánc felmérési elem aktiválása egy terület megadásához nézetiránnyal párhuzamosan.",
     "takeoff.areaArcAndLineChainDrawActualHeight": "A rajzolt terület magasságának megadása a körív és vonallánc esetében. Használja ezt az eszközt egy terület létrehozásához nézetiránnyal párhuzamosan.",
-    "takeoff.areaRectangleDraw": "A téglalap felmérési elem aktiválása egy terület megadásához nézetirányral merőlegesen.",
+    "takeoff.areaRectangleDraw": "A téglalap felmérési elem aktiválása egy terület megadásához nézetirányra merőlegesen.",
     "takeoff.areaRectangleDrawPitch": "A rajzolt téglalap dőlésszögének megadása.",
     "takeoff.ArcAndLineChainPerpedicularDraw": "A körív és vonallánc felmérési elem aktiválása egy terület megadásához nézetirányral merőlegesen.",
     "takeoff.ArcAndLineChainPerpedicularDrawPitch": "A rajzolt ív és vonallánc dőlésszögének megadása.",
@@ -50,7 +50,7 @@
     "takeoff.takeoffElementAdditionalText": "További információk megadása a rajzolt felmérés elemről.",
     "takeoff.selectionMode": "A kiválasztási és módosítási mód aktiválása a felmérés elem tulajdonságainak kiválasztásához és módosításához.",
     "takeoff.outlineColor": "A felmérés elem kontúrszínének megadása.",
-    "takeoff.outlineOpacity": "A felmérés elem kontúrának átlátszóságának megadása.",
+    "takeoff.outlineOpacity": "A felmérés elem kontúrjának átlátszóságának megadása.",
     "takeoff.fillColor": "A felmérés elem kitöltési színének megadása.",
     "takeoff.fillOpacity": "A felmérés elem kitöltési átlátszóságának megadása.",
     "takeoff.takeoffPageLevelCalculation": "A felmérés elemek számítási eredményeinek megtekintése ezen az oldalon.",
@@ -220,5 +220,11 @@
     "takeoff.openTakeoffAllInNewTab": "A felmérés részleteinek megnyitása új lapon.",
     "takeoff.downloadXlsx": "A végeredmény letöltése xlsx formátumban.",
     "takeoff.opeResultInNewTab": "A végeredmény megnyitása új lapon.",
-    "takeoff.theCircleIsTooBig" : "A kör túl nagy!"
+    "takeoff.theCircleIsTooBig" : "A kör túl nagy!",
+    "takeoff.roofRidgeOrValleyTool": "Élgerinc vagy hajlat (vápa) felmérési eszköz.",
+    "takeoff.roofPitchDirection": "Tető hajlásszög iránya.",
+    "takeoff.roofRidgeOrValleyPitchDirection": "Élgerinc vagy hajlat (vápa) hajlásszög iránya.",
+    "takeoff.pitch": "Hajlásszög",
+    "takeoff.realLength": "Igazi hossz",
+    "takeoff.lockShapeEdit": "Zárold a felmérési elem szerkesztését."
 }

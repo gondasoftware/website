@@ -220,5 +220,11 @@
     "takeoff.openTakeoffAllInNewTab" : "Open the detailed results in new tab.",
     "takeoff.downloadXlsx": "Download result in xlsx format.",
     "takeoff.opeResultInNewTab": "Open result in a new tab.",
-    "takeoff.theCircleIsTooBig" : "The circle is too big!"
+    "takeoff.theCircleIsTooBig" : "The circle is too big!",
+    "takeoff.roofRidgeOrValleyTool": "Roof ridge or valley measurement tool.",
+    "takeoff.roofPitchDirection": "Roof pitch direction.",
+    "takeoff.roofRidgeOrValleyPitchDirection": "Ridge or valley pitch direction.",
+    "takeoff.pitch": "Pitch",
+    "takeoff.realLength": "Real length",
+    "takeoff.lockShapeEdit": "Lock the shape."
 }
