@@ -226,5 +226,7 @@
     "takeoff.roofRidgeOrValleyPitchDirection": "Ridge or valley pitch direction.",
     "takeoff.pitch": "Pitch",
     "takeoff.realLength": "Real length",
-    "takeoff.lockShapeEdit": "Lock the shape."
+    "takeoff.lockShapeEdit": "Lock the shape.",
+    "takeoff.pdfLineLengthThreshold": "Pdf line length threshold. 0 will show every point. 500 will make every point disappear.",
+    "takeoffPage.pdfPointDiameter": "Pdf point diameter."
 }
