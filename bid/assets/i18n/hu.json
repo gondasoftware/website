@@ -228,5 +228,6 @@
     "takeoff.realLength": "Igazi hossz",
     "takeoff.lockShapeEdit": "Zárold a felmérési elem szerkesztését.",
     "takeoff.pdfLineLengthThreshold": "Pdf vonalhossz küszöbérték. 0 esetén minden pont látható. 500-nál minden pdf pont eltűnik.",
-    "takeoffPage.pdfPointDiameter": "Pdf pont átmérő."
+    "takeoff.pdfPointDiameter": "Pdf pont átmérő.",
+    "takeoff.showPdfPointLineWidth": "Pdf pontok mutatása vonalvastagság szerint."
 }

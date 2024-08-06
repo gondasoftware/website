@@ -228,5 +228,6 @@
     "takeoff.realLength": "Real length",
     "takeoff.lockShapeEdit": "Lock the shape.",
     "takeoff.pdfLineLengthThreshold": "Pdf line length threshold. 0 will show every point. 500 will make every point disappear.",
-    "takeoffPage.pdfPointDiameter": "Pdf point diameter."
+    "takeoff.pdfPointDiameter": "Pdf point diameter.",
+    "takeoff.showPdfPointLineWidth": "Select pdf points by line width."
 }
