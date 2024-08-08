@@ -200,6 +200,7 @@
     "takeoff.openQuantityGroupInNewTab": "Mennyiség csoport részleteinek megnyitása új lapon.",
     "takeoff.openQuantityGroupsInNewTab": "Mennyiség csoportok részleteinek megnyitása új lapon.",
     "takeoff.quantityGroupName": "Mennyiségi csoport neve.",
+    "takeoff.quantityGroupContainerName": "Mennyiségi csoport tároló neve.",
     "takeoff.takeoffName02": "Felmérés neve.",
     "takeoff.takeoffPageName02": "Felmérési oldal neve.",
     "takeoff.MeasurementResult": "Mérés eredménye.",
@@ -229,5 +230,11 @@
     "takeoff.lockShapeEdit": "Zárold a felmérési elem szerkesztését.",
     "takeoff.pdfLineLengthThreshold": "Pdf vonalhossz küszöbérték. 0 esetén minden pont látható. 500-nál minden pdf pont eltűnik.",
     "takeoff.pdfPointDiameter": "Pdf pont átmérő.",
-    "takeoff.showPdfPointLineWidth": "Pdf pontok mutatása vonalvastagság szerint."
+    "takeoff.showPdfPointLineWidth": "Pdf pontok mutatása vonalvastagság szerint.",
+    "takeoff.quantityGroupContainerDeletion": "Mennyiségi csoport tároló törlése.",
+    "takeoff.quantityGroupContainerDeletionQuestion": "Valóban törölni szeretné ezt a mennyiségi csoport tárolót?",
+    "takeoff.createNewQuantityGroupContainer": "Új mennyiség csoport tároló létrehozása.",
+    "takeoff.quantityGroupDropdownMenu": "Mennyiségi csoportok  mutatása vagy elrejtése ebben a kategóriában.",
+    "takeoff.quantityGropContainer": "Mennyiségi csoport tároló.",
+    "takeoff.quantityGropContainerName": "Mennyiségi csoport tároló neve."
 }

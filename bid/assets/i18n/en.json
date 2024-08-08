@@ -200,6 +200,7 @@
     "takeoff.openQuantityGroupInNewTab" : "Open the quantity group detaild result in new tab.",
     "takeoff.openQuantityGroupsInNewTab" : "Open the quantity groups detailed results in new tab.",
     "takeoff.quantityGroupName": "Quantity Group Name",
+    "takeoff.quantityGroupContainerName": "Quantity Group Container Name",
     "takeoff.takeoffName02": "Takeoff Name",
     "takeoff.takeoffPageName02": "Takeoff Page Name",
     "takeoff.MeasurementResult": "Measurement Result",
@@ -229,5 +230,11 @@
     "takeoff.lockShapeEdit": "Lock the shape.",
     "takeoff.pdfLineLengthThreshold": "Pdf line length threshold. 0 will show every point. 500 will make every point disappear.",
     "takeoff.pdfPointDiameter": "Pdf point diameter.",
-    "takeoff.showPdfPointLineWidth": "Select pdf points by line width."
+    "takeoff.showPdfPointLineWidth": "Select pdf points by line width.",
+    "takeoff.quantityGroupContainerDeletion": "Guantity group container deletion",
+    "takeoff.quantityGroupContainerDeletionQuestion": "Do you really want to delete this quantity group container ?",
+    "takeoff.createNewQuantityGroupContainer": "Create a new quantity group container.",
+    "takeoff.quantityGroupDropdownMenu": "Show or hide quantity groups in this category.",
+    "takeoff.quantityGropContainer": "Quantity group container.",
+    "takeoff.quantityGropContainerName": "Name of the Quantity group container."
 }
