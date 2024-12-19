@@ -237,5 +237,6 @@
     "takeoff.quantityGroupDropdownMenu": "Show or hide quantity groups in this category.",
     "takeoff.quantityGropContainer": "Quantity group container.",
     "takeoff.quantityGropContainerName": "Name of the Quantity group container.",
-    "takeoff.showHidePdfPoint": "Show / hide pdf points."
+    "takeoff.showHidePdfPoint": "Show / hide pdf points.",
+    "takeoff.showHideHiddenIcons": "Show / hide additional buttons."
 }
