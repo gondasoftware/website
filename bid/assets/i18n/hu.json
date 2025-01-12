@@ -14,6 +14,7 @@
     "takeoff.freezeDrawing": "A felmérés átméretezésének lezárása / feloldása.",
     "save": "Mentés",
     "load": "Betöltés",
+    "loadExampleProject": "Minta projekt betöltése.",
     "takeoff.saveLoadPlanPart": "A terv rész mentése / betöltése.",
     "takeoff.saveLoadDrawingPart": "A felmérés mentése / betöltése.",
     "length": "Hossz",
