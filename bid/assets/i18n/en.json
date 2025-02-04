@@ -14,6 +14,7 @@
     "takeoff.freezeDrawing": "Lock the takeoff overlay.",
     "save": "Save",
     "load": "Load",
+    "clear": "New project",
     "loadExampleProject": "Load example project.",
     "takeoff.saveLoadPlanPart": "Include the plan part when saving / loading.",
     "takeoff.saveLoadDrawingPart": "Include the takeoff part when saving / loading.",
