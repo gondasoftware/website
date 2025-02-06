@@ -242,5 +242,6 @@
     "takeoff.quantityGropContainer": "Quantity group container.",
     "takeoff.quantityGropContainerName": "Name of the Quantity group container.",
     "takeoff.showHidePdfPoint": "Show / hide pdf points.",
-    "takeoff.showHideHiddenIcons": "Show / hide additional buttons."
+    "takeoff.showHideHiddenIcons": "Show / hide additional buttons.",
+    "busy" : "The application is busy please try again later."
 }
