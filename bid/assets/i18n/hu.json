@@ -243,5 +243,6 @@
     "takeoff.quantityGropContainerName": "Mennyiségi csoport tároló neve.",
     "takeoff.showHidePdfPoint": "Pontok mutatása vagy elrejtése.",
     "takeoff.showHideHiddenIcons": "További gombok mutatása vagy elrejtése.",
-    "busy" : "Az alkalmazás más utasítást hajt végre, kérjük, próbálja újra később."
+    "busy" : "Az alkalmazás más utasítást hajt végre, kérjük, próbálja újra később.",
+    "takeoff.canvasBackground" : "A rajztábla háttérszíne.."
 }

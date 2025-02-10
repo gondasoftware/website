@@ -243,5 +243,6 @@
     "takeoff.quantityGropContainerName": "Name of the Quantity group container.",
     "takeoff.showHidePdfPoint": "Show / hide points.",
     "takeoff.showHideHiddenIcons": "Show / hide additional buttons.",
-    "busy" : "The application is busy please try again later."
+    "busy" : "The application is busy please try again later.",
+    "takeoff.canvasBackground" : "Background color of the drawing area."
 }
