@@ -69,20 +69,59 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-3 d-none d-lg-block"></div>
-        <div class="col-12 col-lg-6">
+        <div class="col-12 col-lg-12">
           <div class="row row-cols-1 g-3" data-masonry='{"percentPosition": true }'>
             <!-- BID Card -->
             <div class="col">
               <div class="card border-dark shadow">
                 <img src="./bid/assets/image/sample_03.png" class="card-img-top" alt="BID - Construction Takeoff Software">
                 <div class="card-body">
-                  <h5 class="card-title">BID Takeoff &copy;</h5>
-                  <p class="card-text">Construction takeoff and material estimation software.</p>
-                  <a href="./bid/" class="card-link">Explore BID Takeoff &copy;</a>
-				  <br><br>
+					<h3 class="card-title">BID Takeoff &copy;</h3>
+					<br>
+					<h4>Fast and Accurate Quantity Takeoff for Construction Projects!</h4>
+
+					<p>Discover the <strong>BID Takeoff</strong> application, which simplifies the quantity takeoff process for construction budgeting!</p>
+					
+					<p><strong>👉 Visit now:</strong> <a href="https://gondasoftware.eu/bid/">https://gondasoftware.eu/bid/</a></p>
+					
+					<h4>Why Choose BID Takeoff?</h4>
+					<ul>
+						<li>📐 Fast and precise quantity takeoff</li>
+						<li>📂 Supports PNG, JPEG, PDF, and DXF blueprint formats</li>
+						<li>🌐 Publish results on your own website or DokuWiki</li>
+						<li>🔒 Maximum data security – no project data is collected!</li>
+						<li>💰 Cost-effective alternative to expensive BIM software</li>
+					</ul>
+					
+					<p>🔹 Perfect solution for both public and private construction projects! 🔹</p>
+					
+					<p>💡 Upon request, we offer a <strong>free online demo</strong> to showcase the benefits of our application!</p>
+					
+					<p><strong>Try it now!</strong> 🚀</p>
+
+					<a href="./bid/" class="card-link">Explore BID Takeoff &copy;</a>
+					<br><br>
 					<a href="./examples/bid_takeoff_embed.html" class="card-link">See an example of embedding the BID &copy; application in another page.</a>
 					<br><br>
 					<a href="./examples/gsbidtakeoff_dokuwiki_plugin.zip" class="card-link">Download the Dokuwiki plugin for embedding the BID &copy; application.</a>
+                </div>
+              </div>
+            </div>
+			<!-- BID Card -->
+            <div class="col">
+              <div class="card border-dark shadow" >
+                <iframe id="gsbidtakeoff_2" 
+                    width="100%"
+                    height="600px"
+                    class="gs-iframe" 
+                    src="https://gondasoftware.eu/bid/?embed=1&saveBtn=1&loadBtn=1&embedSaveBtn=0&embedLoadBtn=1&newProjectBtn=1&editable=1&" 
+					frameborder="0"></iframe>
+                <div class="card-body">
+                  <h3 class="card-title">BID Takeoff &copy; embed</h3>
+				  <br>
+                  <h4>Seamlessly Embed BID Takeoff on Your Website!</h4>
+					<p>Experience how effortlessly you can integrate the BID Takeoff application into your own web pages. Fully editable and customizable to fit your needs!</p>
+                  <a href="https://gondasoftware.eu/bid/" class="card-link">Explore BID Takeoff &copy;</a>
                 </div>
               </div>
             </div>
@@ -163,6 +202,62 @@
       <p>&copy; 2025 GONDA Software. All rights reserved.</p>
       <p>Address: Szeged, Hungary | Email: <a href="mailto:gondasoftware+info@gmail.com" class="text-white">gondasoftware+info@gmail.com</a></p>
     </footer>
+	
+<script>
+function openSavedTakeoff(instanceID) {
+
+	let iframe = document.getElementById(instanceID);
+    if (!iframe) return;
+	
+	fetch('https://gondasoftware.eu/examples/bid_example_hu.data')
+	  .then(res => res.blob())
+	  .then(blob => {
+	  
+		const message = {
+			stringData: "parent-->child___load_this_data",
+			blobData: blob
+		};
+
+		iframe.contentWindow.postMessage(message, "*");
+		
+	});
+
+}
+
+window.addEventListener("message", function(event) {
+
+    try {
+
+        let action;
+        let blobData;
+        try {
+            action = event.data.action;
+            blobData = event.data.blobData;
+        } catch (error) {
+            return;
+        }
+
+        let iframes = document.querySelectorAll(".gs-iframe");
+
+        let senderIframe = Array.from(iframes).find(iframe => iframe.contentWindow === event.source);
+        if (!senderIframe) return;
+
+        let instanceID = senderIframe.id;
+
+        if(instanceID === null || !instanceID.startsWith("gsbidtakeoff_")) return;
+
+        if (action === "child-->parent___save_this_data") {
+        }else if(action === "child-->parent___dom_content_loaded_in_child"){
+            openSavedTakeoff(instanceID);
+        }else if(action === "child-->parent___send_me_the_data_to_load"){
+            openSavedTakeoff(instanceID);
+        }
+
+    } catch (error) {
+        console.error("Error processing message:", error);
+    }
+}, false);
+</script>
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
