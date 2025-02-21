@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gondasoftware.eu/</loc>
-    <lastmod>2025-01-09</lastmod>
+    <lastmod>2025-02-21</lastmod>
 	<changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://gondasoftware.eu/bid/</loc>
-    <lastmod>2025-01-09</lastmod>
+    <lastmod>2025-02-21</lastmod>
+	<changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+   <url>
+    <loc>https://gondasoftware.eu/examples/bid/takeoff.html</loc>
+    <lastmod>2025-02-21</lastmod>
+	<changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+   <url>
+    <loc>https://gondasoftware.eu/examples/bid/website-embed.html</loc>
+    <lastmod>2025-02-21</lastmod>
+	<changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+     <url>
+    <loc>https://gondasoftware.eu/examples/bid/dokuwiki-embed.html</loc>
+    <lastmod>2025-02-21</lastmod>
+	<changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+     <url>
+    <loc>https://gondasoftware.eu/examples/bid/wordpress-embed.html</loc>
+    <lastmod>2025-02-21</lastmod>
 	<changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
