@@ -124,7 +124,7 @@
     "takeoff.fontSizeOnTakeoffPage": "A betűméret módosítása ezen a felmérési oldalon.",
     "takeoff.lineWidthOnTakeoffPage": "A vonalvastagság módosítása ezen a felmérési oldalon.",
     "takeoff.resultBoxOnTakeoffPage": "Az eredménydoboz láthatóságának váltása ezen a felmérési oldalon.",
-    "takeoff.planDropPlan": "JPG, PNG, PDF és DXF  fájlok ejtése ide.",
+    "takeoff.planDropPlan": "JPG, PNG, PDF, DXF és DWG fájlok ejtése ide.",
     "takeoff.planDrag": "A tervek átrendezése húzással és ejtéssel.",
     "takeoff.planFile": "Terv.",
     "takeoff.planPage": "Tervoldal.",

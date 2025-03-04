@@ -124,7 +124,7 @@
     "takeoff.fontSizeOnTakeoffPage": "Change the font size on this takeoff page.",
     "takeoff.lineWidthOnTakeoffPage": "Change the line width on this takeoff page.",
     "takeoff.resultBoxOnTakeoffPage": "Toggle the visibility of the result box on this takeoff page.",
-    "takeoff.planDropPlan": "Drag and drop PNG, JPG, PDF and DXF  files here.",
+    "takeoff.planDropPlan": "Drag and drop PNG, JPG, PDF, DXF and DWG files here.",
     "takeoff.planDrag": "Drag and drop to rearrange plans.",
     "takeoff.planFile": "Plan.",
     "takeoff.planPage": "Plan page.",
