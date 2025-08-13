@@ -32,5 +32,9 @@
     "bim.hideEverything": "Hide everything.",
     "bim.dragTheWindow": "Drag the window.",
     "bim.showHideDropdownMenu": "Show / Hide dropdown menu.",
-    "bim.dropTheIfcFilesHere": "Drop the IFC files here."
+    "bim.dropTheIfcFilesHere": "Drop the IFC files here.",
+    "bim.deletionWarning": "Deletion warning",
+    "bim.deletionQuestion": "Do you really want to delete?",
+    "bim.yes": "yes",
+    "bim.no": "no"
 }
