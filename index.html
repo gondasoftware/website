@@ -1,187 +1,97 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gonda Software - Innovative Software Solutions</title>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gonda Software</title>
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
 
-    <!-- Meta Tags for SEO -->
-    <meta name="description" content="Gonda Software offers a range of innovative applications including construction takeoff, SVG editing, Gantt chart creation, UML sequence diagramming, calorie calculation, flashcard learning, and lottery number analysis.">
-    <meta name="keywords" content="Gonda Software, Construction Software, SVG Editor, Gantt Chart, UML Sequence, Calorie Calculator, Flashcards, Lottery Analyzer">
-    <meta name="author" content="Gonda Software">
-
-    <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Gonda Software - Innovative Software Solutions">
-    <meta property="og:description" content="Explore our suite of tools for productivity and creativity including BID, SVG Editor, Gantt Chart, and more.">
-    <meta property="og:url" content="https://gondasoftware.eu/">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Gonda Software">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:image" content="https://gondasoftware.eu/GONDA_software.png">
-
-    <!-- Favicon -->
-    <link rel="icon" href="https://gondasoftware.eu/GondaSoftware.ico" type="image/x-icon">
-
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
-
-    <style>
-      body {
-        padding-top: 65px;
-      }
-    </style>
-  </head>
-  <body>
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm fixed-top">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">Gonda Software</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Applications
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="./bid/">BID &copy;</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-
-    <!-- Main Content -->
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-3 d-none d-lg-block"></div>
-        <div class="col-12 col-lg-12">
-          <div class="row row-cols-1 g-3" data-masonry='{"percentPosition": true }'>
-            <!-- BID Card -->
-            <div class="col">
-              <div class="card border-dark shadow">
-                <img style="border:2px solid black" src="./images/Screenshot 2025-02-20 062907.png" class="card-img-top" alt="BID - Construction Takeoff Software">
-				<br><br>
-				<img style="border:2px solid black" src="./images/Screenshot 2025-02-20 064042.png" class="card-img-top" alt="BID - Construction Takeoff Software">
-                <br><br>
-				<div class="card-body">
-					<h3 class="card-title">BID Takeoff &copy;</h3>
-					<br>
-					<h4>Fast and Accurate Quantity Takeoff for Construction Projects!</h4>
+      <a class="navbar-brand fw-bold" href="#">Gonda Software</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="#products">Products</a></li>
+          <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
-					<p>Discover the <strong>BID Takeoff</strong> application, which simplifies the quantity takeoff process for construction budgeting!</p>
-					
-					<p><strong>👉 Visit now:</strong> <a href="https://gondasoftware.eu/bid/">https://gondasoftware.eu/bid/</a></p>
-					
-					<h4>Why Choose BID Takeoff?</h4>
-					<ul>
-						<li>📐 Fast and precise quantity takeoff</li>
-						<li>📂 Supports PNG, JPEG, PDF, DXF and DWG blueprint formats</li>
-						<li>🌐 Publish results on your own website or DokuWiki</li>
-						<li>🔒 Maximum data security – no project data is collected!</li>
-						<li>💰 Cost-effective alternative to expensive BIM software</li>
-					</ul>
-					
-					<p>🔹 Perfect solution for both public and private construction projects! 🔹</p>
-					
-					<p>💡 Upon request, we offer a <strong>free online demo</strong> to showcase the benefits of our application!</p>
-					
-					<p><strong>Try it now!</strong> 🚀</p>
+  <!-- Hero Section -->
+  <header class="bg-light text-dark py-5 mt-5">
+    <div class="container text-center">
+      <h1 class="display-4 fw-bold">Welcome to Gonda Software</h1>
+      <p class="lead">Innovative solutions for construction and engineering professionals</p>
+    </div>
+  </header>
 
-					<a href="./bid/" class="card-link">🚀 Explore BID Takeoff &copy;</a>
-					<br><br>
-					<a href="./examples/bid_takeoff_embed.html" class="card-link">🔗 See an example of embedding the BID Takeoff &copy; application in another page.</a>
-					<br><br>
-					<a href="./examples/gsbidtakeoff_dokuwiki_plugin.zip" class="card-link">📥 Download the Dokuwiki plugin for embedding the BID Takeoff &copy; application.</a>
-					<br><br>
-					<a href="./examples/wp-bid-takeoff.zip" class="card-link">📥 Download the WordPress plugin for embedding the BID Takeoff &copy; application.</a>
-					<br><br>
-					<a href="./examples/bid/takeoff.html" class="card-link">📄 Simple example of how to use the BID Takeoff &copy; application.</a>
-					<br><br>
-					<a href="./examples/bid/dokuwiki-embed.html" class="card-link">📖 Example of how to use the BID Takeoff &copy; Dokuwiki Embed Plugin.</a>
-					<br><br>
-					<a href="./examples/bid/wordpress-embed.html" class="card-link">📝 Simple example of how to use the BID Takeoff &copy; WordPress Embed Plugin.</a>
-					<br><br>
-					<a href="./examples/bid/website-embed.html" class="card-link">🌍 Simple example of how to embed the BID Takeoff &copy; into your website.</a>
-										
-                </div>
-              </div>
+  <!-- Products Section -->
+  <section id="products" class="py-5">
+    <div class="container">
+      <div class="text-center mb-5">
+        <h2 class="fw-bold">Our Products</h2>
+        <p class="text-muted">Powerful tools designed to enhance your workflow</p>
+      </div>
+      <div class="row g-4">
+
+        <!-- BID Takeoff -->
+        <div class="col-md-6">
+          <div class="card h-100 shadow-sm">
+            <div class="card-body text-center">
+              <h5 class="card-title fw-bold">BID Takeoff</h5>
+              <p class="card-text">Measure length, area, and volume directly from images and PDFs to streamline your project estimation.</p>
+              <a href="https://gondasoftware.eu/bid/" class="btn btn-primary" target="_blank">Learn More</a>
             </div>
           </div>
         </div>
-        <div class="col-lg-3 d-none d-lg-block"></div>
+
+        <!-- BIM Viewer -->
+        <div class="col-md-6">
+          <div class="card h-100 shadow-sm">
+            <div class="card-body text-center">
+              <h5 class="card-title fw-bold">BIM Viewer</h5>
+              <p class="card-text">Load IFC models, select and hide/unhide elements, and create comprehensive project views with ease.</p>
+              <a href="https://gondasoftware.eu/bim/" class="btn btn-primary" target="_blank">Learn More</a>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
+  </section>
 
-    <!-- Footer -->
-    <footer class="bg-dark text-white text-center py-3">
-      <p>&copy; 2025 Gonda Software. All rights reserved.</p>
-      <p>Address: Szeged, Hungary | Email: <a href="mailto:gondasoftware+info@gmail.com" class="text-white">gondasoftware+info@gmail.com</a></p>
-    </footer>
-	
-<script>
-function openSavedTakeoff(instanceID) {
+  <!-- About Section -->
+  <section id="about" class="bg-light py-5">
+    <div class="container text-center">
+      <h2 class="fw-bold mb-3">About Us</h2>
+      <p class="text-muted">Gonda Software specializes in developing innovative software tools for construction, engineering, and design professionals. Our mission is to empower users with intuitive and efficient applications that simplify complex workflows.</p>
+    </div>
+  </section>
 
-	let iframe = document.getElementById(instanceID);
-    if (!iframe) return;
-	
-	fetch('https://gondasoftware.eu/examples/bid_example_hu.data')
-	  .then(res => res.blob())
-	  .then(blob => {
-	  
-		const message = {
-			stringData: "parent-->child___load_this_data",
-			blobData: blob
-		};
+  <!-- Contact Section -->
+  <section id="contact" class="py-5">
+    <div class="container text-center">
+      <h2 class="fw-bold mb-3">Contact Us</h2>
+      <p class="text-muted">Have questions or want to get in touch? Reach out to us anytime.</p>
+      <a href="mailto:gondasoftware+info@gmail.com" class="btn btn-outline-dark">Email Us</a>
+    </div>
+  </section>
 
-		iframe.contentWindow.postMessage(message, "*");
-		
-	});
+  <!-- Footer -->
+  <footer class="bg-dark text-light text-center py-3">
+    <p class="mb-0">&copy; 2025 Gonda Software. All rights reserved.</p>
+  </footer>
 
-}
-
-window.addEventListener("message", function(event) {
-
-    try {
-
-        let action;
-        let blobData;
-        try {
-            action = event.data.action;
-            blobData = event.data.blobData;
-        } catch (error) {
-            return;
-        }
-
-        let iframes = document.querySelectorAll(".gs-iframe");
-
-        let senderIframe = Array.from(iframes).find(iframe => iframe.contentWindow === event.source);
-        if (!senderIframe) return;
-
-        let instanceID = senderIframe.id;
-
-        if(instanceID === null || !instanceID.startsWith("gsbidtakeoff_")) return;
-
-        if (action === "child-->parent___save_this_data") {
-        }else if(action === "child-->parent___dom_content_loaded_in_child"){
-            openSavedTakeoff(instanceID);
-        }else if(action === "child-->parent___send_me_the_data_to_load"){
-            openSavedTakeoff(instanceID);
-        }
-
-    } catch (error) {
-        console.error("Error processing message:", error);
-    }
-}, false);
-</script>
-
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
-  </body>
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
 </html>
